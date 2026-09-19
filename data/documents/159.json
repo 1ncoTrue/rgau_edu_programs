@@ -1,0 +1,722 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/OPOP_06.04.01_Biologiya_Upravlenie_resursami_ghivotnyx.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2026 13:16:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/06.04.01_OPOP_Upravlenie_resursami_ghivotnyx.pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:35:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zie/06.04.01_Biologiya_upravlenie_RGH_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "29.06.2026 15:25:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/06.04.01_Biologiya_2025_upravlenie_RGH.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.06.2025 14:26:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/B1.V.01_Blagopoluchie_ghivotnyx_RPD.pdf",
+    "text": "Б1.В.01 Благополучие животных РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/B1.V.02_Populyacionnaya_biologiya_RPD.pdf",
+    "text": "Б1.В.02 Популяционная биология РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/B1.V.03_Zookulytura_pozvonochnyx_RPD(2).pdf",
+    "text": "Б1.В.03 Зоокультура_позвоночных_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.V.05_Polevye_metody_issledovanii_v_biologii_RPD(1).pdf",
+    "text": "Б1.В.05_Полевые_методы_исследований_в_биологии_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/B1.V.06_Resursy_ptic_RPD(2).pdf",
+    "text": "Б1.В.06_Ресурсы птиц РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.V.07_Bioresursy_vodnyx_ekosistem_RPD.pdf",
+    "text": "Б1.В.07_Биоресурсы_водных_экосистем_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.09_Bioresursy_nazemnyx_ekosistem_RPD.pdf",
+    "text": "Б1.В.09 Биоресурсы наземных экосистем РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.V.11.02_Ryboxozyaistvennaya_ocenka_vodoemov_RPD.pdf",
+    "text": "Б1.В.11.02 Рыбохозяйственная оценка водоемов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/B1.V.11.03_Texnologii_akvakulytury_RPD.pdf",
+    "text": "Б1.В.11.03 Технологии аквакультуры РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/B1.V.11.04_Monitoring_vodnyx_bioresursov_RPD.pdf",
+    "text": "Б1.В.11.04 Мониторинг водных биоресурсов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viq/B1.V.DV.01.01_Metody_izucheniya_bioraznoobraziya_ptic_i_mlekopitayuschix_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.01_Методы изучения биоразнообразия птиц и млекопитающих РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/air/B1.V.DV.01.02_Metody_izucheniya_bioraznoobraziya_ektotermnyx_pozvonochnyx_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.02 Методы изучения биоразнообразия эктотермных позвоночных РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ris/B1.V.DV.02.01_Resursy_zemnovodnyx_RPD(4).pdf",
+    "text": "Б1.В.ДВ.02.01 Ресурсы земноводных РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiq/B1.V.DV.02.02_Resursy_presmykayuschixsya_RPD(3).pdf",
+    "text": "Б1.В.ДВ.02.02 Ресурсы пресмыкающихся РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aip/B1.V.DV.03.01_Soxranenie_bioraznoobraziya_RPD(3).pdf",
+    "text": "Б1.В.ДВ.03.01 «Сохранение биоразнообразия» РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.V.DV.03.02_Oxranyaemye_prirodnye_territorii_RPD(3).pdf",
+    "text": "Б1.В.ДВ.03.02_Охраняемые природные территории_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/B1.O.01_Delovoi_IYA_RPD_compressed(1).pdf",
+    "text": "Б1.О.01_Деловой_ИЯ_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.O.02_FPE_RPD(3).pdf",
+    "text": "Б1.О.02 ФПЕ РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.O.04_Sovremennye_problemy_biologii_RPD_.pdf",
+    "text": "Б1.О.04 «Современные проблемы биологии»_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/B1.O.06_Kognitivnye_mexanizmy_sovladayuschego_povedeniya_RPD(6).pdf",
+    "text": "Б1.О.06 Когнитивные механизмы совладающего поведения РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/B1.O.07_Uchenie_o_biosfere_i_globalynye_ekologicheskie_problemy_RPD.pdf",
+    "text": "Б1.О.07 «Учение о биосфере и глобальные экологические проблемы» РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:02:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.V.11_Blagopoluchie_ghivotnyx_RPD(1).pdf",
+    "text": "Б1.В.01 Благополучие животных РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.V.03_Zookulytura_pozvonochnyx_RPD.pdf",
+    "text": "Б1.В.03 Зоокультура позвоночных РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.V.04_Resursy_mlekopitayuschix_RPD.pdf",
+    "text": "Б1.В.04_Ресурсы млекопитающих_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vig/B1.V.05_Polevye_metody_issledovaniya_v_biologii_RPD.pdf",
+    "text": "Б1.В.05 Полевые методы исследования в биологии РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aid/B1.V.06_Resursy_ptic_RPD(1).pdf",
+    "text": "Б1.В.06 Ресурсы птиц РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.V.07_Metodika_prepodavaniya_spec.disc_RPD.pdf",
+    "text": "Б1.В.07 Методика преподавания спец.дисц РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.V.08_Bioresursy_vodnyx_ekosistem_RPD(1).pdf",
+    "text": "Б1.В.08 Биоресурсы водных экосистем РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/B1.V.09_Meteorologiya_i_klimatologiya_RPD.pdf",
+    "text": "Б1.В.09_Метеорология и климатология РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/B1.V.10_Bioresursy_nazemnyx_ekosistem_RPD(1).pdf",
+    "text": "Б1.В.10_Биоресурсы наземных экосистем_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/B1.V.11_Oxotovedenie_RPD.pdf",
+    "text": "Б1.В.11 Охотоведение РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ein/B1.V.12._Specialist_po_vodnym_bioresursam.pdf",
+    "text": "Б1.В.12. Специалист по водным биоресурсам",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.V.12.01_Resursy_ryb_RPD(1).pdf",
+    "text": "Б1.В.12.01 Ресурсы рыб РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 10:59:35"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/B1.V.12.02_Ryboxozyaistvennaya_ocenka_vodoemov_RPD.pdf",
+    "text": "Б1.В.12.02 Рыбохозяйственная оценка водоемов РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.V.12.03_Texnologii_akvakulytury_RPD(2).pdf",
+    "text": "Б1.В.12.03 Технологии аквакультуры РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zin/B1.V.12.04_Monitoring_vodnyx_bioresursov_RPD(1).pdf",
+    "text": "Б1.В.12.04 Мониторинг водных биоресурсов РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.V.12.05_(K)_Ekzamen_po_modulyu_Upravlenie_vodnymi_2025.pdf",
+    "text": "Б1.В.12.05 (К) Экзамен по модулю Управление водными 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.V.DV.01.01_Metody_izucheniya_bioraznoobraziya_ptic_i_mlekopitayuschix_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Методы изучения биоразнообразия птиц и млекопитающих РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/B1.V.DV.01.02_Metody_izucheniya_bioraznoobraziya_ektotermnyx_pozvonochnyx_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02_Методы изучения биоразнообразия эктотермных позвоночных_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 10:59:35"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riw/B1.V.DV.02.01_Resursy_zemnovodnyx_RPD(3).pdf",
+    "text": "Б1.В.ДВ.02.01 Ресурсы земноводных РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/B1.V.DV.02.02_Resursy_presmykayuschixsya_RPD_(2).pdf",
+    "text": "Б1.В.ДВ.02.02 Ресурсы пресмыкающихся РПД (2)",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rit/B1.V.DV.03.01_Soxranenie_bioraznoobraziya_RPD(2).pdf",
+    "text": "Б1.В.ДВ.03.01 Сохранение биоразнообразия РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/B1.V.DV.03.02_Oxranyaemye_prirodnye_territorii_RPD(2).pdf",
+    "text": "Б1.В.ДВ.03.02 Охраняемые природные территории РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/B1.O.01_Delovoi_IYA_RPD(2).pdf",
+    "text": "Б1.О.01_Деловой_ИЯ_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zie/B1.O.02_FPE_RPD(1).pdf",
+    "text": "Б1.О.02 ФПЕ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/B1.O.03_Mat_osnovy_mashinnogo_oucheniya_RPD(1).pdf",
+    "text": "Б1.О.03 Мат основы машинного оучения_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B1.O.04_Sovremennye_problemy_biologii_RPD_2025.pdf",
+    "text": "Б1.О.04_Современные проблемы биологии РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/B1.O.05_METODOLOGICHESKIE_OSNOVY_ISSLEDOVANII_V_BIOLOGII_RPD(5).pdf",
+    "text": "Б1.О.05 МЕТОДОЛОГИЧЕСКИЕ ОСНОВЫ ИССЛЕДОВАНИЙ В БИОЛОГИИ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.O.06_Kognitivnye_mexanizmy_sovladayuschego_povedeniya_RPD(4).pdf",
+    "text": "Б1.О.06 Когнитивные механизмы совладающего поведения РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B1.O.07_Uchenie_o_biosfere._Upravlenie_RGH_RPD.pdf",
+    "text": "Б1.О.07 Учение о биосфере. Управление РЖ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vih/B1.O.08_Ekologicheskii_monitoring_RPD(1).pdf",
+    "text": "Б1.О.08 Экологический мониторинг РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viw/B1.O.09_Ekonomika_i_menedghment_innovacionnyx_proektov,_RPD_.pdf",
+    "text": "Б1.О.09 Экономика и менеджмент инновационных проектов, РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:31:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/FTD.01._GHivotnyi_mir_Rossii_RPD.pdf",
+    "text": "ФТД.01. Животный мир России_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/FTD.02_Dicherazvedenie_RPD(1).pdf",
+    "text": "ФТД.02_Дичеразведение_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B2.V..01.02(P)_Pedagogicheskaya_praktika_RPP.pdf",
+    "text": "Б2.В..01.02(П)_Педагогическая практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:03:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B2.V.01.01_(P)_praktika_po_profilyu_profess_RP.pdf",
+    "text": "Б2.В.01.01 (П) практика по профилю професс РП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:03:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/B2.V.01.04_(P)_Preddiplomnaya._RP.pdf",
+    "text": "Б2.В.01.04 (П) Преддипломная. РП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:03:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/B2.O.01.01_Praktika_po_napravleniyu_professionalynoi_deyatelynosti_RPP.pdf",
+    "text": "Б2.О.01.01 Практика по направлению профессиональной деятельности РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2026 17:03:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/B2.V01.01_(P)_praktika_po_profilyu_profess_RP..pdf",
+    "text": "Б2.В.01.01 (П) практика по профилю професс РП.",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:34:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/B2.V.01.02_(P)_Pedagogicheskaya_praktika_RPP.pdf",
+    "text": "Б2.В.01.02 (П) Педагогическая практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:34:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B2.V01.03_(P)_nauchno-issled_RP.pdf",
+    "text": "Б2.В.01.03 (П) научно-исслед РП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:34:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B2.V.01.04_(P)_Preddiplomnaya._RP..pdf",
+    "text": "Б2.В.01.04 (П) Преддипломная. РП.",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.06.2026 11:00:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B2.O.01.01U_Praktika_po_napravleniyu_professionalynoi_deyatelynosti_RPP(2).pdf",
+    "text": "Б2.О.01.01У Практика по направлению профессиональной деятельности РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:16:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/KUG_06.04.01.pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "04.09.2026 15:33:31"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/KUG_06.04.01.pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "04.09.2026 15:33:31"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B2.V.01.02_(P)_Pedagogicheskaya_praktika_MU.pdf",
+    "text": "Б2.В.01.02 (П) Педагогическая практика МУ",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:36:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/MU_VKR.pdf",
+    "text": "МУ ВКР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:36:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/GIA_MAG..pdf",
+    "text": "ГИА_МАГ.",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "10.02.2026 11:36:41"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/OPOP_MAG_20.24.02_2026.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "14.07.2026 10:53:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/20.04.02_PISVV_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "23.06.2026 15:11:36"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B1.V.11.01_Sistemy_iskusstvennogo_intellekta_RPD_.pdf",
+    "text": "Б1.В.11.01 Системы искусственного интеллекта РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:52:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.O.01_Filosofskie_problemy_nauki_i_texniki_RPD_20.04.02(3).pdf",
+    "text": "Б1.О.01 Философские проблемы науки и техники РПД 20.04.02",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:52:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.O.05_Psixologiya_professionalizma_RPD(1).pdf",
+    "text": "Б1.О.05 Психология профессионализма РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:52:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.O.07_MATEMATICHESKOE_MODELIROVANIE_PROCESSOV_V_KOMPONENTAX_PRIRODY_RPD_2026.pdf",
+    "text": "Б1.О.07 МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ ПРОЦЕССОВ В КОМПОНЕНТАХ ПРИРОДЫ РПД 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:52:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.O.10_Upravlenie_kachestvom_okrughayuschei_sredy_RPD(1).pdf",
+    "text": "Б1.О.10 Управление качеством окружающей среды РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:52:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zik/B1.O.13_Osnovy_pedagogicheskoi_deyatelynosti_RPD.pdf",
+    "text": "Б1.О.13 Основы педагогической деятельности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:52:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/B2.O.01.02(U)_Pedagogicheskaya_praktika_(pedagogicheskii_praktikum)_RPP(1).pdf",
+    "text": "Б2.О.01.02(У) Педагогическая практика (педагогический практикум) РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:51:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/KUG_20.04.02(1).pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 10:11:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/MU_VKR-20.04.02_2026.pdf",
+    "text": "МУ ВКР-20.04.02_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:54:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B3_Gosudarstvennaya_itogovaya_attestaciya_RPD(4).pdf",
+    "text": "Б3 Государственная итоговая аттестация РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:54:19"
+  }
+]

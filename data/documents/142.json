@@ -1,0 +1,582 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/43.03.02_Turizm_i_IG_2023_KUG.pdf",
+    "text": "Учебный план",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.02.2026 12:04:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B1.V.01_Muzeinaya_rabota_v_turizme_RPD.pdf",
+    "text": "Б1.В.01 Музейная работа в туризме РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.V.02_Geografiya_rossiiskogo_vnutrennego_turizma_RPD.pdf",
+    "text": "Б1.В.02 География российского внутреннего туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/B1.V.07_Texnologiya_i_organizaciya_ekskursionnyx_uslug_RPD.pdf",
+    "text": "Б1.В.07 Технология и организация экскурсионных услуг РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.V.08_Texnologiya_i_organizaciya_gostinichnyx_uslug_RPD.pdf",
+    "text": "Б1.В.08 Технология и организация гостиничных услуг РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/B1.V.09_Kulytura_regionov_Rossii_RPD.pdf",
+    "text": "Б1.В.09 Культура регионов России РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B1.V.10_Struktura_industrii_gostepriimstva_RPD.pdf",
+    "text": "Б1.В.10 Структура индустрии гостеприимства РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vic/B1.V.11_Ekonomicheskii_analiz_deyatelynosti_organizacii_v_sfere_turizma_RPD.pdf",
+    "text": "Б1.В.11 Экономический анализ деятельности организаций в сфере туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B1.V.12_Texnologiya_proektirovaniya_tura_RPD.pdf",
+    "text": "Б1.В.12 Технология проектирования тура РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vim/B1.V.13_Biznes-planirovanie_v_sfere_turizma_RPD.pdf",
+    "text": "Б1.В.13 Бизнес-планирование в сфере туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/B1.V.14_Delovoi_etiket_v_turistskoi_deyatelynosti_RPD.pdf",
+    "text": "Б1.В.14 Деловой этикет в туристской деятельности РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.04.2025 14:20:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/B1.V.16_Straxovanie_v_Turisticheskoi_otrasli_RPD_2023.pdf",
+    "text": "Б1.В.16 Страхование в Туристической отрасли",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:28:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/B1.V.17_Vvedenie_v_specialynosty_RPD(1).pdf",
+    "text": "Б1.В.17 Введение в специальность РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.18_Risk-menedghment_i_antikrizisnoe_upravlenie_v_sfere_turizma_RPD_2023.pdf",
+    "text": "Б1.В.18_Риск-менеджмент и антикризисное управление в сфере туризма",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/B1.V.19_Istoriya_turizma_RPD(1).pdf",
+    "text": "Б1.В.19 История туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.V.20_Mirovaya_turindustriya_RPD(1).pdf",
+    "text": "Б1.В.20 Мировая туриндустрия РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B1.V.21_Turopereiting_RPD_(2).pdf",
+    "text": "Б1.В.21 Туроперейтинг РПД (2)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.04.2025 14:20:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/B1.V.DV.01.01_Ekologicheskii_turizm_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Экологический туризм РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B1.V.DV.01.02_Texnologiya_i_organizaciya_lechebno-ozdorovitelynogo_turizma_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Технология и организация лечебно-оздоровительного туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.V.DV.02.01_Gastronomicheskii_turizm_RPD.pdf",
+    "text": "Б1.В.ДВ.02.01 Гастрономический туризм РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.V.DV.02.02_Osnovy_etnograficheskogo_turizma_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Основы этнографического туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aid/B1.V.DV.03.01_Osnovy_selyskogo_turizma_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Основы сельского туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vic/B1.V.DV.03.02_Transportnoe_obslughivanie_v_turizme_RPD.pdf",
+    "text": "Б1.В.ДВ.03.02 Транспортное обслуживание в туризме РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01.01_Inostrannyi_yazyk_RPD.pdf",
+    "text": "Б1.О.01.01_Иностранный язык",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01.02_Meghkulyturnye_kommunikacii_na_inostrannom_yazyke_RPD(1).pdf",
+    "text": "Б1.О.01.02_Межкультурные коммуникации на иностранном языке",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.02_Istoriya_Rossii_RPD_2023(11).pdf",
+    "text": "Б1.О.02 История России",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.03_Filosofiya_RPD(3).pdf",
+    "text": "Б1.О.03 Философия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.10.2023 09:21:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.O.04_Bezopasnosty_ghiznedeyatelynosti_RPD(21).pdf",
+    "text": "Б1.О.04_Безопасность жизнедеятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:28:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.05.01_Osnovy_gosudarstva_i_prava_RPD(1).pdf",
+    "text": "Б1.О.05.01 Основы государства и права",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/B1.O.05.02_Pravovye_aspekty_deyatelynosti_vnutrennego_turizma_RPD.pdf",
+    "text": "Б1.О.05.02 Правовые аспекты деятельности внутреннего туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.04.2025 14:20:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.08.01_Informacionno-kommunikativnye_i_gis-tex._RPD_2023.pdf",
+    "text": "Б1.О.08.01 Информационно-коммуникативные и гис-тех.",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.09_Menedghment_v_turizme_RPD(1).pdf",
+    "text": "Б1.О.09 Менеджмент в туризме",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.11_Marketing_v_turizme_RPD_2023g..pdf",
+    "text": "Б1.О.11 Маркетинг в туризме",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.O.12_Turistsko-rekreacionnoe_resursovedenie_RPD(1).pdf",
+    "text": "Б1.О.12 Туристско-рекреационное ресурсоведение РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.13.01_Inostrannyi_yazyk_delovogo_obscheniya_vtoroi_RPD.pdf",
+    "text": "Б1.О.13.01_Иностранный язык делового общения второй",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.13.02_Inostrannyi_yazyk_v_profesionalynoi_deyatelynosti_vtoroi_RPD.pdf",
+    "text": "Б1.О.13.02_Иностранный язык в професиональной деятельности второй",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.14.01_Psixologiya_v_turistskoi_deyatelynosti_RPD.pdf",
+    "text": "Б1.О.14.01 Психология в туристской деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.14.02_Psixologiya_professionalizma_RPD.pdf",
+    "text": "Б1.О.14.02 Психология профессионализма",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.15_Buxgalterskii_i_finansovyi_uchet_v_turizme_RPD_ochnoe.pdf",
+    "text": "Б1.О.15 Бухгалтерский и финансовый учет в туризме",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riw/B1.O.16_Turistsko-rekreacionnoe_proektirovanie_RPD(1).pdf",
+    "text": "Б1.О.16 Туристско-рекреационное проектирование РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/B1.O.18_FKS_RPD_2023_43.03.02.pdf",
+    "text": "Б1.О.18 ФКС РПД 2023 43.03.02",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:28:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.O.19_Internet-predprinimatelystvo_v_turizme_RPD.pdf",
+    "text": "Б1.О.19 Интернет-предпринимательство в туризме РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/B1.O.20_Firmennyi_stily_v_gostepriimstve_RPD.pdf",
+    "text": "Б1.О.20 Фирменный стиль в гостеприимстве РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/B1.O.22_Standartizaciya_i_kontroly_kachestva_uslug_v_sfere_turizma_RPD.pdf",
+    "text": "Б1.О.22 Стандартизация и контроль качества услуг в сфере туризма РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.04.2025 14:20:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B1.O.23_Proektnaya_deyatelynosty_RPD(1).pdf",
+    "text": "Б1.О.23 Проектная деятельность РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24_ORG_RPD_2023.pdf",
+    "text": "Б1.О.24 ОРГ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "11.01.2024 16:00:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/B1.O.DV.01.01_BFK_RPD_2023_43.03.02.pdf",
+    "text": "Б1.О.ДВ.01.01 БФК",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:28:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.O.DV.01.02_BVS_RPD_2023_43.03.02.pdf",
+    "text": "Б1.О.ДВ.01.02 БВС",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:28:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/FTD.01_Sovremennye_tendencii_razvitiya_gostinichnoi_i_turistskoi_industrii_RPD.pdf",
+    "text": "ФТД.01 Современные тенденции развития гостиничной и туристской индустрии РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zio/FTD.02_Socialyno-kulyturnyi_servis_RPD.pdf",
+    "text": "ФТД.02 Социально-культурный сервис РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:25:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/B2.V.01.01(P)_Organizacionno-upravlencheskaya_praktika_RPD.pdf",
+    "text": "Б2.В.01.01(П) Организационно-управленческая практика РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:26:07"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B2.V.01.02(P)_Servisnaya_praktika_RPD(1).pdf",
+    "text": "Б2.В.01.02(П) Сервисная практика РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:26:07"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B2.V.01.03(P)_Proektno-texnologicheskaya_praktika_RPD(1).pdf",
+    "text": "Б2.В.01.03(П) Проектно-технологическая практика РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:26:07"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/B2.O.01.01_Oznakomitelynaya_praktika_RPP(2).pdf",
+    "text": "Б2.О.01.01 Ознакомительная практика РПП",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:26:07"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/B2.O.02.01_(P)_Preddiplomnaya_praktika_RPD.pdf",
+    "text": "Б2.О.02.01 (П) Преддипломная практика РПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.04.2026 11:26:07"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/KUG_43.03.02(2).pdf",
+    "text": "График",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "05.03.2026 11:31:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RP_Vospitaniya_2023(126).pdf",
+    "text": "РП Воспитания",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "18.12.2023 16:39:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/Kalendarnyy_plan_vospitatelynoy_raboty(126).pdf",
+    "text": "Календарный план воспитательной работы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "18.12.2023 16:40:19"
+  }
+]

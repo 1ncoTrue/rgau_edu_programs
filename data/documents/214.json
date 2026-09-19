@@ -1,0 +1,1702 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/OPOP_44.04.04_(COSiCT)_2026_gnp.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "14.07.2026 11:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/OPOP_44.04.04_(COSiCT)_2025_gnp_ochn.pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:11:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/OPOP_44.04.04_(COSiCT)_2025_gnp_zaochn.pdf",
+    "text": "ОПОП (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:23:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/OPOP_44.04.04_(COSiCT)_2024_g.n.p._zaochn.pdf",
+    "text": "ОПОП (заочное)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:16:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/44.04.04_PO_COSiCT_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "30.06.2026 14:02:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/44.04.04_PO_COSiCT_2025.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "25.08.2025 13:15:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zik/44.04.04_PO_COSiCT_FZO_2025.pdf",
+    "text": "44.04.04 ПО_ЦОСиЦТ_ФЗО_2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "13.08.2025 14:53:35"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/44.04.04_FZO_PO_COSiCT_2024(1).pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "23.07.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/B1.V.01.01_Elektronnye_obrazovatelynye_resursy_RPD(1).pdf",
+    "text": "Б1.В.01.01 Электронные образовательные ресурсы РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/B1.V.01.02_Upravlenie_informacionnymi_proektami_i_resursami_RPD(1).pdf",
+    "text": "Б1.В.01.02 Управление информационными проектами и ресурсами РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.V.01.03_Formirovanie_i_podderghka_IS_PO_RPD.pdf",
+    "text": "Б1.В.01.03 Формирование и поддержка ИС ПО РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/B1.V.01.04_Sistemy_iskusstvennogo_intellekta_v_podgotovke_kadrov_dlya_APK_RPD(1).pdf",
+    "text": "Б1.В.01.04 Системы искусственного интеллекта в подготовке кадров для АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.V.01.05_Pedagogicheskaya_innovatika_RPD.pdf",
+    "text": "Б1.В.01.05 Педагогическая инноватика РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ria/B1.V.01.06_Proektirovanie_KOZ_po_uch._disciplinam_RPD(2).pdf",
+    "text": "Б1.В.01.06 Проектирование КОЗ по уч. дисциплинам РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/B1.V.01.07_Psixologiya_cifrovoi_sredy_RPD(1).pdf",
+    "text": "Б1.В.01.07 Психология цифровой среды РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vit/B1.V.01.08_Osnovy_nauchno-texnicheskogo_tvorchestva_RPD(1).pdf",
+    "text": "Б1.В.01.08 Основы научно-технического творчества РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B1.V.01.09_Metodika_prepodavaniya_professionalynyx_disciplin_RPD(2).pdf",
+    "text": "Б1.В.01.09 Методика преподавания профессиональных дисциплин РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/B1.V.02.01_Osnovy_proforientologii_RPD(2).pdf",
+    "text": "Б1.В.02.01 Основы профориентологии РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/B1.V.02.02_Osnovy_proforientacionnogo_konsulytirovaniya_RPD(1).pdf",
+    "text": "Б1.В.02.02 Основы профориентационного консультирования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.V.02.03_Metodika_soprovoghdeniya_professionalynogo_samoopredeleniya_obuchayuschixsya_RPD(1).pdf",
+    "text": "Б1.В.02.03 Методика сопровождения профессионального самоопределения обучающихся РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.V.DV.01.01_Sovremennye_problemy_informatizacii_professionalynogo_obrazovaniya_RPD(2).pdf",
+    "text": "Б1.В.ДВ.01.01 Современные проблемы информатизации профессионального образования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/B1.V.DV.01.02_Rossiiskii_i_zarubeghnyi_opyt_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Российский и зарубежный опыт РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/B1.V.DV.02.01_Cifrovye_texnologii_v_inghenernoi_deyatelynosti_RPD(2).pdf",
+    "text": "Б1.В.ДВ.02.01 Цифровые технологии в инженерной деятельности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.DV.02.02_Cifrovizaciya_professionalynogo_obrazovaniya_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.02 Цифровизация профессионального образования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zin/B1.V.DV.03.01_Psixologiya_obscheniya_v_informacionno-obrazovatelynoi_srede_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Психология общения в информационно-образовательной среде РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.V.DV.03.02_Psixologiya_delovogo_obscheniya_RPD.pdf",
+    "text": "Б1.В.ДВ.03.02 Психология делового общения РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vii/B1.O.01.01_Metodologiya_nauchnogo_issledovaniya_RPD.pdf",
+    "text": "Б1.О.01.01 Методология научного исследования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/B1.O.01.02_INOSTRANNYI_YAZYK_V_PROFESSIONALYNOI_KOMMUNIKACII_RP_.pdf",
+    "text": "Б1.О.01.02 ИНОСТРАННЫЙ ЯЗЫК В ПРОФЕССИОНАЛЬНОЙ КОММУНИКАЦИИ_РП_",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B1.O.01.03_Russkii_yazyk_v_sfere_professionalynoi_deyatelynosti_RPD_ochnoe(2).pdf",
+    "text": "Б1.О.01.03 Русский язык в сфере профессиональной деятельности РПД очное",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.O.01.04_IiKT_v_prof._deyatelynosti_RPD(1).pdf",
+    "text": "Б1.О.01.04 ИиКТ в проф. деятельности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.O.01.05_Psixologiya_professionalizma_RPD(1).pdf",
+    "text": "Б1.О.01.05 Психология профессионализма РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/B1.O.01.06_Normativno-pravovoe_obespechenie_obrazovaniya_RPD(2).pdf",
+    "text": "Б1.О.01.06 Нормативно-правовое обеспечение образования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.O.01.07_AGRARNAYA_POLITIKA_APK_I_OSNOVY_BEREGHLIVOGO_PROIZVODSTVA_RPD.pdf",
+    "text": "Б1.О.01.07 АГРАРНАЯ ПОЛИТИКА АПК И ОСНОВЫ БЕРЕЖЛИВОГО ПРОИЗВОДСТВА РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/B1.O.02.01_Proektirovanie_obrazovatelynyx_programm_i_texnologii_RPD(1).pdf",
+    "text": "Б1.О.02.01 Проектирование образовательных программ и технологий РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.O.02.02_Proektirovanie_vospitatelynoi_sredy_RPD(1).pdf",
+    "text": "Б1.О.02.02 Проектирование воспитательной среды РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/B1.O.02.03_Proektirovanie_i_monitoring_obrazovatelynyx_rezulytatov_RPD.pdf",
+    "text": "Б1.О.02.03 Проектирование и мониторинг образовательных результатов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.O.02.04_Proektirovanie_nauchno-ped._issledovaniya_RPD.pdf",
+    "text": "Б1.О.02.04 Проектирование научно-пед. исследования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zin/B1.O.02.05_Upravlenie_obrazovatelynymi_proektami_RPD(1).pdf",
+    "text": "Б1.О.02.05 Управление образовательными проектами РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.O.02.06_Psix-ped_osnovy_inklyuzivnogo_obrazovaniya_RPD(2).pdf",
+    "text": "Б1.О.02.06 Псих-пед основы инклюзивного образования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/FTD.01_3d_modelirovanie_RPD.pdf",
+    "text": "ФТД.01 3д моделирование РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zik/FTD.02_Robototexnika_RPD.pdf",
+    "text": "ФТД.02 Робототехника РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:55:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B1.V.01.01_EOR_44.04.04_(COS_i_CT)_2025_RPD.pdf",
+    "text": "Б1.В.01.01 ЭОР 44.04.04 (ЦОС и ЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/B1.V.01.02_Upravlenie_informacionnymi_proektami_i_resursami_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.01.02 Управление информационными проектами и ресурсами 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/B1.V.01.03_Formirovanie_i_podderghka_IS_PO_44.04.04_(COS)_2025_RPD.pdf",
+    "text": "Б1.В.01.03 Формирование и поддержка ИС ПО 44.04.04 (ЦОС) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/B1.V.01.04_Sistemy_iskusstvennogo_intellekta_v_podgotovke_kadrov_dlya_APK_44.04.04_RPD_2025.pdf",
+    "text": "Б1.В.01.04 Системы искусственного интеллекта в подготовке кадров для АПК 44.04.04 РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/B1.V.01.05_Ped.innovatika_44.04.04_(COSiCT)_2025_ochn_RPD.pdf",
+    "text": "Б1.В.01.05 Пед.инноватика 44.04.04 (ЦОСиЦТ) 2025 очн РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.V.01.06_Proektirovanie_KOZ_po_uch._disciplinam_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.01.06 Проектирование КОЗ по уч. дисциплинам 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.V.01.07_Psixologiya_cifrovoi_sredy_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.01.07 Психология цифровой среды 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/B1.V.01.08_Osnovy_nauchno-texnicheskogo_tvorchestva_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.01.08 Основы научно-технического творчества 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/B1.V.01.09_Metodika_prepodavaniya_professionalynyx_disciplin_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.01.09 Методика преподавания профессиональных дисциплин 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/B1.V.02_Pedagog-proforientolog_RPD.pdf",
+    "text": "Б1.В.02 Педагог-профориентолог РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.03.2026 14:38:06"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.V.02.01_Osnovy_proforientologii_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.02.01 Основы профориентологии 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/B1.V.02.02_Osnovy_proforientacionnogo_konsulytirovaniya_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.02.02 Основы профориентационного консультирования 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.V.02.03_Metodika_soprovoghdeniya_professionalynogo_samoopredeleniya_obuchayuschixsya_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.02.03 Методика сопровождения профессионального самоопределения обучающихся 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aif/B1.V.02.04(K)_Pedagog-proforientolog_2025_gnp.pdf",
+    "text": "Б1.В.02.04(К) Педагог-профориентолог 2025 гнп",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.V.DV.01.01_Sovremennye_problemy_informatizacii_professionalynogo_obrazovaniya_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Современные проблемы информатизации профессионального образования 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.V.DV.01.02_Rossiiskii_i_zarubeghnyi_opyt_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Российский и зарубежный опыт 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B1.V.DV.02.01_Cifrovye_texnologii_v_inghenernoi_deyatelynosti_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.ДВ.02.01 Цифровые технологии в инженерной деятельности 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.V.DV.02.02_Cifrovizaciya_professionalynogo_obrazovaniya_2025_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Цифровизация профессионального образования 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aih/B1.V.DV.03.01_Psixologiya_obscheniya_v_informacionno-obrazovatelynoi_srede_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Психология общения в информационно-образовательной среде 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.V.DV.03.02_Psixologiya_delovogo_obscheniya_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.В.ДВ.03.02 Психология делового общения 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.O.01.01_Metodologiya_nauchnogo_issledovaniya_2025_RPD.pdf",
+    "text": "Б1.О.01.01 Методология научного исследования 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aid/B1.O.01.02_INOSTRANNYI_YAZYK_V_PROFESSIONALYNOI_KOMMUNIKACII_RPD(2).pdf",
+    "text": "Б1.О.01.02 ИНОСТРАННЫЙ ЯЗЫК В ПРОФЕССИОНАЛЬНОЙ КОММУНИКАЦИИ_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B1.O.01.03_Russkii_yazyk_v_sfere_professionalynoi_deyatelynosti_RPD_ochnoe.pdf",
+    "text": "Б1.О.01.03 Русский язык в сфере профессиональной деятельности РПД очное",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/B1.O.01.04_IiKT_v_prof._deyatelynosti_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.О.01.04 ИиКТ в проф. деятельности 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.O.01.05_Psixologiya_professionalizma_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.О.01.05 Психология профессионализма 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.O.01.06_Normativno-pravovoe_obespechenie_obrazovaniya_RPD.pdf",
+    "text": "Б1.О.01.06 Нормативно-правовое обеспечение образования РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/B1.O.02.01_Proektirovanie_obrazovatelynyx_programm_i_texnologii_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.О.02.01 Проектирование образовательных программ и технологий 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/B1.O.02.02_Proektirovanie_vospitatelynoi_sredy_RPD.pdf",
+    "text": "Б1.О.02.02 Проектирование воспитательной среды РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiq/B1.O.02.03_Proektirovanie_i_monitoring_obraz._rezulytatov_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.О.02.03 Проектирование и мониторинг образ. результатов 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zid/B1.O.02.04_Proektirovanie_nauchno-ped._issled_44.04.04_(COSiCT)_2025_ochn_RPD.pdf",
+    "text": "Б1.О.02.04 Проектирование научно-пед. исслед 44.04.04 (ЦОСиЦТ) 2025 очн РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/B1.O.02.05_Upravlenie_obrazovatelynymi_proektami_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "Б1.О.02.05 Управление образовательными проектами 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.O.02.06_Psix-ped_osnovy_inklyuzivnogo_obrazovaniya_RPD.pdf",
+    "text": "Б1.О.02.06 Псих-пед основы инклюзивного образования РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/FTD.01_3d_modelirovanie_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "ФТД.01 3д моделирование 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/FTD.02_Robototexnika_44.04.04_(COSiCT)_2025_RPD.pdf",
+    "text": "ФТД.02 Робототехника 44.04.04 (ЦОСиЦТ) 2025 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:07:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/B1.V.01.01_EOR_RPD_zaochn.pdf",
+    "text": "Б1.В.01.01 ЭОР РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.03.2026 14:39:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aip/B1.V.01.02_Upravlenie_informacionnymi_proektami_i_resursami_RPD_zaochn.pdf",
+    "text": "Б1.В.01.02 Управление информационными проектами и ресурсами РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.03.2026 14:39:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/B1.V.01.04_Sistemy_iskusstvennogo_intellekta_v_podgotovke_kadrov_dlya_APK_RPD.pdf",
+    "text": "Б1.В.01.04 Системы искусственного интеллекта в подготовке кадров для АПК РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B1.V.01.05_Ped.innovatika_44.04.04_(COSiCT)_2025_zaochn_RPP.pdf",
+    "text": "Б1.В.01.05 Пед.инноватика 44.04.04 (ЦОСиЦТ) 2025 заочн РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/B1.V.01.06_Proektirovanie_KOZ_po_uch._disciplinam_RPD.pdf",
+    "text": "Б1.В.01.06 Проектирование КОЗ по уч. дисциплинам РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/B1.V.01.07_Psixologiya_cifrovoi_sredy_RPD_.pdf",
+    "text": "Б1.В.01.07 Психология цифровой среды РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eif/B1.V.01.08_Osnovy_nauchno-texnicheskogo_tvorchestva_RPD.pdf",
+    "text": "Б1.В.01.08 Основы научно-технического творчества РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B1.V.01.09_Metodika_prepodavaniya_professionalynyx_disciplin_RPD.pdf",
+    "text": "Б1.В.01.09 Методика преподавания профессиональных дисциплин РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.V.02_Pedagog-proforientolog_DPP.pdf",
+    "text": "Б1.В.02 Педагог-профориентолог ДПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.03.2026 14:39:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/B1.V.02.01_Osnovy_proforientologii_RPD(1).pdf",
+    "text": "Б1.В.02.01 Основы профориентологии РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.V.02.02_Osnovy_proforientacionnogo_konsulytirovaniya_RPD_.pdf",
+    "text": "Б1.В.02.02 Основы профориентационного консультирования РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/B1.V.02.03_Metodika_soprovoghdeniya_professionalynogo_samoopredeleniya_obuchayuschixsya_RPD_.pdf",
+    "text": "Б1.В.02.03 Методика сопровождения профессионального самоопределения обучающихся РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/B1.V.02.04(K)_PEDAGOG-PROFORIENTOLOG_2025_gnp(1).pdf",
+    "text": "Б1.В.02.04(К) ПЕДАГОГ-ПРОФОРИЕНТОЛОГ 2025 гнп",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.03.2026 14:39:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.V.DV.01.01_Sovremennye_problemy_informatizacii_professionalynogo_obrazovaniya_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Современные проблемы информатизации профессионального образования РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/B1.V.DV.01.02_Rossiiskii_i_zarubeghnyi_opyt_RPD_.pdf",
+    "text": "Б1.В.ДВ.01.02 Российский и зарубежный опыт РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/B1.V.DV.02.01_Cifrovye_texnologii_v_inghenernoi_deyatelynosti_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.01 Цифровые технологии в инженерной деятельности РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/B1.V.DV.02.02_Cifrovizaciya_professionalynogo_obrazovaniya_RPD_.pdf",
+    "text": "Б1.В.ДВ.02.02 Цифровизация профессионального образования РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/B1.V.DV.03.01_Psixologiya_obscheniya_v_informacionno-obrazovatelynoi_srede_RPD_.pdf",
+    "text": "Б1.В.ДВ.03.01 Психология общения в информационно-образовательной среде РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/B1.V.DV.03.02_Psixologiya_delovogo_obscheniya_RPD_zaochn(1).pdf",
+    "text": "Б1.В.ДВ.03.02 Психология делового общения РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.O.01.01_Metodologiya_nauchnogo_issledovaniya_RPD_.pdf",
+    "text": "Б1.О.01.01 Методология научного исследования РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/B1.O.01.02_INOSTRANNYI_YAZYK_V_PROFESSIONALYNOI_KOMMUNIKACII_RPD(3).pdf",
+    "text": "Б1.О.01.02 ИНОСТРАННЫЙ ЯЗЫК В ПРОФЕССИОНАЛЬНОЙ КОММУНИКАЦИИ_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/B1.O.01.03_Russkii_yazyk_v_sfere_professionalynoi_deyatelynosti_RPD_zaochnoe(1).pdf",
+    "text": "Б1.О.01.03 Русский язык в сфере профессиональной деятельности РПД заочное",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.O.01.04_IiKT_v_prof._deyatelynosti_RPD.pdf",
+    "text": "Б1.О.01.04 ИиКТ в проф. деятельности РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B1.O.01.05_Psixologiya_professionalizma_RPD.pdf",
+    "text": "Б1.О.01.05 Психология профессионализма РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.O.01.06_Normativno-pravovoe_obespechenie_obrazovaniya_RPD(1).pdf",
+    "text": "Б1.О.01.06 Нормативно-правовое обеспечение образования РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B1.O.02.01_Proektirovanie_obrazovatelynyx_programm_i_texnologii_RPD.pdf",
+    "text": "Б1.О.02.01 Проектирование образовательных программ и технологий РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/B1.O.02.02_Proektirovanie_vospitatelynoi_sredy_RPD_zaochn.pdf",
+    "text": "Б1.О.02.02 Проектирование воспитательной среды РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.03.2026 14:39:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B1.O.02.03_Proektirovanie_i_monitoring_obraz._rezulytatov_RPD.pdf",
+    "text": "Б1.О.02.03 Проектирование и мониторинг образ. результатов РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziz/B1.O.02.04_Proektirovanie_nauchno-ped._issled_44.04.04_(COSiCT)_2025_zaochn_RPD.pdf",
+    "text": "Б1.О.02.04 Проектирование научно-пед. исслед 44.04.04 (ЦОСиЦТ) 2025 заочн РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.O.02.05_Upravlenie_obrazovatelynymi_proektami_RPD.pdf",
+    "text": "Б1.О.02.05 Управление образовательными проектами РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vie/B1.O.02.06_Psix-ped_osnovy_inklyuzivnogo_obrazovaniya_RPD(1).pdf",
+    "text": "Б1.О.02.06 Псих-пед основы инклюзивного образования РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/FTD.01_3d_modelirovanie_RPD_zaochn.pdf",
+    "text": "ФТД.01 3д моделирование РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/FTD.02_Robototexnika_RPD_zaochn.pdf",
+    "text": "ФТД.02 Робототехника РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:21:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/B1.V.01.01_Elektronnye_obrazovatelynye_resursy_44.04.04_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.01.01 Электронные образовательные ресурсы 44.04.04 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/B1.V.01.02_Upravlenie_informacionnymi_proektami_i_resursami_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.В.01.02 Управление информационными проектами и ресурсами 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/B1.V.01.03_Formirovanie_i_podderghka_informacionnoi_sredy_professionalynogo_obrazovaniya_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.В.01.03 Формирование и поддержка информационной среды профессионального образования 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zik/B1.V.01.04_Sistemy_iskusstvennogo_intellekta_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.01.04 Системы искусственного интеллекта 44.04.04 (ЦОСиЦТ) 2024 РПД_заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.V.01.05_Pedagogicheskaya_innovatika_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.В.01.05 Педагогическая инноватика 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.V.01.06_Proektirovanie_KOZ_po_uch._disciplinam_44.04.04_(COSiCT)_RPD_zaochn.pdf",
+    "text": "Б1.В.01.06 Проектирование КОЗ по уч. дисциплинам 44.04.04 (ЦОСиЦТ) РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.V.01.07_Psixologiya_cifrovoi_sredy_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.01.07 Психология цифровой среды 44.04.04 (ЦОСиЦТ) 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B1.V.01.08_Osnovy_nauchno-texnicheskogo_tvorchestva_44.04.04_(COSiCT)_LARPD_zaochn.pdf",
+    "text": "Б1.В.01.08 Основы научно-технического творчества 44.04.04 (ЦОСиЦТ) ЛА+РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.V.01.09_Metodika_prepodavaniya_professionalynyx_disciplin_44.04.04_(COSiCT)_RPD_zaochn.pdf",
+    "text": "Б1.В.01.09 Методика преподавания профессиональных дисциплин 44.04.04 (ЦОСиЦТ) РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B1.V.02.01_Osnovy_proforientologii_44.04.04_RPD_zaochn.pdf",
+    "text": "Б1.В.02.01 Основы профориентологии 44.04.04 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.V.02.02_Osnovy_proforientacionnogo_konsulytirovaniya_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.02.02 Основы профориентационного консультирования 44.04.04 (ЦОСиЦТ) 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viw/B1.V.02.03_Metodika_soprovoghdeniya_professionalynogo_samoopredeleniya_obuchayuschixsya_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.02.03 Методика сопровождения профессионального самоопределения обучающихся 44.04.04 (ЦОСиЦТ) 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziq/B1.V.DV.01.01_Sovremennye_problemy_informatizacii_professionalynogo_obrazovaniya_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.01.01 Современные проблемы информатизации профессионального образования 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B1.V.DV.01.01_Sovremennye_problemy_informatizacii_professionalynogo_obrazovaniya_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.01.01 Современные проблемы информатизации профессионального образования 44.04.04 (ЦОСиЦТ) 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B1.V.DV.01.02_Rossiiskii_i_zarubeghnyi_opyt_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.01.02 Российский и зарубежный опыт 44.04.04 (ЦОСиЦТ) 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/B1.V.DV.02.01_Cifrovye_texnologii_v_inghenernoi_deyatelynosti_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.02.01 Цифровые технологии в инженерной деятельности 44.04.04 (ЦОСиЦТ) 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/B1.V.DV.02.02_Cifrovizaciya_professionalynogo_obrazovaniya_44.04.04_(COSiCT)_2024_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.02.02 Цифровизация профессионального образования 44.04.04 (ЦОСиЦТ) 2024 РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/B1.V.DV.03.01_Psixologiya_obscheniya_v_informacionno-obrazovatelynoi_srede_44.04.04_(COSiCT)_2024_LARPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.03.01 Психология общения в информационно-образовательной среде 44.04.04 (ЦОСиЦТ) 2024 ЛА+РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/B1.V.DV.03.02_Psixologiya_delovogo_obscheniya_44.04.04_(COSiCT)_2024_LARPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.03.02 Психология делового общения 44.04.04 (ЦОСиЦТ) 2024 ЛА+РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zir/B1.O.01.01_Metodologiya_nauchnogo_issledovaniya_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.О.01.01 Методология научного исследования 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/B1.O.01.02_INOSTRANNYI_YAZYK_V_PROFESSIONALYNOI_KOMMUNIKACII_RPD(1).pdf",
+    "text": "Б1.О.01.02 ИНОСТРАННЫЙ ЯЗЫК В ПРОФЕССИОНАЛЬНОЙ КОММУНИКАЦИИ_РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.O.01.03_Russkii_yazyk_v_sfere_professionalynoi_deyatelynosti_RPD_zaochnoe.pdf",
+    "text": "Б1.О.01.03 Русский язык в сфере профессиональной деятельности РПД заочное",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.04.2025 16:46:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.O.01.04_Informacionnye_i_kommunikacionnye_texnologii_v_professionalynoi_deyatelynosti_44.04.04_(COSiCT)_2024_foz_LARPD.pdf",
+    "text": "Б1.О.01.04 Информационные и коммуникационные технологии в профессиональной деятельности 44.04.04 (ЦОСиЦТ) 2024 фоз ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B1.O.01.05_Psixologiya_professionalizma_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.О.01.05 Психология профессионализма 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ein/B1.O.01.06_NPOO_RPD(1).pdf",
+    "text": "Б1.О.01.06 НПОО РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.O.02.01_Proektirovanie_obrazovatelynyx_programm_i_texnologii_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.О.02.01 Проектирование образовательных программ и технологий 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B1.O.02.02_Proektirovanie_vospitatelynoi_sredy_44.04.04_2024_LARPD_zaochn.pdf",
+    "text": "Б1.О.02.02 Проектирование воспитательной среды 44.04.04 2024 ЛА+РПД заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B1.O.02.03_Proektirovanie_i_monitoring_obrazovatelynyx_rezulytatov_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.О.02.03 Проектирование и мониторинг образовательных результатов 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aip/B1.O.02.04_Proektirovanie_nauchno-pedagogicheskogo_issledovaniya_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.О.02.04 Проектирование научно-педагогического исследования 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/B1.O.02.05_Upravlenie_obrazovatelynymi_proektami_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "Б1.О.02.05 Управление образовательными проектами 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/B1.O.02.06_Psix-ped_osnovy_inklyuzivnogo_obrazovaniya_444.04.04_(COSiCT)_2023_fzo_RPD(1).pdf",
+    "text": "Б1.О.02.06 Псих-пед основы инклюзивного образования 444.04.04 (ЦОСиЦТ) 2023 фзо РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:12:28"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiw/FTD.01_3D-modelirovanie_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "ФТД.01 3D-моделирование 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/FTD.02_Robototexnika_44.04.04_(COSiCT)_2024_fzo_LARPD.pdf",
+    "text": "ФТД.02 Робототехника 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:53:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B2.V.01.01(P)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_RPP(4).pdf",
+    "text": "Б2.В.01.01(П) Технологическая (проектно-технологическая) практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:52:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B2.V.01.02(P)_Preddiplomnaya_praktika_RPP(15).pdf",
+    "text": "Б2.В.01.02(П) Преддипломная практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:52:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B2.O.01.01(U)_Uchebnaya_praktika_NIR_RPP.pdf",
+    "text": "Б2.О.01.01(У) Учебная практика НИР РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:52:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/B2.O.02.01(P)_Pedagogicheskaya_praktika_RPP(2).pdf",
+    "text": "Б2.О.02.01(П) Педагогическая практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:52:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eil/B2.O.02.02(P)_NIR_RPP(7).pdf",
+    "text": "Б2.О.02.02(П) НИР РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "22.07.2026 09:52:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/B2.O.02.01(P)_Pedagogicheskaya_praktika_RPP.pdf",
+    "text": "Б2.O.02.01(П) Педагогическая практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:09:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/B2.O.02.02(P)_NIR_RPP(5).pdf",
+    "text": "Б2.O.02.02(П) НИР РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:09:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/B2.V.01.01(P)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_44.04.04_(COSiCT)_2025_RPP.pdf",
+    "text": "Б2.В.01.01(П) Технологическая (проектно-технологическая) практика 44.04.04 (ЦОСиЦТ) 2025 РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:09:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B2.V.01.02(P)_Preddiplomnaya_praktika_RPP(7).pdf",
+    "text": "Б2.В.01.02(П) Преддипломная практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:09:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/B2.O.01.01(U)_Uch.prakt_NIR_2025_44.04.04_(COSiCT)_2025_ochn_RPP.pdf",
+    "text": "Б2.О.01.01(У) Уч.практ НИР 2025_44.04.04 (ЦОСиЦТ) 2025 очн РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:09:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aif/B2.O.02.01(P)_Pedagogicheskaya_praktika_RPP(1).pdf",
+    "text": "Б2.O.02.01(П) Педагогическая практика РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:23:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B2.O.02.02(P)_NIR_RPP(6).pdf",
+    "text": "Б2.O.02.02(П) НИР РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:23:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/B2.V.01.01(P)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_RPP(3).pdf",
+    "text": "Б2.В.01.01(П) Технологическая (проектно-технологическая) практика РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:23:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B2.V.01.02(P)_Preddiplomnaya_praktika_44.04.04_RPP.pdf",
+    "text": "Б2.В.01.02(П) Преддипломная практика 44.04.04 РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:23:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B2.O.01.01(U)_Uch.prakt_NIR_2025_44.04.04_(COSiCT)_2025_zaochn_RPP.pdf",
+    "text": "Б2.О.01.01(У) Уч.практ НИР 2025_44.04.04 (ЦОСиЦТ) 2025 заочн РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:23:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziq/B2.V.01.02(P)_Preddiplomnaya_praktika_44.04.04_(COSiCT)_2024_RPP_zaochn.pdf",
+    "text": "Б2.В.01.02(П) Преддипломная практика 44.04.04 (ЦОСиЦТ) 2024 РПП заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:13:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B2.V.01.01(P)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_44.04.04_(COSiCT)_RPP_zaochn.pdf",
+    "text": "Б2.В.01.01(П) Технологическая (проектно-технологическая) практика 44.04.04 (ЦОСиЦТ) РПП заочн",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.03.2025 15:13:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/B2.O.02.02(P)_Nauchno-issledovatelyskaya_rabota_44.04.04_(COSiCT)_2024_fzo_LARPP.pdf",
+    "text": "Б2.O.02.02(П) Научно-исследовательская работа 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПП",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:56:33"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B2.O.02.01(P)_Pedagogicheskaya_praktika_44.04.04_(COSiCT)_2024_fzo_LARPP.pdf",
+    "text": "Б2.O.02.01(П) Педагогическая практика 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПП",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:56:33"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B2.O.01.01(U)_Nauchno-issledovatelyskaya_rabota_44.04.04_(COSiCT)_2024_fzo_LARPP.pdf",
+    "text": "Б2.O.01.01(У) Научно-исследовательская работа 44.04.04 (ЦОСиЦТ) 2024 фзо ЛА+РПП",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "07.10.2024 16:56:33"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/KUG_44.04.04(1).pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "22.09.2025 10:21:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/KUG_44.04.04_IEU.pdf",
+    "text": "График (Заочная)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:31:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/KUG_44.04.04(1).pdf",
+    "text": "График",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "22.09.2025 10:21:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/KUG_44.04.04_IEU.pdf",
+    "text": "График (Заочная)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:31:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/KUG_44.04.04_IEU.pdf",
+    "text": "График (Заочная)",
+    "year": 2023,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:31:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vig/MU_VKR_44.04.04_2025.pdf",
+    "text": "МУ ВКР 44.04.04_2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:13:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vig/MU_VKR_44.04.04_2025.pdf",
+    "text": "МУ ВКР 44.04.04_2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:13:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/Programma_GIA_44.04.04_(COSiCT)_2025_g.n.p.pdf",
+    "text": "Программа ГИА",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:14:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/Programma_GIA_44.04.04_(COSiCT)_2025_g.n.p.pdf",
+    "text": "Программа ГИА",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "27.11.2025 15:14:20"
+  }
+]

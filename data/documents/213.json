@@ -1,0 +1,762 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/OPOP_38.04.04_Gosudarstvennaya_slughba.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2026 16:16:08"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/OPOP_38.04.04_zaochnoe_2025.pdf",
+    "text": "ОПОП (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:32:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/38.04.04_GMU_Gos.slughba_FZO_2026.plx.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "30.06.2026 14:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/38.04.04_GMU_2025.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.06.2025 11:30:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zio/38.04.04_GMU_Gos.slughba_FZO_2025.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "13.08.2025 14:52:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/B1.V.01_Sovremennye_problemy_agrarnoi_ekonomiki_i_menedghmenta_RPD.pdf",
+    "text": "Б1.В.01 Современные проблемы аграрной экономики и менеджмента РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viw/B1.V.02_Upravlenie_soc-ekon_razvitiem_regiona_RPD(1).pdf",
+    "text": "Б1.В.02 Управление соц-экон развитием региона РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B1.V.03_Strategicheskoe_planirovanie_razvitiya_poselenii_RPD(2).pdf",
+    "text": "Б1.В.03 Стратегическое планирование развития поселений РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aih/B1.V.04_UGiMI_RPD(1).pdf",
+    "text": "Б1.В.04 УГиМИ РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/B1.V.05_Uprav_gos_i_munic_finan_RPD_2026_GS_mag.pdf",
+    "text": "Б1.В.05_Управ гос и муниц финан РПД_2026_ГС_маг",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/B1.V.06_Gosudarstvennaya_i_municipalynaya_kommunalynaya_politika_RPD(2).pdf",
+    "text": "Б1.В.06 Государственная и муниципальная коммунальная политика РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B1.V.07_Upravlenie_migracionnymi_processami_RPD(2).pdf",
+    "text": "Б1.В.07 Управление миграционными процессами РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/B1.V.08_Iskusstvennyi_intellekt_v_gosudarstvennom_i_municipalynom_upravlenii_RPD(1).pdf",
+    "text": "Б1.В.08 «Искусственный интеллект в государственном и муниципальном управлении» РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zio/B1.V.09.01_Upravlenie_trudovymi_resursami_RPD(2).pdf",
+    "text": "Б1.В.09.01 Управление трудовыми ресурсами РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/B1.V.09.02_Ocenka_deyatelynosti_organov_GMU_RPD(2).pdf",
+    "text": "Б1.В.09.02 Оценка деятельности органов ГМУ РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vim/B1.V.DV.01.02_Elektronnoe_pravitelystvo_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.02«Электронное правительство» РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aif/B1.V.DV.02.02_Ekonomika_selyskix_gorodskix_MO_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.02 Экономика_сельских_городских_МО_РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aij/B1.V.DV.03.01_Pravovoe_obespechenie_gosudarstvennoi_slughby_RPD(2).pdf",
+    "text": "Б1.В.ДВ.03.01 Правовое обеспечение государственной службы РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.V.DV.03.02_Gosudarstvennoe_upravlenie_innovaciyami_RPD(1).pdf",
+    "text": "Б1.В.ДВ.03.02 «Государственное управление инновациями» РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viq/B1.O.02_Teoriya_i_mexanizmy_sovremennogo_gosudarstvennogo_upravleniya_RPD(2).pdf",
+    "text": "Б1.О.02 Теория и механизмы современного государственного управления РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.O.03_Pravovoe_obespechenie_gosudarstvennogo_i_municipalynogo_upravleniya_RPD.pdf",
+    "text": "Б1.О.03 Правовое обеспечение государственного и муниципального управления РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eil/B1.O.04_Strat_upr_v_organ_GiM_vlasti_RPD(1).pdf",
+    "text": "Б1.О.04 Страт упр в орган ГиМ власти РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aib/B1.O.05_Informacionno-analiticheskie_texnologii_gosudarstvennogo_i_municipalynogo_upravleniya_RPD(1).pdf",
+    "text": "Б1.О.05 Информационно-аналитические технологии государственного и муниципального управления РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zio/B1.O.07_Delovoi_inostrannyi_yazyk_RPD_.pdf",
+    "text": "Б1.О.07 Деловой иностранный язык РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.O.08_Istoriya_i_metodologiya_nauki_RPD_38.04.04-FZO.pdf",
+    "text": "Б1.О.08 История и методология науки РПД 38.04.04-ФЗО",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/B1.O.10-Antikorrupcionnoe-upravlenie-RPD.pdf",
+    "text": "Б1.О.10-Антикоррупционное-управление-РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aif/FTD.01_Ugolovnoe_pravo_RPD(2).pdf",
+    "text": "ФТД.01 Уголовное право РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/FTD.02_Gosudarstvennoe_upravlenie_v_usloviyax_cifrovoi_ekonomiki_RPD(1).pdf",
+    "text": "ФТД.02 Государственное управление в условиях цифровой экономики РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:35:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.V.01_Sovremennye_problemy_agrarnoi_ekonomiki_i_menedghmenta_GMU_ZAOCHNO_2025_RPD.pdf",
+    "text": "Б1.В.01 «Современные проблемы аграрной экономики и менеджмента» ГМУ_ЗАОЧНО_2025 РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.V.02_Upravlenie_soc-ekon_razvitiem_regiona_RPD.pdf",
+    "text": "Б1.В.02 Управление соц-экон развитием региона РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/B1.V.03_Strategicheskoe_planirovanie_razvitiya_poselenii_RPD(1).pdf",
+    "text": "Б1.В.03 Стратегическое планирование развития поселений РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/B1.V.04_UGiMI_RPD.pdf",
+    "text": "Б1.В.04 УГиМИ РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/B1.V.06_Gosudarstvennaya_i_municipalynaya_kommunalynaya_politika_RPD(1).pdf",
+    "text": "Б1.В.06 Государственная и муниципальная коммунальная политика РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/B1.V.07_Upravlenie_migracionnymi_processami_RPD(1).pdf",
+    "text": "Б1.В.07 Управление миграционными процессами РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/B1.V.08_Iskusstvennyi_intellekt_v_gosudarstvennom_i_municipalynom_upravlenii_RPD.pdf",
+    "text": "Б1.В.08 Искусственный интеллект в государственном и муниципальном управлении РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.V.09_Specialist_po_rabote_s_personalom_DPP.pdf",
+    "text": "Б1.В.09 Специалист по работе с персоналом ДПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 13:28:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/B1.V.09.01_Upravlenie_trudovymi_resursami_RPD(1).pdf",
+    "text": "Б1.В.09.01 Управление трудовыми ресурсами РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B1.V.09.02_Ocenka_deyatelynosti_organov_GMU_RPD(1).pdf",
+    "text": "Б1.В.09.02 Оценка деятельности органов ГМУ РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/B1.V.09.03(K)_Specialist_po_rabote_s_personalom.pdf",
+    "text": "Б1.В.09.03(К) Специалист по работе с персоналом",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B1.V.DV.01.02_Strategicheskii_analiz_v_obespechenii_ekonomicheskoi_bezopasnosti_organizacii_APK_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Стратегический анализ в обеспечении экономической безопасности организаций АПК РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/B1.V.DV.01.02_Elektronnoe_pravitelystvo_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Электронное правительство РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aij/B1.V.DV.02.01_Ekologicheskii_menedghment_Gosslughba_RPD_2025.pdf",
+    "text": "Б1.В.ДВ.02.01 Экологический менеджмент_Госслужба_РПД_2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/B1.V.DV.02.02_Ekonomika_selyskix_gorodskix_MO_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Экономика сельских городских МО РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/B1.V.DV.03.01_Pravovoe_obespechenie_gosudarstvennoi_slughby_RPD(1).pdf",
+    "text": "Б1.В.ДВ.03.01 Правовое обеспечение государственной службы РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/B1.V.DV.03.02_Gosudarstvennoe_upravlenie_innovaciyami_RPD.pdf",
+    "text": "Б1.В.ДВ.03.02 Государственное управление инновациями РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiu/B1.O.01_EOS_RPD_2025.pdf",
+    "text": "Б1.О.01 ЭОС РПД 2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.O.02_Teoriya_i_mexanizmy_sovremennogo_gosudarstvennogo_upravleniya_RPD(1).pdf",
+    "text": "Б1.О.02 Теория и механизмы современного государственного управления РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.O.03_POGiMU_RPD_.pdf",
+    "text": "Б1.О.03 ПОГиМУ РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.O.04_Strat_upr_v_organax_GiM_vlasti_RPD.pdf",
+    "text": "Б1.О.04 Страт упр в органах ГиМ власти РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.O.05_Informacionno-analiticheskie_texnologii_gosudarstvennogo_i_municipalynogo_upravleniya_RPD.pdf",
+    "text": "Б1.О.05 Информационно-аналитические технологии государственного и муниципального управления РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aid/B1.O.06_Kadrovaya_politika_i_kadrovyi_audit_RPD.pdf",
+    "text": "Б1.О.06 Кадровая политика и кадровый аудит РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/B1.O.07_Del_IYA_RPD(1).pdf",
+    "text": "Б1.О.07_Дел_ИЯ_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/B1.O.08_Istoriya_i_metodologiya_nauki_RPD(2).pdf",
+    "text": "Б1.О.08 История и методология науки РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/B1.O.08_Istoriya_i_metodologiya_nauki_RPD_38.04.04.pdf",
+    "text": "Б1.О.08 История и методология науки РПД 38.04.04",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/B1.O.09_Kommunikacii_i_delovoe_obschenie_v_gu_2025_RPD.pdf",
+    "text": "Б1.О.09 Коммуникации и деловое общение в гу 2025 РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/B1.O.10_Antikorrupcionnoe_upravlenie_RPD(2).pdf",
+    "text": "Б1.О.10 Антикоррупционное управление РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:30:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziq/B1.O.11_Pedagogika_i_psixologiya_v_professionalynoi_deyatelynosti_RPD(1).pdf",
+    "text": "Б1.О.11 Педагогика и психология в профессиональной деятельности РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 13:28:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/FTD.02_Gosudarstvennoe_upravlenie_v_usloviyax_cifrovoi_ekonomiki_RPD.pdf",
+    "text": "ФТД.02 Государственное управление в условиях цифровой экономики РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "25.02.2026 10:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/B2.V.01.01(P)_Professionalynaya_praktika_po_profilyu_deyatelynosti_PPr(2).pdf",
+    "text": "Б2.В.01.01(П) Профессиональная практика по профилю деятельности ППр",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:41:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B2.V.01.02(P)_Preddiplomnaya_praktika_PPr(2).pdf",
+    "text": "Б2.В.01.02(П) Преддипломная практика ППр",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:41:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aid/B2.O.01.01(U)_Oznakomitelynaya_praktika_PPr(1).pdf",
+    "text": "Б2.О.01.01(У) Ознакомительная практика ППр",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:41:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B2.O.02.01(P)_NIR_PPr(2).pdf",
+    "text": "Б2.О.02.01(П) НИР ППр",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:41:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B2.O.02.02(P)_NIP_PPr_.pdf",
+    "text": "Б2.О.02.02(П) НИП ППр",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:41:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B2.V.01.01(P)_Professionalynaya_praktika_po_profilyu_deyatelynosti_PPr(1).pdf",
+    "text": "Б2.В.01.01(П) Профессиональная практика по профилю деятельности ППр",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:31:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiq/B2.V.01.02(P)_Preddiplomnaya_praktika_PPr(7).pdf",
+    "text": "Б2.В.01.02(П) Преддипломная практика ППр",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:31:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eii/B2.O.01.01(U)_Oznakomitelynaya_praktika_PPr(4).pdf",
+    "text": "Б2.О.01.01(У) Ознакомительная практика ППр",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:31:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/B2.O.02.01(P)_NIR_PPr(1).pdf",
+    "text": "Б2.О.02.01(П) НИР ППр",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:31:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/B2.O.02.02(P)_NIP_PPr(1).pdf",
+    "text": "Б2.О.02.02(П) НИП ППр",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:31:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/KUG_38.04.04(1).pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "22.09.2025 10:20:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/KUG_38.04.04_IEU.pdf",
+    "text": "График (Заочная)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:30:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/KUG_38.04.04_IEU.pdf",
+    "text": "График (Заочная)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:30:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/KUG_38.04.04_IEU.pdf",
+    "text": "График (Заочная)",
+    "year": 2023,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:30:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/MU_VKR_38.04.04_2026.pdf",
+    "text": "МУ ВКР 38.04.04 2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:46:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/38.04.04_Pr_GIA_2026.pdf",
+    "text": "38.04.04 Пр ГИА 2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:46:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/MU_VKR_38.04.04(2).pdf",
+    "text": "МУ ВКР 38.04.04",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:33:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/38.04.04_Pr_GIA(1).pdf",
+    "text": "Программа ГИА",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:35:22"
+  }
+]

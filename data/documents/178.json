@@ -1,0 +1,652 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/OPOP_35.04.01_Lesnoe_delo_2026.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2026 17:03:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riw/OPOP-2025_35.04.01_Lesnoe_delo.pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:52:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/35.04.01_PAE_Lesoustroistvo_i_upravl._lesn._resursami_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "23.06.2026 15:14:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/35.04.01_PAE_Lesoustroistvo_i_upravl._lesn._resursami_2025.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.06.2025 15:30:36"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B1.V.01_Cifrovye_texnologii_i_iskusstvennyi_intellekt_v_lesnom_xozyaistve_RPD(2).pdf",
+    "text": "Б1.В.01 Цифровые технологии и искусственный интеллект в лесном хозяйстве РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/B1.V.02_Ekologiya_lesnyx_soobschestv_RPD(1).pdf",
+    "text": "Б1.В.02 Экология лесных сообществ РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.V.05_Gosudarstvennaya_inventarizaciya_lesov_RPD(1).pdf",
+    "text": "Б1.В.05 Государственная инвентаризация лесов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/B1.V.06.01_Geoinformacionnoe_obespechenie_RPD(2).pdf",
+    "text": "Б1.В.06.01 Геоинформационное обеспечение РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vir/B1.V.06.02_Otchety_ob_ispolyzovanii,_oxrane,_zaschite_i_vosproizvodstve_lesov_RPD(2).pdf",
+    "text": "Б1.В.06.02 Отчеты об использовании, охране, защите и воспроизводстве лесов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.V.06.03_Proekty_lesovosstanovleniya_i_osvoeniya_lesov_RPD(1).pdf",
+    "text": "Б1.В.06.03 Проекты лесовосстановления и освоения лесов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B1.V.DV.01.01_Oxotustroistvo_RPD(2).pdf",
+    "text": "Б1.В.ДВ.01.01 Охотустройство РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/B1.V.DV.01.02_Lesnye_promysly_RPD_2026.pdf",
+    "text": "Б1.В.ДВ.01.02 Лесные промыслы РПД 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vir/B1.O.03_Filosofskie_problemy_nauki_i_texniki_RPD_35.04.01(1).pdf",
+    "text": "Б1.О.03 Философские проблемы науки и техники РПД 35.04.01",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/B1.O.04_Upravlenie_biologicheskimi_i_texnologicheskimi_sistemami_v_lesnom_i_lesoparkovom_xozyaistve_RPD.pdf",
+    "text": "Б1.О.04 Управление биологическими и технологическими системами в лесном и лесопарковом хозяйстве РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/B1.O.05.01_Ekonomika_v_lesnom_xozyaistve_RPD.pdf",
+    "text": "Б1.О.05.01 Экономика в лесном хозяйстве РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/B1.O.07_Delovoi_inostrannyi_yazyk_RPD(2).pdf",
+    "text": "Б1.О.07 Деловой иностранный язык РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/B1.O.08_Metodika_professionalynogo_obucheniya_RPD(6).pdf",
+    "text": "Б1.О.08 Методика профессионального обучения РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.O.09_Osnovy_upravleniya_personalom_RPD(1).pdf",
+    "text": "Б1.О.09 Основы управления персоналом РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/B1.O.10_Strategicheskii_menedgh._v_les._dele_-_RPD(2).pdf",
+    "text": "Б1.О.10 Стратегический менедж. в лес. деле - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ris/FTD.02_Monitoring_lesnyx_pogharov_RPD.pdf",
+    "text": "ФТД.02 Мониторинг лесных пожаров РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.01_Cifrovye_texnologii_i_iskusstvennyi_intellekt_v_lesnom_xozyaistve_RPD(1).pdf",
+    "text": "Б1.В.01 Цифровые технологии и искусственный интеллект в лесном хозяйстве РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eii/B1.V.02_Ekologiya_lesnyx_soobschestv_RPD.pdf",
+    "text": "Б1.В.02 Экология лесных сообществ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.03_Lesoustroistvo_i_lesnoe_proektirovanie_RPD.pdf",
+    "text": "Б1.В.03 Лесоустройство и лесное проектирование РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.V.04_Landshaftno-ekologicheskoe_planirovanie_lesnogo_xozyaistva_RPD(1).pdf",
+    "text": "Б1.В.04 Ландшафтно-экологическое планирование лесного хозяйства РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B1.V.05_Gosudarstvennaya_inventarizaciya_lesov_RPD.pdf",
+    "text": "Б1.В.05 Государственная инвентаризация лесов РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B1.V.06_Specialist_po_vedeniyu_elektronnyx_dokumentov_lesopolyzovatelya.pdf",
+    "text": "Б1.В.06 Специалист по ведению электронных документов лесопользователя",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.V.06.01_Geoinformacionnoe_obespechenie_RPD(1).pdf",
+    "text": "Б1.В.06.01 Геоинформационное обеспечение РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B1.V.06.02_Otchety_ob_ispolyzovanii,_oxrane,_zaschite_i_vosproizvodstve_lesov_RPD(1).pdf",
+    "text": "Б1.В.06.02 Отчеты об использовании, охране, защите и воспроизводстве лесов РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/B1.V.06.03_Proekty_lesovosstanovleniya_i_osvoeniya_lesov_RPD.pdf",
+    "text": "Б1.В.06.03 Проекты лесовосстановления и освоения лесов РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B1.V.06.04(K)_Ekzamen_po_modulyu_Specialist_po_vedeniyu_elektronnyx_dokumentov_lesopolyzovatelya.pdf",
+    "text": "Б1.В.06.04(К) Экзамен по модулю Специалист по ведению электронных документов лесопользователя",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.V.DV.01.01_Oxotustroistvo_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.01 Охотустройство РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/B1.V.DV.01.02_Lesnye_promysly_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Лесные промыслы РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/B1.V.DV.02.01_Vedenie_lesnogo_reestra_RPD.pdf",
+    "text": "Б1.В.ДВ.02.01 Ведение лесного реестра РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.V.DV.02.02_Lesoxozyaistvennyi_reglament_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Лесохозяйственный регламент РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B1.V.DV.03.01_Rekulytivaciya_lesnyx_zemely_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Рекультивация лесных земель РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.V.DV.03.02_Melioraciya_lesnyx_zemely_RPD.pdf",
+    "text": "Б1.В.ДВ.03.02 Мелиорация лесных земель РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B1.O.01_Osnovy_NI_v_lesnom_dele_RPD.pdf",
+    "text": "Б1.О.01 Основы НИ в лесном деле РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/B1.O.02_Matematicheskoe_modelirovanie_lesnyx_ekosistem_RPD.pdf",
+    "text": "Б1.О.02 Математическое моделирование лесных экосистем РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viu/B1.O.03_Filosofskie_problemy_nauki_i_texniki_RPD.pdf",
+    "text": "Б1.О.03 Философские проблемы науки и техники РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/B1.O.05.01_Ekonomika_v_lesnom_xozyaistve_RPD_2025_god.pdf",
+    "text": "Б1.О.05.01 «Экономика в лесном хозяйстве РПД 2025 год",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/B1.O.05.02_Organizaciya_v_lesnom_xozyaistve_RPD_2025.pdf",
+    "text": "Б1.О.05.02_ Организация в лесном хозяйстве_РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiq/B1.O.06_Pravovye_i_socialynye_aspekty_ustoichivogo_lesoupravleniya_RPD(1).pdf",
+    "text": "Б1.О.06 Правовые и социальные аспекты устойчивого лесоуправления РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B1.O.07_DELOVOI_INOSTRANNYI_YAZYK_RPD(1).pdf",
+    "text": "Б1.О.07 ДЕЛОВОЙ ИНОСТРАННЫЙ ЯЗЫК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.O.08_Metodika_professionalynogo_obucheniya_RPD(3).pdf",
+    "text": "Б1.О.08 Методика профессионального обучения РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vie/B1.O.09_Osnovy_upravleniya_personalom_RPD.pdf",
+    "text": "Б1.О.09 Основы управления персоналом РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/B1.O.10_Strategicheskii_menedgh._v_les._dele_-_RPD(1).pdf",
+    "text": "Б1.О.10 Стратегический менедж. в лес. деле - РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/FTD.01_Innovacionnye_metody_lesozaschity_RPD_2025.pdf",
+    "text": "ФТД.01 Инновационные методы лесозащиты РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:20:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/FTD.02_Monitoring_lesnyx_pogharov_RPD(2).pdf",
+    "text": "ФТД.02 Мониторинг лесных пожаров РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 09:50:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/B2.V.01.01(U)_UCHEBNAYA_OZNAKOMITELYNAYA_PRAKTIKA_PO_LESNOMU_PROEKTIROVANIYU_RPP.pdf",
+    "text": "Б2.В.01.01(У) УЧЕБНАЯ ОЗНАКОМИТЕЛЬНАЯ ПРАКТИКА ПО ЛЕСНОМУ ПРОЕКТИРОВАНИЮ РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:14:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B2.V.02.01(P)_TEXNOLOGICHESKAYA_(PROEKTNO-TEXNOLOGICHESKAYA)_PRAKTIKA_RPP(4).pdf",
+    "text": "Б2.В.02.01(П) ТЕХНОЛОГИЧЕСКАЯ (ПРОЕКТНО-ТЕХНОЛОГИЧЕСКАЯ) ПРАКТИКА РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:14:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/B2.V.02.02.01(P)_NAUCHNO-ISSLEDOVATELYSKAYA_RABOTA_1_RPP.pdf",
+    "text": "Б2.В.02.02.01(П) НАУЧНО-ИССЛЕДОВАТЕЛЬСКАЯ РАБОТА 1 РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:14:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/B2.V.02.02.02(P)_NAUCHNO-ISSLEDOVATELYSKAYA_RABOTA_2_RPP.pdf",
+    "text": "Б2.В.02.02.02(П) НАУЧНО-ИССЛЕДОВАТЕЛЬСКАЯ РАБОТА 2 РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:14:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B2.V.02.03(P)_PREDDIPLOMNAYA_PRAKTIKA_RPP(3).pdf",
+    "text": "Б2.В.02.03(П) ПРЕДДИПЛОМНАЯ ПРАКТИКА РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:14:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/B2.O.01.01(U)_NAUCHNO-ISSLEDOVATELYSKAYA_RABOTA_(Poluchenie_pervichnyx_navykov)_RPP.pdf",
+    "text": "Б2.О.01.01(У) НАУЧНО-ИССЛЕДОВАТЕЛЬСКАЯ РАБОТА (Получение первичных навыков) РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:14:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/B2.V.01.01(U)_OznPr_po_lesnomu_proektirovaniyu_RPP_2025.pdf",
+    "text": "Б2.В.01.01(У) ОзнПр по лесному проектированию РПП 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:22:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B2.V.02.01(P)_Texnologich_praktika_RPP.pdf",
+    "text": "Б2.В.02.01(П) Технологич практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:22:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B2.V.02.02.01(P)_NIR_RPP.pdf",
+    "text": "Б2.В.02.02.01(П) НИР РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:22:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B2.V.02.02.02(P)_NIR_RPP.pdf",
+    "text": "Б2.В.02.02.02(П) НИР РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:22:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B2.V.02.03(P)_Preddiplomnaya_praktika_RPP(1).pdf",
+    "text": "Б2.В.02.03(П) Преддипломная практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:22:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viw/B2.O.01.01(U)_Uch_praktika_NIR_(PPN_NIR)_RPP.pdf",
+    "text": "Б2.О.01.01(У) Уч практика НИР (ППН НИР) РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:22:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/KUG_35.04.01.pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 10:17:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/KUG_35.04.01.pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 10:17:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vim/Programma_GIA_35.04.01_Lesnoe_delo_(2).pdf",
+    "text": "Программа ГИА 35.04.01 Лесное дело (2)",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "21.07.2026 10:15:06"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/B3.02_(D)_Vypolnenie_i_zaschita_vypusknoi_kvalifikacionnoi_raboty.pdf",
+    "text": "Б3.02 (Д) Выполнение и защита выпускной квалификационной работы",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:23:26"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/B3.01_(G)_GIA_RP.pdf",
+    "text": "Б3.01 (Г) ГИА РП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:44:00"
+  }
+]

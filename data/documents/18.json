@@ -1,0 +1,2322 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/PPSSZ_19.02.11_2025.pdf",
+    "text": "ООП (ППССЗ)",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:45:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zib/OOP_SPO_19.02.11_2024_g.n.pdf",
+    "text": "ООП (ППССЗ)",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "05.09.2024 17:28:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/OOP_SPO_19.02.11_2023_g.n._(1).pdf",
+    "text": "ООП",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "15.04.2024 16:23:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/19.02.11_Texnologiya_produktov_pitaniya_iz_rastitelynogo_syryya_o_2024.pdf",
+    "text": "Учебный план",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "03.02.2025 10:53:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/19.02.11_Texnologiya_produktov_pitaniya_iz_rastitelynogo_syryya_o_2023.pdf",
+    "text": "Учебный план",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "03.02.2025 10:18:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/OP.01_Mikrobiologiya,_sanitariya_i_gigiena_v_pischevom_proizvodstve(2).pdf",
+    "text": "ОП.01 Микробиология, санитария и гигиена в пищевом производстве",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/OP.02_Processy_i_apparaty_pischevyx_proizvodstv(2).pdf",
+    "text": "ОП.02 Процессы и аппараты пищевых производств",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rij/OP.03_Avtomatizaciya_texnologicheskix_processov(2).pdf",
+    "text": "ОП.03 Автоматизация технологических процессов",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zia/OP.04_Prikladnye_kompyyuternye_programmy_v_professionalynoi_deyatelynosti(2).pdf",
+    "text": "ОП.04 Прикладные компьютерные программы в профессиональной деятельности",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/OP.05_Psixologiya_obscheniya(2).pdf",
+    "text": "ОП.05 Психология общения",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/OP.06_Ximiya(2).pdf",
+    "text": "ОП.06 Химия",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/OP.07_Elektrotexnika_i_elektronnaya_texnika(2).pdf",
+    "text": "ОП.07 Электротехника и электронная техника",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/OP.08_Metrologiya_i_standartizaciya(2).pdf",
+    "text": "ОП.08 Метрология и стандартизация",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vic/OP.09_Pravovye_osnovy_professionalynoi_deyatelynosti(2).pdf",
+    "text": "ОП.09 Правовые основы профессиональной деятельности",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/OP.10_Oxrana_truda(9).pdf",
+    "text": "ОП.10 Охрана труда",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/OUD.01_Russkii_yazyk(34).pdf",
+    "text": "ОУД.01 Русский язык",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vii/OUD.02_Literatura(38).pdf",
+    "text": "ОУД.02 Литература",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zio/OUD.03_Istoriya(31).pdf",
+    "text": "ОУД.03 История",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zie/OUD.04_Obschestvoznanie(31).pdf",
+    "text": "ОУД.04 Обществознание",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/OUD.05_Geografiya(31).pdf",
+    "text": "ОУД.05 География",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zim/OUD.06_Matematika(31).pdf",
+    "text": "ОУД.06 Математика",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/OUD.07_Fizicheskaya_kulytura(31).pdf",
+    "text": "ОУД.07 Физическая культура",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/OUD.08_Osnovy_bezopasnosti_ghiznedeyatelynosti(18).pdf",
+    "text": "ОУД.08 Основы безопасности жизнедеятельности",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/OUD.09_Fizika(7).pdf",
+    "text": "ОУД.09 Физика",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zio/OUD.10_Inostrannyi_yazyk(28).pdf",
+    "text": "ОУД.10 Иностранный язык",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/OUD.11_Biologiya(9).pdf",
+    "text": "ОУД.11 Биология",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/OUD.12_Informatika(31).pdf",
+    "text": "ОУД.12 Информатика",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/OUD.13_Ximiya(31).pdf",
+    "text": "ОУД.13 Химия",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zid/OUD.14_Vvedenie_v_specialynosty(27).pdf",
+    "text": "ОУД.14 Введение в специальность",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/PM.01(16).pdf",
+    "text": "ПМ.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/PM.02(16).pdf",
+    "text": "ПМ.02",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/PM.03(16).pdf",
+    "text": "ПМ.03",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/PM.04(16).pdf",
+    "text": "ПМ.04",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/PM.05(13).pdf",
+    "text": "ПМ.05",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aif/SG.01_Istoriya_Rossii(9).pdf",
+    "text": "СГ.01 История России",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/SG.02_IYAPD(5).pdf",
+    "text": "СГ.02 ИЯПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/SG.03_Bezopasnosty_ghiznedeyatelynosti(7).pdf",
+    "text": "СГ.03 Безопасность жизнедеятельности",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/SG.04_Fizicheskaya_kulytura(9).pdf",
+    "text": "СГ.04 Физическая культура",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/SG.05_Osnovy_finansovoi_gramotnosti(6).pdf",
+    "text": "СГ.05 Основы финансовой грамотности",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/SG.06_Osnovy_bereghlivogo_proizvodstva(5).pdf",
+    "text": "СГ.06 Основы бережливого производства",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:42:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/OP.01_Mikrobiologiya,_sanitariya_i_gigiena_v_pischevom_proizvodstve(1).pdf",
+    "text": "ОП.01 Микробиология, санитария и гигиена в пищевом производстве",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/OP.02_Processy_i_apparaty_pischevyx_proizvodstv(1).pdf",
+    "text": "ОП.02 Процессы и аппараты пищевых производств",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/OP.03_Avtomatizaciya_texnologicheskix_processov(1).pdf",
+    "text": "ОП.03 Автоматизация технологических процессов",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rij/OP.04_Prikladnye_kompyyuternye_programmy_v_professionalynoi_deyatelynosti(1).pdf",
+    "text": "ОП.04 Прикладные компьютерные программы в профессиональной деятельности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/OP.05_Psixologiya_obscheniya(1).pdf",
+    "text": "ОП.05 Психология общения",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/OP.06_Ximiya(1).pdf",
+    "text": "ОП.06 Химия",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zir/OP.07_Elektrotexnika_i_elektronnaya_texnika(1).pdf",
+    "text": "ОП.07 Электротехника и электронная техника",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/OP.08_Metrologiya_i_standartizaciya(1).pdf",
+    "text": "ОП.08 Метрология и стандартизация",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/OP.09_Pravovye_osnovy_professionalynoi_deyatelynosti(1).pdf",
+    "text": "ОП.09 Правовые основы профессиональной деятельности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/OP.10_Oxrana_truda(1).pdf",
+    "text": "ОП.10 Охрана труда",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/OUD.01_Russkii_yazyk(17).pdf",
+    "text": "ОУД.01 Русский язык",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/OUD.02_Literatura(22).pdf",
+    "text": "ОУД.02 Литература",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/OUD.03_Istoriya(17).pdf",
+    "text": "ОУД.03 История",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziq/OUD.04_Obschestvoznanie(17).pdf",
+    "text": "ОУД.04 Обществознание",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiu/OUD.05_Geografiya(17).pdf",
+    "text": "ОУД.05 География",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/OUD.06_Matematika(17).pdf",
+    "text": "ОУД.06 Математика",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/OUD.07_Fizicheskaya_kulytura(17).pdf",
+    "text": "ОУД.07 Физическая культура+",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/OUD.08_Osnovy_bezopasnosti_i_zaschita_Rodiny(3).pdf",
+    "text": "ОУД.08 Основы безопасности и защита Родины",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiq/OUD.09_Fizika(2).pdf",
+    "text": "ОУД.09 Физика",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "23.04.2025 09:02:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/OUD.10_Inostrannyi_yazyk(13).pdf",
+    "text": "ОУД.10 Иностранный язык",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/OUD.11_Biologiya(4).pdf",
+    "text": "ОУД.11 Биология",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "23.04.2025 09:02:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/OUD.12_Informatika(17).pdf",
+    "text": "ОУД.12 Информатика",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:16:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/OUD.13_Ximiya(7).pdf",
+    "text": "ОУД.13 Химия",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "23.04.2025 09:02:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/OUD.14_Vvedenie_v_specialynosty(7).pdf",
+    "text": "ОУД.14 Введение в специальность",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.03.2025 11:48:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eii/OUD.14_Rodnoi_yazyk_(russkii)_2024(2).pdf",
+    "text": "ОУД.14 Родной язык (русский)_2024",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.02.2025 09:14:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/PM.01(6).pdf",
+    "text": "ПМ.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/PM.02(6).pdf",
+    "text": "ПМ.02",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/PM.03(6).pdf",
+    "text": "ПМ.03",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/PM.04(6).pdf",
+    "text": "ПМ.04",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/PM.05(4).pdf",
+    "text": "ПМ.05",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.09.2024 10:11:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/SG.01_Istoriya_Rossii(4).pdf",
+    "text": "СГ.01 История России",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.02.2025 09:11:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/SG.02_IYAPD(3).pdf",
+    "text": "СГ.02 ИЯПД",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.02.2025 09:11:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/SG.03_Bezopasnosty_ghiznedeyatelynosti(3).pdf",
+    "text": "СГ.03 Безопасность жизнедеятельности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.02.2025 09:11:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/SG.04_Fizicheskaya_kulytura(4).pdf",
+    "text": "СГ.04 Физическая культура",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.02.2025 09:11:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/SG.05_Osnovy_finansovoi_gramotnosti(2).pdf",
+    "text": "СГ.05 Основы финансовой грамотности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.02.2025 09:11:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/SG.06_Osnovy_bereghlivogo_proizvodstva(3).pdf",
+    "text": "СГ.06 Основы бережливого производства",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.02.2025 09:11:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/OP.01_Mikrobiologiya,_sanitariya_i_gigiena_v_pischevom_proizvodstve.pdf",
+    "text": "ОП.01 Микробиология, санитария и гигиена в пищевом производстве",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/OP.02_Processy_i_apparaty_pischevyx_proizvodstv.pdf",
+    "text": "ОП.02 Процессы и аппараты пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/OP.03_Avtomatizaciya_texnologicheskix_processov.pdf",
+    "text": "ОП.03 Автоматизация технологических процессов",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/OP.04_Prikladnye_kompyyuternye_programmy_v_professionalynoi_deyatelynosti.pdf",
+    "text": "ОП.04 Прикладные компьютерные программы в профессиональной деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/OP.05_Psixologiya_obscheniya.pdf",
+    "text": "ОП.05 Психология общения",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vit/OP.06_Ximiya.pdf",
+    "text": "ОП.06 Химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/OP.07_Elektrotexnika_i_elektronnaya_texnika.pdf",
+    "text": "ОП.07 Электротехника и электронная техника",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vim/OP.08_Metrologiya_i_standartizaciya.pdf",
+    "text": "ОП.08 Метрология и стандартизация",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/OP.09_Pravovye_osnovy_professionalynoi_deyatelynosti.pdf",
+    "text": "ОП.09 Правовые основы профессиональной деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/OP.10_Oxrana_truda.pdf",
+    "text": "ОП.10 Охрана труда",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vir/OUD.01_Russkii_yazyk(5).pdf",
+    "text": "ОУД.01 Русский язык",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eif/OUD.02_Literatura(12).pdf",
+    "text": "ОУД.02 Литература",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/OUD.03_Istoriya(7).pdf",
+    "text": "ОУД.03 История",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/OUD.04_Obschestvoznanie(7).pdf",
+    "text": "ОУД.04 Обществознание",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/OUD.05_Geografiya(7).pdf",
+    "text": "ОУД.05 География",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/OUD.06_Matematika(7).pdf",
+    "text": "ОУД.06 Математика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/OUD.07_Fizicheskaya_kulytura(7).pdf",
+    "text": "ОУД.07 Физическая культура+",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/OUD.08_Osnovy_bezopasnosti_i_zaschita_Rodiny(2).pdf",
+    "text": "ОУД.08 Основы безопасности и защита Родины",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/OUD.09_Fizika(3).pdf",
+    "text": "ОУД.09 Физика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "23.04.2025 08:57:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/OUD.10_Inostrannyi_yazyk(3).pdf",
+    "text": "ОУД.10 Иностранный язык",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/OUD.11_Biologiya(5).pdf",
+    "text": "ОУД.11 Биология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "23.04.2025 08:57:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/OUD.12_Informatika(8).pdf",
+    "text": "ОУД.12 Информатика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.02.2025 15:14:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/OUD.13_Ximiya(10).pdf",
+    "text": "ОУД.13 Химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "23.04.2025 08:57:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/OUD.14_Vvedenie_v_specialynosty(5).pdf",
+    "text": "ОУД.14 Введение в специальность",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.03.2025 11:47:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/OUD.14_Rodnoi_yazyk_(russkii)_2023(2).pdf",
+    "text": "ОУД.14 Родной язык (русский)_2023",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.02.2025 09:13:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zir/PM.01(3).pdf",
+    "text": "ПМ.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/PM.02(3).pdf",
+    "text": "ПМ.02",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/PM.03(3).pdf",
+    "text": "ПМ.03",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vie/PM.04(3).pdf",
+    "text": "ПМ.04",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/PM.05(2).pdf",
+    "text": "ПМ.05",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/SG.01_Istoriya_Rossii(1).pdf",
+    "text": "СГ.01 История России",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/SG.02_IYAPD(1).pdf",
+    "text": "СГ.02 ИЯПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/SG.03_Bezopasnosty_ghiznedeyatelynosti(1).pdf",
+    "text": "СГ.03 Безопасность жизнедеятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/SG.04_Fizicheskaya_kulytura(1).pdf",
+    "text": "СГ.04 Физическая культура",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/SG.05_Osnovy_finansovoi_gramotnosti.pdf",
+    "text": "СГ.05 Основы финансовой грамотности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/SG.06_Osnovy_bereghlivogo_proizvodstva(1).pdf",
+    "text": "СГ.06 Основы бережливого производства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:12:44"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/PP_01.01(3).pdf",
+    "text": "ПП 01.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/PP_02.01(3).pdf",
+    "text": "ПП 02.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/PP_03.01(2).pdf",
+    "text": "ПП 03.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/PP_04.01(3).pdf",
+    "text": "ПП 04.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/PP_05.01(2).pdf",
+    "text": "ПП 05.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/PP_PDP_Proizvodstvennaya_praktika_(preddiplomnaya)(4).pdf",
+    "text": "ПП ПДП Производственная практика (преддипломная)",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/UP_01.01(3).pdf",
+    "text": "УП 01.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/UP_02.01(3).pdf",
+    "text": "УП 02.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/UP_03.01(2).pdf",
+    "text": "УП 03.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/UP_05.01(2).pdf",
+    "text": "УП 05.01",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:43:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/PP_01.01(2).pdf",
+    "text": "ПП 01.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/PP_02.01(2).pdf",
+    "text": "ПП 02.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/PP_03.01(1).pdf",
+    "text": "ПП 03.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/PP_04.01(2).pdf",
+    "text": "ПП 04.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/PP_05.01(1).pdf",
+    "text": "ПП 05.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/PP_PDP_Proizvodstvennaya_praktika_(preddiplomnaya)(3).pdf",
+    "text": "ПП ПДП Производственная практика (преддипломная)",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aib/UP_01.01(2).pdf",
+    "text": "УП 01.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/UP_02.01(2).pdf",
+    "text": "УП 02.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vir/UP_03.01(1).pdf",
+    "text": "УП 03.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/UP_05.01(1).pdf",
+    "text": "УП 05.01",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "03.09.2024 16:28:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/PP_01.01(1).pdf",
+    "text": "ПП 01.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/PP_02.01(1).pdf",
+    "text": "ПП 02.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/PP_03.01.pdf",
+    "text": "ПП 03.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/PP_04.01(1).pdf",
+    "text": "ПП 04.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/PP_05.01.pdf",
+    "text": "ПП 05.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/PP_PDP_Proizvodstvennaya_praktika_(preddiplomnaya)(1).pdf",
+    "text": "ПП ПДП Производственная практика (преддипломная)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/UP_01.01(1).pdf",
+    "text": "УП 01.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/UP_02.01(1).pdf",
+    "text": "УП 02.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/air/UP_03.01.pdf",
+    "text": "УП 03.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/UP_05.01.pdf",
+    "text": "УП 05.01",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:13:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/Grafik_uchebnogo_processa_2025-2026_na_sait(7).pdf",
+    "text": "График (2025-2026)",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "26.11.2025 16:06:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/Grafik_3.10_2024-2025_(19.02.11_Texnologiya_produktov_pitaniya_iz_rastitelynogo_syryya).pdf",
+    "text": "График (2024-2025)",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.02.2025 10:57:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/Grafik_uchebnogo_processa_2025-2026_na_sait(7).pdf",
+    "text": "График (2025-2026)",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "26.11.2025 16:06:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rij/Grafik_3.10_2023-2024_(19.02.11_Texnologiya_produktov_pitaniya_iz_rastitelynogo_syryya)(1).pdf",
+    "text": "График (2023-2024)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "09.09.2024 10:12:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/Grafik_3.10_2024-2025_(19.02.11_Texnologiya_produktov_pitaniya_iz_rastitelynogo_syryya).pdf",
+    "text": "График (2024-2025)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.02.2025 10:57:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/Grafik_uchebnogo_processa_2025-2026_na_sait(7).pdf",
+    "text": "График (2025-2026)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "26.11.2025 16:06:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/air/Programma_IA-19.02.11.pdf",
+    "text": "Программа ИА",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "12.11.2024 16:44:41"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/Programma_IA-19.02.11_2023_g.n..pdf",
+    "text": "Программа ИА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "12.04.2024 12:14:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/rpv-2025(5).pdf",
+    "text": "Рабочая программа воспитания на 2025-2026 учебный год",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "15.10.2025 15:22:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/Rabochaya_programma_vospitaniya_s_planom_vospitatelynoi_raboty_na_2024-2025_uchebnyi_god(6).pdf",
+    "text": "Рабочая программа воспитания на 2024-2025 учебный год",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "11.02.2025 16:47:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/rpv-2025(5).pdf",
+    "text": "Рабочая программа воспитания на 2025-2026 учебный год",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "15.10.2025 15:22:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/Rabochaya_programma_vospitaniya_kolledgha_22-23_(1)(1).pdf",
+    "text": "Рабочая программа воспитания",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "12.04.2024 14:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/Rabochaya_programma_vospitaniya_s_planom_vospitatelynoi_raboty_na_2024-2025_uchebnyi_god(6).pdf",
+    "text": "Рабочая программа воспитания на 2024-2025 учебный год",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "11.02.2025 16:47:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/rpv-2025(5).pdf",
+    "text": "Рабочая программа воспитания на 2025-2026 учебный год",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "15.10.2025 15:22:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/Plan_iz_RPV(5).pdf",
+    "text": "Календарный план воспитательной работы (2025-2026)",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "15.10.2025 16:10:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/Kalendarnyi_plan_vospitatelynoi_raboty_kolledgha(6).pdf",
+    "text": "Календарный план воспитательной работы (2024-2025)",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "11.02.2025 16:48:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/Plan_iz_RPV(5).pdf",
+    "text": "Календарный план воспитательной работы (2025-2026)",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "15.10.2025 16:10:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/Kalendarnyi_plan(1).pdf",
+    "text": "Календарный план воспитательной работы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "12.04.2024 14:41:47"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/Kalendarnyi_plan_vospitatelynoi_raboty_kolledgha(6).pdf",
+    "text": "Календарный план воспитательной работы (2024-2025)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "11.02.2025 16:48:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/Plan_iz_RPV(5).pdf",
+    "text": "Календарный план воспитательной работы (2025-2026)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "15.10.2025 16:10:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vim/KOS_OP.01_Mikrobiologiya(1).pdf",
+    "text": "КОС ОП.01 Микробиология",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eii/KOS_OP.02_Processy_i_apparaty(1).pdf",
+    "text": "КОС ОП.02 Процессы и аппараты",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/KOS_OP.03_Avtomatizaciya(1).pdf",
+    "text": "КОС ОП.03 Автоматизация",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/KOS_OP.04_Prikladnye_kompyyuternye_programmy_v_prof._deyatelynosti(1).pdf",
+    "text": "КОС ОП.04 Прикладные компьютерные программы в проф. деятельности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/KOS_OP.05_Psixologiya_obscheniya(1).pdf",
+    "text": "КОС ОП.05 Психология общения",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/KOS_OP.06_Ximiya(1).pdf",
+    "text": "КОС ОП.06 Химия",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/KOS_OP.07_Elektrotexnika_i_elektronika(1).pdf",
+    "text": "КОС ОП.07 Электротехника и электроника",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/KOS_OP.08_Metrologiya_i_standartizaciya(1).pdf",
+    "text": "КОС ОП.08 Метрология и стандартизация",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eib/KOS_OP.09_Pravovoe_osnovy_professionalynoi_deyatelynosti(1).pdf",
+    "text": "КОС ОП.09 Правовое основы профессиональной деятельности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/KOS_OP.10_Oxrana_truda(1).pdf",
+    "text": "КОС ОП.10 Охрана труда",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/KOS_OP.10_Oxrana_truda_2.pdf",
+    "text": "КОС ОП.10 Охрана труда 2",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/KOS_OUD.01_Russkii_yazyk(6).pdf",
+    "text": "КОС ОУД.01 Русский язык",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zib/KOS_OUD.02_Literatura(6).pdf",
+    "text": "КОС ОУД.02 Литература",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/KOS_OUD.03_Istoriya(3).pdf",
+    "text": "КОС ОУД.03 История",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/KOS_OUD.04_Obschestvoznanie(3).pdf",
+    "text": "КОС ОУД.04 Обществознание",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/KOS_OUD.05_Geografiya(3).pdf",
+    "text": "КОС ОУД.05 География",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/KOS_OUD.06_Matematika(3).pdf",
+    "text": "КОС ОУД.06 Математика",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/KOS_OUD.07_Fizicheskaya_kulytura(3).pdf",
+    "text": "КОС ОУД.07 Физическая культура",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ria/KOS_OUD.08_Osnovy_bezopasnosti_i_zaschita_Rodiny(1).pdf",
+    "text": "КОС ОУД.08 Основы безопасности и защита Родины",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/KOS_OUD.09_Fizika.pdf",
+    "text": "КОС ОУД.09 Физика",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "23.04.2025 09:03:33"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/KOS_OUD.10_Inostrannyi_yazyk_(angl)(1).pdf",
+    "text": "КОС ОУД.10 Иностранный язык (англ)",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/KOS_OUD.11_Biologiya(1).pdf",
+    "text": "КОС ОУД.11 Биология",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "23.04.2025 09:03:33"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/KOS_OUD.12_Informatika(3).pdf",
+    "text": "КОС ОУД.12 Информатика",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:54:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/KOS_OUD.13_Ximiya(1).pdf",
+    "text": "КОС ОУД.13 Химия",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "23.04.2025 09:03:33"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/KOS_OUD.14_Vvedenie_v_specialynosty(2).pdf",
+    "text": "КОС ОУД.14 Введение в специальность",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 11:49:38"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vii/KOS_OUD.14_Rodnoi_yazyk_(russkii)_2024(2).pdf",
+    "text": "КОС ОУД.14 Родной язык (русский)_2024",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "28.02.2025 09:15:13"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiu/KOS_PM.02_Organizacionno-texnologicheskoe_obespechenie(1).pdf",
+    "text": "КОС ПМ.02 Организационно-технологическое обеспечение",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vit/KOS_PM.03_Laboratornyi_kontroly_kachestva_i_bezopasnosti(1).pdf",
+    "text": "КОС ПМ.03 Лабораторный контроль качества и безопасности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rit/KOS_PM.04._Obespechenie_deyatelynosti_strukturnogo_podrazdeleniya(1).pdf",
+    "text": "КОС ПМ.04. Обеспечение деятельности структурного подразделения",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/KOS_SG.01_Istoriya_Rossii(1).pdf",
+    "text": "КОС СГ.01 История России",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/KOS_SG.02_IYAPD(2).pdf",
+    "text": "КОС СГ.02 ИЯПД",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/KOS_SG.03_Osnovy_bezopasnosti_i_zaschita_Rodiny(1).pdf",
+    "text": "КОС СГ.03 Основы безопасности и защита Родины",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rid/KOS_SG.04_Fizicheskaya_kulytura(2).pdf",
+    "text": "КОС СГ.04 Физическая культура",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/KOS_SG.05_Osnovy_finansovoi_gramotnosti(1).pdf",
+    "text": "КОС СГ.05 Основы финансовой грамотности",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/KOS_SG.06_Osnovy_bereghnogo_proizvodstva(1).pdf",
+    "text": "КОС СГ.06 Основы бережного производства",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:30:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/KOS_OP.01_Mikrobiologiya.pdf",
+    "text": "КОС ОП.01 Микробиология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/KOS_OP.02_Processy_i_apparaty.pdf",
+    "text": "КОС ОП.02 Процессы и аппараты",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vii/KOS_OP.03_Avtomatizaciya.pdf",
+    "text": "КОС ОП.03 Автоматизация",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/KOS_OP.04_Prikladnye_kompyyuternye_programmy_v_prof._deyatelynosti.pdf",
+    "text": "КОС ОП.04 Прикладные компьютерные программы в проф. деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/KOS_OP.05_Psixologiya_obscheniya.pdf",
+    "text": "КОС ОП.05 Психология общения",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/KOS_OP.06_Ximiya.pdf",
+    "text": "КОС ОП.06 Химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/KOS_OP.07_Elektrotexnika_i_elektronika.pdf",
+    "text": "КОС ОП.07 Электротехника и электроника",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/KOS_OP.08_Metrologiya_i_standartizaciya.pdf",
+    "text": "КОС ОП.08 Метрология и стандартизация",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/KOS_OP.09_Pravovoe_osnovy_professionalynoi_deyatelynosti.pdf",
+    "text": "КОС ОП.09 Правовое основы профессиональной деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/KOS_OP.10_Oxrana_truda.pdf",
+    "text": "КОС ОП.10 Охрана труда",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/KOS_OUD.01_Russkii_yazyk(2).pdf",
+    "text": "КОС ОУД.01 Русский язык",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/KOS_OUD.02_Literatura.pdf",
+    "text": "КОС ОУД.02 Литература",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/KOS_OUD.03_Istoriya(1).pdf",
+    "text": "КОС ОУД.03 История",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vie/KOS_OUD.04_Obschestvoznanie(1).pdf",
+    "text": "КОС ОУД.04 Обществознание",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eif/KOS_OUD.05_Geografiya(1).pdf",
+    "text": "КОС ОУД.05 География",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/KOS_OUD.06_Matematika(2).pdf",
+    "text": "КОС ОУД.06 Математика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/KOS_OUD.07_Fizicheskaya_kulytura(1).pdf",
+    "text": "КОС ОУД.07 Физическая культура",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aij/KOS_OUD.08_Osnovy_bezopasnosti_i_zaschita_Rodiny.pdf",
+    "text": "КОС ОУД.08 Основы безопасности и защита Родины",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/KOS_OUD.09_Fizika(1).pdf",
+    "text": "КОС ОУД.09 Физика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "23.04.2025 08:59:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/KOS_OUD.10_Inostrannyi_yazyk_(angl).pdf",
+    "text": "КОС ОУД.10 Иностранный язык (англ)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/KOS_OUD.11_Biologiya(3).pdf",
+    "text": "КОС ОУД.11 Биология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "23.04.2025 08:59:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/KOS_OUD.12_Informatika(1).pdf",
+    "text": "КОС ОУД.12 Информатика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "13.02.2025 16:21:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/KOS_OUD.13_Ximiya(5).pdf",
+    "text": "КОС ОУД.13 Химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "23.04.2025 08:59:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/KOS_OUD.14_Vvedenie_v_specialynosty.pdf",
+    "text": "КОС ОУД.14 Введение в специальность",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 11:47:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/KOS_OUD.14_Rodnoi_yazyk_(russkii)_2023(2).pdf",
+    "text": "КОС ОУД.14 Родной язык (русский)_2023",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "28.02.2025 09:14:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/KOS_PM.02_Organizacionno-texnologicheskoe_obespechenie.pdf",
+    "text": "КОС ПМ.02 Организационно-технологическое обеспечение",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ria/KOS_PM.03_Laboratornyi_kontroly_kachestva_i_bezopasnosti.pdf",
+    "text": "КОС ПМ.03 Лабораторный контроль качества и безопасности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/KOS_PM.04._Obespechenie_deyatelynosti_strukturnogo_podrazdeleniya.pdf",
+    "text": "КОС ПМ.04. Обеспечение деятельности структурного подразделения",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aif/KOS_SG.01_Istoriya_Rossii.pdf",
+    "text": "КОС СГ.01 История России",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zin/KOS_SG.02_IYAPD.pdf",
+    "text": "КОС СГ.02 ИЯПД",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/KOS_SG.03_Osnovy_bezopasnosti_i_zaschita_Rodiny.pdf",
+    "text": "КОС СГ.03 Основы безопасности и защита Родины",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zia/KOS_SG.04_Fizicheskaya_kulytura.pdf",
+    "text": "КОС СГ.04 Физическая культура",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/KOS_SG.05_Osnovy_finansovoi_gramotnosti.pdf",
+    "text": "КОС СГ.05 Основы финансовой грамотности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/KOS_SG.06_Osnovy_bereghnogo_proizvodstva.pdf",
+    "text": "КОС СГ.06 Основы бережного производства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Оценочные материалы",
+    "format": "PDF",
+    "signedAt": "19.03.2025 15:28:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viw/GIA_19.02.11_2025.pdf",
+    "text": "Программа ГИА",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "16.01.2026 14:45:01"
+  }
+]

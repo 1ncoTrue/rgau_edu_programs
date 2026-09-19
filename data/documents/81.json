@@ -1,0 +1,392 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/23.03.03_OPOP_2022gNP(1).pdf",
+    "text": "ОПОП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2023 13:40:24"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/Zaochnoe_23.03.03_Servis_TTM_2022_ot08.05.22.plx(1).xlsx",
+    "text": "Учебный план (заочное)",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "XLSX",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.08_FIZIKA_LA_RPD(3).pdf",
+    "text": "Б1.O.08_ФИЗИКА ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.09_Ximiya_RPD_ETTMK_zaochnoe_2022(1).pdf",
+    "text": "Б1.O.09 Химия РПД ЭТТМК заочное 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.10_Ekologicheskaya_bezopasnosty_avtotransporta_RPD_FZO_2022(1).pdf",
+    "text": "Б1.O.10 Экологическая безопасность автотранспорта РПД ФЗО 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16_GiGP-RPD-STiTM-2022-FZO-itog_compressed.pdf",
+    "text": "Б1.O.16 ГиГП-РПД-СТиТМ-2022-ФЗО",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24._Osn.Rab.Tex.Sis_RPD(1).pdf",
+    "text": "Б1.O.24. Осн.Раб.Тех.Сис_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.27_Normativy_RPD_FZO_2022(1).pdf",
+    "text": "Б1.O.27 Нормативы РПД ФЗО 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.32_Osn_rasch_konstrTTMi_K_RPD_zaochn.pdf",
+    "text": "Б1.O.32 Осн расч констрТТМи К_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.33_OTPiRTTMiK_RPD_zaochn.pdf",
+    "text": "Б1.O.33 ОТПиРТТМиК_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.04_GiPSM_APK-RPD-STiTM-2022-FZO-itog_compressed.pdf",
+    "text": "Б1.В.04 ГиПСМ АПК-РПД-СТиТМ-2022-ФЗО",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.06.02_EksplNTS_RPD(1).pdf",
+    "text": "Б1.В.06.02 ЭксплНТС_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10_Elektroprivody_agregatov_TTMiK_RPD_zaochn-22.pdf",
+    "text": "Б1.В.10 Электроприводы агрегатов ТТМиК_РПД_заочн-22",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11_Avtomatiz_texnol_proc_ekspl_TTMiK_RPD_zaochn-22.pdf",
+    "text": "Б1.В.11 Автоматиз технол проц экспл ТТМиК_РПД_заочн-22",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.12_STViMDiSETTM_RPD_zaochn.pdf",
+    "text": "Б1.В.12 СТВиМДиСЕТТМ_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.13_Kontr_tex_sost_i_texn_diagn_TTM_RPD_zaochn.pdf",
+    "text": "Б1.В.13 Контр тех сост и техн диагн ТТМ_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16_Diagn_i_TO_GPPrTTM_RPD_zaochn.pdf",
+    "text": "Б1.В.16 Диагн и ТО ГППрТТМ_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.01.02_Cifrov_transf_serv-ekspl_deyat_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.01.02 Цифров трансф серв-экспл деят_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.01_Osn_ingh_tvorch_CSiII_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.02.01 Осн инж творч ЦСиИИ_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.02_II_i_dop_virtrealynosti_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.02.02 ИИ и доп виртреальности _РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.01_Texnol_nerazrush_kontrolya_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.03.01 Технол неразруш контроля_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.02_Sovrem_sost_sredstv_NK_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.03.02 Соврем сост средств НК_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.04.01_TIMDiSTTM_RPD_zaochn-22.pdf",
+    "text": "Б1.В.ДВ.04.01 ТИМДиСТТМ_РПД_заочн-22",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.04.02_Rasch_proekt_priv_i_ROTTM_spec_nazn_RPD_zaochn-22.pdf",
+    "text": "Б1.В.ДВ.04.02 Расч проект прив и РОТТМ спец назн_РПД_заочн-22",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.05.01_Reversn_ingh_i_MTO_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.05.01 Реверсн инж и МТО_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.05.02_Texnolog.podgot._add.proizv.det.ttm_RPD_zaochn_22.pdf",
+    "text": "Б1.В.ДВ.05.02 Технолог.подгот. адд.произв.дет.ттм РПД _заочн_22",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.06.01_TOSM_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.06.01 ТОСМ_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.06.02_Norm-texn_regul_i_nadzor_za_BE_TTM_RPD_zaochn.pdf",
+    "text": "Б1.В.ДВ.06.02 Норм-техн регул и надзор за БЭ ТТМ_РПД_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.07.02_Konstr_texnol_mash_RPD_22_zaochn.pdf",
+    "text": "Б1.В.ДВ.07.02_Констр технол маш_РПД_22_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.03_Metody_prikladnyx_issledovaniy_RPD-STTM_zaochn.pdf",
+    "text": "ФТД.03_Методы прикладных исследований_РПД-СТТМ_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:15:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.V.01.02(U)_Ozn.Pr._RPD.pdf",
+    "text": "Б2.В.01.02(У) Озн.Пр. РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.V.02.01(p)_Texnologicheskaya_Pr_RPD.pdf",
+    "text": "Б2.В.02.01(п) Технологическая Пр РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.V.02.02.(P)_Ekspl.Pr._RPD.pdf",
+    "text": "Б2.В.02.02.(П) Экспл.Пр. РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.V.02.03(P)_Preddipl_praktika_RPPr-2022_zaochn.pdf",
+    "text": "Б2.В.02.03(П)_Преддипл практика_РППр-2022_заочн",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.07.2023 11:16:11"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/KUG_23.03.03(4).pdf",
+    "text": "График (Заочная)",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "15.09.2025 16:45:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/MY-VKR_23.03.03_2022(1).pdf",
+    "text": "МУ ВКР",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "13.07.2023 13:43:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B3(G)_GIA_RP_2022_zaochn.pdf",
+    "text": "Б3(Г) ГИА",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "13.07.2023 13:43:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RP_Vospitaniya_2023(57).pdf",
+    "text": "РП Воспитания",
+    "year": 2023,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "18.12.2023 13:49:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/Kalendarnyy_plan_vospitatelynoy_raboty(57).pdf",
+    "text": "Календарный план воспитательной работы",
+    "year": 2023,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "18.12.2023 13:49:46"
+  }
+]

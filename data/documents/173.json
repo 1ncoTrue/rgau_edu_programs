@@ -1,0 +1,762 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/OPOP_20.04.01(2).pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "14.07.2026 14:45:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/OPOP_20.04.01(2).pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "14.07.2026 14:45:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/OPOP_20.04.01(1).pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:44:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/OPOP_20.04.01.pdf",
+    "text": "ОПОП (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zim/OPOP_TB_Magistr..pdf",
+    "text": "ОПОП",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "09.04.2025 13:34:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aif/20.04.01_PBiZCHS_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "23.06.2026 15:10:38"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/20.04.01_TB_05.06_2026_FZO.plx.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "23.06.2026 16:12:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aij/20.04.01_PBiZCHS_2025.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.06.2025 15:27:56"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rit/20.04.01_TB_05.06_2025_FZO.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "11.09.2025 09:24:07"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/20.04.01_TB_05.06_2024_FZO.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "02.11.2024 10:47:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/B1.V.02_Pogharovzryvobezopasnosty_RPD.pdf",
+    "text": "Б1.В.02 Пожаровзрывобезопасность РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.V.03_Pogharnaya_bezopasnosty_obyektov_ekonomiki_RPD(2).pdf",
+    "text": "Б1.В.03 Пожарная безопасность объектов экономики РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.V.04_Avtomatizaciya_i_nadeghnosty_sistem_zaschity_RPD(1).pdf",
+    "text": "Б1.В.04 Автоматизация и надежность систем защиты РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/B1.V.05_Resursosbereghenie_RPD.pdf",
+    "text": "Б1.В.05 Ресурсосбережение РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiq/B1.V.06_Stat.analiz_i_obr.dannyx_RPD_o.pdf",
+    "text": "Б1.В.06 Стат.анализ и обр.данных РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/B1.V.07_Osnovy_nauchno-issledovatelyskoi_deyatelynosti_RPD(1).pdf",
+    "text": "Б1.В.07 Основы научно-исследовательской деятельности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/B1.V.08.01_Proizvodstvennyi_ekologicheskii_kontroly_RPD(1).pdf",
+    "text": "Б1.В.08.01 Производственный экологический контроль РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vih/B1.V.08.03_Metody_kontrolya_obrascheniya_RPD.pdf",
+    "text": "Б1.В.08.03 Методы контроля обращения РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rij/B1.V.DV.01.01_Prinyatie_reshinii_po_zaschite_obyektov_ekonomiki_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Принятие решиний по защите объектов экономики РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viw/B1.O.01_Informacionnye_texnologii_v_sfere_bezopasnosti_(texnosfernoi)_RPD_2026.pdf",
+    "text": "Б1.О.01 Информационные технологии в сфере безопасности (техносферной) РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/B1.O.03_Sistemnyi_analiz,_modelirovanie_i_upravlenie_riskami_RPD.pdf",
+    "text": "Б1.О.03 Системный анализ, моделирование и управление рисками РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.O.04_Monitoring_bezopasnosti_RPD(2).pdf",
+    "text": "Б1.О.04_Мониторинг безопасности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B1.O.05_Osnovy_ekspertnoi_ocenki_promyshlennoi_bezopasnosti_RPD(1).pdf",
+    "text": "Б1.О.05 Основы экспертной оценки промышленной безопасности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B1.O.06_Inostrannyi_yazyk_(texnicheskii)_RPD.pdf",
+    "text": "Б1.О.06 Иностранный язык (технический) РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zik/FTD.02_Bespilotnye_sistemy_RPD.pdf",
+    "text": "ФТД.02 Беспилотные системы РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "22.07.2026 15:50:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.01_Proizvodstvennaya_sanitariya_gigiena_20.04.01_TB_RPD.pdf",
+    "text": "Б1.В.01_Производственная санитария_гигиена_20.04.01_ТБ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B1.V.02_Pogharovzryvobezopasnosty_texnologicheskix_sistem_RPD.pdf",
+    "text": "Б1.В.02 Пожаровзрывобезопасность технологических систем РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.V.03_Pogharnaya_bezopasnosty_obyektov_ekonomiki_RPD.pdf",
+    "text": "Б1.В.03 Пожарная безопасность объектов экономики РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.V.04_Avtomatizaciya_i_nadeghnosty_sistem_zaschity_RPD.pdf",
+    "text": "Б1.В.04 Автоматизация и надежность систем защиты РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/B1.V.05_Resursosbereghenie,_obraschenie_i_utilizaciya_s_otxodami_RPD.pdf",
+    "text": "Б1.В.05 Ресурсосбережение, обращение и утилизация с отходами РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B1.V.06_Stat.analiz_i_obr.dannyx_RPD.pdf",
+    "text": "Б1.В.06 Стат.анализ и обр.данных РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:39:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.V.07_Osnovy_nauchno-issledovatelyskoi_deyatelynosti_RPD.pdf",
+    "text": "Б1.В.07 Основы научно-исследовательской деятельности РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.V.08_DPP_Specialist_po_ekologicheskoi_bezopasnosti.pdf",
+    "text": "Б1.В.08 ДПП Специалист по экологической безопасности",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/B1.V.08(K)_Specialist_po_ekologicheskoi_bezopasnosti.pdf",
+    "text": "Б1.В.08(К) Специалист по экологической безопасности",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vig/B1.V.08.01_Proizvodstvennyi_ekologicheskii_kontroly_RPD.pdf",
+    "text": "Б1.В.08.01 Производственный экологический контроль РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B1.V.08.02_Pravila_i_trebovaniya_k_ekspluatacii_ZOS_RPD.pdf",
+    "text": "Б1.В.08.02 Правила и требования к эксплуатации ЗОС РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ein/B1.V.08.03_Metody_kontrolya_obrascheniya_s_otxodami_na_predpriyatiyax_APK_RPD.pdf",
+    "text": "Б1.В.08.03 Методы контроля обращения с отходами на предприятиях АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/B1.V.08.04(K)_Ekzamen_po_modulyu_Specialist_po_ekologicheskoi_bezopasnosti_(v_promyshlennosti_RPD.pdf",
+    "text": "Б1.В.08.04(К) Экзамен по модулю Специалист по экологической безопасности (в промышленности РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/B1.V.DV.01.01_Prinyatie_reshenii_po_zaschite_obyektov_ekonomiki_v_CHS_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Принятие решений по защите объектов экономики в ЧС РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/B1.V.DV.01.02_GIS_v_zaschite_okrughayuschei_sredy_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 ГИС в защите окружающей среды_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:39:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/B1.V.DV.02.01_Oborudovanie_obyektov_zaschity_proizvodstvennoi_sredy_RPD.pdf",
+    "text": "Б1.В.ДВ.02.01 Оборудование объектов защиты производственной среды РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/B1.V.DV.02.02_Normirovanie_i_ocenka_antropogennogo_vozdeistviya_na_komponenty_prirodnoi_sredy_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Нормирование и оценка антропогенного воздействия на компоненты природной среды РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:39:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B1.V.DV.03.01_Nadzor,_kontroly_i_audit_bezopasnosti_proizvodstvennyx_obyektov_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Надзор, контроль и аудит безопасности производственных объектов РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.V.DV.03.02_Principy_meghdunarodnogo_vzaimodeistviya_v_sfere_RPD.pdf",
+    "text": "Б1.В.ДВ.03.02 Принципы международного взаимодействия в сфере РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/B1.V.DV.04.01_Obespechenie_promyshlennoi_bezopasnosti_OPO_RPD.pdf",
+    "text": "Б1.В.ДВ.04.01 Обеспечение промышленной безопасности ОПО РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/B1.V.DV.04.02_Analiz_opasnosti_i_riska_v_APK_RPD.pdf",
+    "text": "Б1.В.ДВ.04.02 Анализ опасности и риска в АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/B1.O.01_Informacionnye_texnologii_v_sfere_bezopasnosti_(texnosfernoi)_RPD_TB.pdf",
+    "text": "Б1.О.01 Информационные технологии в сфере безопасности (техносферной) РПД ТБ",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:39:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/B1.O.02_Ekonomika_bezopasnotsi_(texnosfernaya)_RPD.pdf",
+    "text": "Б1.О.02 Экономика безопаснотси (техносферная) РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/B1.O.04_Monitoring_bezopasnosti_RPD.pdf",
+    "text": "Б1.О.04_Мониторинг безопасности РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:39:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B1.O.05_Osnovy_ekspertnoi_ocenki_promyshlennoi_bezopasnosti_RPD.pdf",
+    "text": "Б1.О.05 Основы экспертной оценки промышленной безопасности РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.O.06_20.04.01_Inostrannyi_yazyk_(texnicheskii)_RPD.pdf",
+    "text": "Б1.О.06 20.04.01 Иностранный язык (технический) РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:39:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ria/FTD.01_Proektirovanie_sistem_obespecheniya_bezopasnosti_v_APK_RPD.pdf",
+    "text": "ФТД.01 Проектирование систем обеспечения безопасности в АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/FTD.02_Bespilotnye_aviacionnye_sistemy_v_texnosfernoi_RPD.pdf",
+    "text": "ФТД.02 Беспилотные авиационные системы в техносферной РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:41:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/B1.V.03_Pogharnaya_bezopasnosty_obyektov_ekonomiki_RPD(1).pdf",
+    "text": "Б1.В.03_Пожарная безопасность объектов экономики_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:50:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/B1.V.06_Stat.analiz_i_obr.dannyx_RPD_.pdf",
+    "text": "Б1.В.06 Стат.анализ и обр.данных РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:51:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/B1.V.DV.01.02_GIS_v_zaschite_okrughayuschei_sredy_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.02 ГИС в защите окружающей среды_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:51:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiw/B1.V.DV.02.02_Normirovanie_i_ocenka_antropogennogo_vozdeistviya_na_komponenty_prirodnoi_sredy_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.02 Нормирование и оценка антропогенного воздействия на компоненты природной среды РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:51:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.O.01_Informacionnye_texnologii_v_sfere_bezopasnosti_(texnosfernoi)_RPD_TB_FZO.pdf",
+    "text": "Б1.О.01 Информационные технологии в сфере безопасности (техносферной) РПД ТБ ФЗО",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:51:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B1.O.02_Ekonomika_bezopasnotsi_(texnosfernaya)_RPD_FZO.pdf",
+    "text": "Б1.О.02 Экономика безопаснотси (техносферная) РПД ФЗО",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:50:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.O.04_Monitoring_bezopasnosti_RPD(1).pdf",
+    "text": "Б1.О.04_Мониторинг безопасности РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:51:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/B1.O.06_Inostrannyi_yazyk_(texnicheskii)_Zaochnaya_RPD.pdf",
+    "text": "Б1.О.06 Иностранный язык (технический) Заочная РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.12.2025 12:51:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/B1.O.06_Inostrannyi_yazyk_(texnicheskii).pdf",
+    "text": "Б1.О.06 Иностранный язык (технический)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "10.04.2025 16:19:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ria/B1.O.01_IT_v_sfere_bezopasnosti_(texnosfernoi)_RPD.pdf",
+    "text": "Б1.О.01 ИТ в сфере безопасности (техносферной) РПД",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.03.2025 15:48:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.V.06_Stat.analiz_i_obr.dannyx_RPD_(20.04.01_Texnosfernaya_bezopasnosty,_zaochnoe).pdf",
+    "text": "Б1.В.06 Стат.анализ и обр.данных РПД (20.04.01 Техносферная безопасность, заочное)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.03.2025 15:48:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aih/B2.O.01.01(U)Oznakomitelynaya_praktika_RPD.pdf",
+    "text": "Б2.О.01.01(У)Ознакомительная_практика РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:43:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/B2.O.02.01(P)_Nauchno-issledovatelyskaya_praktika_RPD.pdf",
+    "text": "Б2.О.02.01(П) Научно-исследовательская практика РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:43:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zim/B2.O.02.01P_Nauchno_issledovatelyskaya_praktika_RPD.pdf",
+    "text": "Б2.О.02.01П_Научно_исследовательская_практика РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:43:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ris/B2.O.02.02_P_Preddiplomnaya_praktika_RPD.pdf",
+    "text": "Б2.О.02.02 П_Преддипломная_практика РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:43:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B2.O.02.01(P)_Nauchno-issledovatelyskaya_praktika_RPP.pdf",
+    "text": "Б2.О.02.01(П) Научно-исследовательская практика РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:51:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B2.O.02.02(P)_Preddiplomnaya_praktika_RPP.pdf",
+    "text": "Б2.О.02.02(П) Преддипломная практика РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:51:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/KUG_20.04.01.pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 10:07:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/KUG_20.04.01.pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 10:07:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/KUG_20.04.01_IMVXS.pdf",
+    "text": "График (Заочная)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 15:47:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/KUG_20.04.01_IMVXS.pdf",
+    "text": "График (Заочная)",
+    "year": 2024,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 15:47:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/Metod_ukaz_k_zaschite_magistry.pdf",
+    "text": "Метод указ к защите магистры",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:48:24"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/B3.0.02_(D)_Podgotovka_k_sdache_i_sdacha_GE.pdf",
+    "text": "Б3.0.02 (Д) Подготовка к сдаче и сдача ГЭ",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "08.04.2026 15:49:18"
+  }
+]

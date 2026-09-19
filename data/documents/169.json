@@ -1,0 +1,732 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/2026_OPOP_19.04.01.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2026 13:22:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziq/2025_OPOP_19.04.01_ot_15_okt._so_skanami.pdf",
+    "text": "ОПОП (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:29:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/19.04.01_zaochn_BPPBAV_2026.plx.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "29.06.2026 16:00:07"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/19.04.01_zaochn_Biotexn_PP_Bav_2025_(2(1).pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "17.09.2025 12:16:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/B1.V.01_Sovremennye_metody_issledovaniya_RPD.pdf",
+    "text": "Б1.В.01 Современные методы исследования РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiq/B1.V.02_Biotexnologiya_syrov.doc._RPD(1).pdf",
+    "text": "Б1.В.02 Биотехнология сыров.doc. РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B1.V.03_Biotex_myasa_i_myasnyx_prod.doc._RPD(1).pdf",
+    "text": "Б1.В.03 Биотех мяса и мясных прод.doc. РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/B1.V.04_Biotex_kislomolochnyx_produktov_doc_RPD(1).pdf",
+    "text": "Б1.В.04 Биотех кисломолочных продуктов doc РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.V.05._Pischevye_dobavki_v_biotexnologiyax_pischevyx_produktov_RPD_2026.pdf",
+    "text": "Б1.В.05. Пищевые добавки в биотехнологиях пищевых продуктов РПД_2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B1.V.06_Texnicheskoe_regulirovanie_RPD.pdf",
+    "text": "Б1.В.06 Техническое регулирование РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.V.07_Upravlenie_riskami_v_biotexnologicheskix_proizvodstvax_RPD_2026.pdf",
+    "text": "Б1.В.07 Управление рисками в биотехнологических производствах РПД_2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zia/B1.V.08_Fudomika_RPD.pdf",
+    "text": "Б1.В.08 Фудомика РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/B1.V.09_Teoret._osnovy_biotex_pisch_prod_.doc._RPD(1).pdf",
+    "text": "Б1.В.09 Теорет. основы биотех пищ прод .doc. РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.V.DV.01.01Innov_biotex_dlya_berem_i_korm_ghen_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01Иннов биотех для берем и корм жен РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/B1.V.DV.01.02Innov_biotex_dlya_detei_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02Иннов биотех для детей РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/B1.V.DV.02.01_Innovacionnye_biotexnologii_produktov_dlya_gerodieticheskogo_RPD.pdf",
+    "text": "Б1.В.ДВ.02.01 Инновационные биотехнологии продуктов для геродиетического РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B1.V.DV.02.02_Innovacionnye_biotexnologii_produktov_pitaniya_obschego_naznacheniya_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Инновационные биотехнологии продуктов питания общего назначения РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/B1.O.03_IT_v_biotex_RPD_(1).pdf",
+    "text": "Б1.О.03 ИТ в биотех РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/B1.O.04_Inostrannyi_yazyk_(biotexnologiya)_RPD(1).pdf",
+    "text": "Б1.О.04 Иностранный язык (биотехнология) РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.O.06_UK_v_biotenologii_RPD.pdf",
+    "text": "Б1.О.06 УК в биотенологии РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.O.09_Osnovy_kommercializ_TD_RPD(1).pdf",
+    "text": "Б1.О.09 Основы_коммерциализ_ТД РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/B1.O.10_Standarty_GMP_v_texnologiyax_biologicheskix_proizvodstv_RPD(3).pdf",
+    "text": "Б1.О.10 Стандарты GMP в технологиях биологических производств РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.O.12_Modifikaciya_syryya_i_BAV_RPD_2026.pdf",
+    "text": "Б1.О.12 Модификация сырья и БАВ РПД_2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.O.13_Biotexnologicheskii_i_biogennyi_potencial_pischevogo_syryya_RPD.pdf",
+    "text": "Б1.О.13 Биотехнологический и биогенный потенциал пищевого сырья РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.O.15_Pischevaya_biotexnologiya_RPD_2026.pdf",
+    "text": "Б1.О.15 Пищевая биотехнология РПД_2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aip/FTD.02_Kvalimetriya_pischevyx_produktov_RPD.pdf",
+    "text": "ФТД.02 Квалиметрия пищевых продуктов РПД",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:04:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/B1.V.01_Sovremennye_metody_issledovaniya_RPD_2025.pdf",
+    "text": "Б1.В.01 Современные методы исследования РПД_2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B1.V.02_Biotexnologiya_syrov.doc._RPD.pdf",
+    "text": "Б1.В.02 Биотехнология сыров.doc. РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/B1.V.03_Biotex_myasa_i_myasnyx_prod.doc._RPD.pdf",
+    "text": "Б1.В.03 Биотех мяса и мясных прод.doc. РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiw/B1.V.04_Biotex_kislomolochnyx_produktov_doc_RPD.pdf",
+    "text": "Б1.В.04 Биотех кисломолочных продуктов doc РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.V.05._Pischevye_dobavki_v_biotexnologiyax_pischevyx_produktov_RPD.pdf",
+    "text": "Б1.В.05. Пищевые добавки в биотехнологиях пищевых продуктов РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/B1.V.06_Texnicheskoe_regulirovanie_RPD_2025_zaochnoe.pdf",
+    "text": "Б1.В.06 Техническое регулирование РПД 2025 заочное",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/B1.V.07_Upravlenie_riskami_v_biotexnologicheskix_proizvodstvax_RPD.pdf",
+    "text": "Б1.В.07 Управление рисками в биотехнологических производствах РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiw/B1.V.08_Fudomika_RPD_2025.pdf",
+    "text": "Б1.В.08 Фудомика РПД_2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B1.V.09_Teoret._osnovy_biotex_pisch_prod_.doc._RPD.pdf",
+    "text": "Б1.В.09 Теорет. основы биотех пищ прод .doc. РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/B1.V.10_Tovaroved_prodovolystvennyx_tovarov_Programma_perepodgotovki.pdf",
+    "text": "Б1.В.10 Товаровед продовольственных товаров Программа переподготовки",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.02.2026 11:05:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.V.10.01_Teor._osnovy_tovarovedeniya_i_ekspertizy_RPD.pdf",
+    "text": "Б1.В.10.01 Теор. основы товароведения и экспертизы_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zim/B1.V.10.02_Tovarovedenie_odnorodnyx_grup_prodolystvennyx_tovarov_RPD.pdf",
+    "text": "Б1.В.10.02 Товароведение однородных груп продольственных товаров_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B1.V.10.03_NOBiKSXSiPP_RPD.pdf",
+    "text": "Б1.В.10.03 НОБиКСХСиПП_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/B1.V.10.04._Upravlenie_assortimentom_tovarov_RPD.pdf",
+    "text": "Б1.В.10.04. Управление ассортиментом товаров_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/B1.V.10.05(K)_Ekzamen_po_modulyu_Tovaroved_prodovolystvennyx_tovarov_RP.pdf",
+    "text": "Б1.В.10.05(К) Экзамен по модулю «Товаровед продовольственных товаров» РП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B1.V.DV.01.01_Innov_tex_funk_prod_ghio_prois_dlya_berem_i_korm_ghen_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Иннов тех функ прод жио проис для берем и корм жен РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/B1.V.DV.01.02_Innov_texni_funk_prod_ghivgo_prois_dlya_detei_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Иннов техни функ прод живго проис для детей РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/B1.V.DV.02.01_Innovacionnyi_biotexnologii_produktov_gerodieticheskogo_pitaniya_RPD_2025.pdf",
+    "text": "Б1.В.ДВ.02.01 Инновационный биотехнологии продуктов геродиетического питания РПД_2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aip/B1.V.DV.02.02_Innov_biotexnologii_produktov_pitaniya_obschego_naznacheniya.pdf",
+    "text": "Б1.В.ДВ.02.02 Иннов биотехнологии продуктов питания общего назначения",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/B1.O.01_Metodologicheskie_osnovy_issledovanii_v_biotexnologii_RPD_(zaochno).pdf",
+    "text": "Б1.О.01 Методологические основы исследований в биотехнологии_РПД (заочно)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.02.2026 11:05:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.O.03_IT_v_biotex_Biotexnologiya_produktov_pitaniya_i_biologicheski_aktivnyx_veschestv_RPD(zaochnoe).pdf",
+    "text": "Б1.О.03 ИТ в биотех Биотехнология продуктов питания и биологически активных веществ РПД(заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.02.2026 11:05:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.O.04_Inostrannyi_yazyk_(biotexnologiya)_RPD_2025.pdf",
+    "text": "Б1.О.04_Иностранный язык (биотехнология)_РПД 2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.O.05_Metodika_professionalynogo_obucheniya_RPD_zaochn.pdf",
+    "text": "Б1.О.05 Методика профессионального обучения РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiu/B1.O.06_UK_v_biotenologii_RPD_2025.pdf",
+    "text": "Б1.О.06 УК в биотенологии РПД_2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/B1.O.07_Upravlenie_proektami_v_biotexnologii_RPD(1).pdf",
+    "text": "Б1.О.07 Управление проектами в биотехнологии_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.02.2026 11:05:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziq/B1.O.09_Osnovy_kommercializ_TD_RPD.pdf",
+    "text": "Б1.О.09 Основы_коммерциализ_ТД РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.02.2026 11:05:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.O.10_Standarty_GMP_v_texnologiyax_biologicheskix_proizvodstv_RPD(1).pdf",
+    "text": "Б1.О.10 Стандарты GMP в технологиях биологических производств РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.O.12._Modifikaciya_syryya_i_BAV_RPD.pdf",
+    "text": "Б1.О.12. Модификация сырья и БАВ РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ein/B1.O.13_Biotexnologicheskii_i_biogennyi_potencial_pischevogo_syryya_RPD_2025.pdf",
+    "text": "Б1.О.13 Биотехнологический и биогенный потенциал пищевого сырья РПД 2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/B1.O.14_Pischevaya_biotexnologiya_RPD.pdf",
+    "text": "Б1.О.14 Пищевая биотехнология РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zib/FTD.01_IntegrirovannyeSK_RPD_2025.pdf",
+    "text": "ФТД.01_ИнтегрированныеСК_РПД 2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:28:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/FTD.02_Kvalimetriya_pischevyx_produktov_RPD(2).pdf",
+    "text": "ФТД.02 Квалиметрия пищевых продуктов РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:26:22"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/B2.V.01.01(P)_Texnologicheskaya_praktika_2_PPP.pdf",
+    "text": "Б2.В.01.01(П) Технологическая практика 2 ППП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:05:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vij/B2.O.01.01(U)_Ped.praktika_RPP(1).pdf",
+    "text": "Б2.О.01.01(У) Пед.практика РПП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:05:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B2.O.02.01(P)_NIR_RPP(7).pdf",
+    "text": "Б2.О.02.01(П) НИР РПП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:05:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B2.O.02.02(P)_Texnologicheskaya_praktika_OMP.pdf",
+    "text": "Б2.О.02.02(П)_Технологическая практика_ОМП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:05:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B2.O.02.03(P)_Preddiplomnaya_praktika_PPP.pdf",
+    "text": "Б2.О.02.03(П) Преддипломная практика_ППП",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:05:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zir/B2.V.01.01(P)_Texnologicheskaya_praktika_2_PPP_2025_zaochnoe.pdf",
+    "text": "Б2.В.01.01(П) Технологическая практика 2 ППП 2025 заочное",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:27:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B2.O.01.01(U)_Ped.praktika_RPP.pdf",
+    "text": "Б2.О.01.01(У) Пед.практика РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:27:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B2.O.02.01(P)_NIR_RPP(5).pdf",
+    "text": "Б2.О.02.01(П) НИР РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:27:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B2.O.02.02(P)_Texnol.praktika_RPP.pdf",
+    "text": "Б2.О.02.02(П) Технол.практика РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:27:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B2.O.02.03(P)_Preddiplomnaya_praktika_PPP_2025_zaochnoe.pdf",
+    "text": "Б2.О.02.03(П) Преддипломная практика_ППП 2025 заочное",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:27:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aib/KUG_19.04.01(4).pdf",
+    "text": "График (Заочная)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "01.10.2025 16:53:59"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/MU_VKR_19.04.01_2026.pdf",
+    "text": "МУ ВКР 19.04.01_2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:09:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vim/GIA_19.04.01_2026.pdf",
+    "text": "ГИА 19.04.01_2026",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:09:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/MU_VKR_magistry_19.04.01.pdf",
+    "text": "МУ ВКР магистры 19.04.01",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "16.02.2026 11:07:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vii/GIA_19.04.01_Biotexnologiya_ispravl..pdf",
+    "text": "Программа ГИА",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "17.11.2025 13:30:48"
+  }
+]

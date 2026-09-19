@@ -1,0 +1,1362 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/OPOP_Korp_uchet_i_finans_menedghment2023.pdf",
+    "text": "ОПОП",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:48:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/OPOP_Korp_uchet_i_finans_menedghment2023.pdf",
+    "text": "ОПОП",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:48:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/38.03.01_KUiFM_2023_KUG.pdf",
+    "text": "Учебный план",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.02.2026 11:57:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/38.03.01_OZO_KUiFM_2023_(1).plx.xlsx",
+    "text": "Учебный план (вечернее)",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "XLSX",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01_Filosofiya_RPD(69).pdf",
+    "text": "Б1.O.01 Философия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01_Filosofiya_RPD_38.03.01_Ekonomika.pdf",
+    "text": "Б1.O.01 Философия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.02._ISTORIYA_ROSSII_RPD_2023.pdf",
+    "text": "Б1.O.02. ИСТОРИЯ РОССИИ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.03_Pravo_RPD(14).pdf",
+    "text": "Б1.O.03 Право",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.04_Inostrannyi_yazyk_RPD.pdf",
+    "text": "Б1.O.04 Иностранный язык",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/B1.O.05_Bezopasnosty_ghiznedeyatelynosti_RPD(1).pdf",
+    "text": "Б1.O.05 Безопасность жизнедеятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.06_Psixologiya_RPD.pdf",
+    "text": "Б1.O.06 Психология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B1.O.06._Kulytura_rechi_i_delovoe_obschenie_LA_RPD.pdf",
+    "text": "Б1.O.06. Культура речи и деловое общение",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.07_Lininaya_algebra_RPD.pdf",
+    "text": "Б1.O.07 Линейная алгебра",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/B1.O.08_Matematicheskii_analiz_LA_RPD.pdf",
+    "text": "Б1.O.08 Математический анализ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.O.09_Teoriya_veroyatnostei_LA_RPD.pdf",
+    "text": "Б1.O.09 Теория вероятностей",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.10_Metody_optim_resheniy_RPD_LA_2023.pdf",
+    "text": "Б1.O.10 Методы оптим решений",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riw/B1.O.11Mikroekonom_RPD_LA.pdf",
+    "text": "Б1.O.11 Микроэконом",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aij/B1.O.12_Makroekonom_RPD_LA.pdf",
+    "text": "Б1.O.12 Макроэконом",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.13_Ekonometrika_RPD(8).pdf",
+    "text": "Б1.O.13 Эконометрика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiq/B1.O.14_Statistika_LA_RPD_2023.pdf",
+    "text": "Б1.O.14 Статистика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.15_Marketing_LA_RPD_38.03.01.pdf",
+    "text": "Б1.O.15 Маркетинг",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16_Menedghment_LA_RPD(2).pdf",
+    "text": "Б1.O.16 Менеджмент",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.17_Finansy_RPD(10).pdf",
+    "text": "Б1.O.17 Финансы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.18_Taym_menedghment_LA_RPD.pdf",
+    "text": "Б1.O.18 Тайм-менеджмент",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.20_Ekonomika_predpriyatiya_(organizacii)_LA_RPD.pdf",
+    "text": "Б1.O.20 Экономика предприятия (организации)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.21_Psixologiya_v_professionalynoi_deyatelynosti_RPD.pdf",
+    "text": "Б1.O.21 Психология в профессиональной деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.22_Teoriya_buxgalterskogo_ucheta_LA_RPD.pdf",
+    "text": "Б1.O.22 Теория бухгалтерского учета",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.O.23_MirovayaEkonomika_(KUiFMvCE)_LA_RPD.pdf",
+    "text": "Б1.O.23 МироваяЭкономика (КУиФМвЦЭ)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24_Ekonomicheskiy_analiz_2023,_ochno_RPD_(vse_profili)_UMU.pdf",
+    "text": "Б1.O.24 Экономический анализ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.O.25_FKS_LA_RPD_38.03.01.pdf",
+    "text": "Б1.O.25 ФКС ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.26_ORG_RP_2023.pdf",
+    "text": "Б1.O.26 ОРГ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/B1.O.DV.10.01_BFK_LA_RPD_38.03.01.pdf",
+    "text": "Б1.O.ДВ.10.01 БФК ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viq/B1.O.DV.10.02_BVS_LA_RPD_38.03.01.pdf",
+    "text": "Б1.O.ДВ.10.02 БВС ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.01.01_AOZ_RPD_ochniki_2023.pdf",
+    "text": "Б1.В.01.01 АОЗ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/B1.V.01.02_Texnologiya_proizvodstva_produkcii_rastenievodstva_RPD(1).pdf",
+    "text": "Б1.В.01.02 Технология производства продукции растениеводства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.01.03_TXPPR_LA_RPD.pdf",
+    "text": "Б1.В.01.03 ТХППР",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.02.01_Texnologiya_proizvodstva_produkcii_ghivotnovodstva_RPD(14).pdf",
+    "text": "Б1.В.02.01 Технология производства продукции животноводства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.02.02_Texnologiya_pererabotki_i_xraneniya_produkcii_ghivotnovodstva._RP.pdf",
+    "text": "Б1.В.02.02 Технология переработки и хранения продукции животноводства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.03_Ekonomika_selyskogo_xozyaystva_LA_RPD.pdf",
+    "text": "Б1.В.03 Экономика сельского хозяйства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.04_KEAFXD_org.APK_RPD_2023.pdf",
+    "text": "Б1.В.04 KЭAФХД oрг.AПK",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.05,_Proektirovanie_biznes_processov_predprinimatelyskoi_deyatelynosti,_RPD..pdf",
+    "text": "Б1.В.05 Проектирование бизнес-процессов предпринимательской деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.06_Nalogi_i_nalogoobloghenie_RPD(14).pdf",
+    "text": "Б1.В.06 Налоги и налогообложение",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07_Pravovoe_regulirovanie_FED_v_APK_RPD_2023_KUiFM_bak.pdf",
+    "text": "Б1.В.07 Правовое регулирование ФЭД в АПК",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.08_Denygi,_kredit,_banki_RPD(6).pdf",
+    "text": "Б1.В.08 Деньги, кредит, банки",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.09_Buxgalterskii_finansovyi_uchet_LA_RPD.pdf",
+    "text": "Б1.В.09 Бухгалтерский финансовый учет",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10_Buxgalterskaya_finansovaya_otchetnosty_RPD(2).pdf",
+    "text": "Б1.В.10 Бухгалтерская финансовая отчетность",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11_Finansovyi_menedghment_RPD.pdf",
+    "text": "Б1.В.11 Финансовый менеджмент",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.12_Korporativnye_finansy_ochnaya_RPD.pdf",
+    "text": "Б1.В.12 Корпоративные финансы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.13_Audit_korporativnoi_otchetnosti_RP_ochno.pdf",
+    "text": "Б1.В.13 Аудит корпоративной отчетности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.14_Korporativnoe_pravo_RPD_2023_KUiFM_bak.pdf",
+    "text": "Б1.В.14_Корпоративное право",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.15_Investicii_RPD_2023.pdf",
+    "text": "Б1.В.15 Инвестиции",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16_Principy_i_metody_korporativnogo_ucheta_RPD_2023.pdf",
+    "text": "Б1.В.16 Принципы и методы корпоративного учета",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.17_Nalogovyi_uchet_i_otchetnosty_v_cifrovoi_ekonomike_RPD.pdf",
+    "text": "Б1.В.17 Налоговый учет и отчетность в цифровой экономике",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.18_Upravlencheksii_uchet_v_korporaciyax_RPD_2023.pdf",
+    "text": "Б1.В.18 Управленчексий учет в корпорациях",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.19_Elektronnyy_praktikum_po_buxgalterskomu_uchetu_i_otchetnosti_RPD_Och_2023.pdf",
+    "text": "Б1.В.19 Электронный практикум по бухгалтерскому учету и отчетности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.20_Rynok_cennyx_bumag_ochnaya_RPD.pdf",
+    "text": "Б1.В.20 Рынок ценных бумаг",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.21_Meghdunarodnye_standarty_finansovoy_otchetnosti_RPD_Och_2023.pdf",
+    "text": "Б1.В.21 Международные стандарты финансовой отчетности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/B1.V.22_Korporativnaya_otchetnosty_RPD.pdf",
+    "text": "Б1.В.22 Корпоративная отчетность",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.23_Korporativnoe_nalogoobloghenie_RPD.pdf",
+    "text": "Б1.В.23 Корпоративное налогообложение",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.24_ERP_sistemy_RPD_Och_2023.pdf",
+    "text": "Б1.В.24 ERP-системы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.25_Finansovye_vychisleniya_ochnaya_RPD.pdf",
+    "text": "Б1.В.25 Финансовые вычисления",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.01.01_Osnovy_cifrovoi_ekonomiki_LA_RPD_OFO.pdf",
+    "text": "Б1.В.ДВ.01.01 Основы цифровой экономики",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.01_Pervichnaya_uchetnaya_dokumentaciya_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.02.01 Первичная учетная документация",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.02_Elektronnyy_dokumentooborot_v_upravlencheskoy_deyatelynosti_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.02.02 Электронный документооборот в управленческой деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/B1.V.DV.03.01_Uchet_zatrat,_kalykulirovanie_i_byudghetirovanie_RP_2023.pdf",
+    "text": "Б1.В.ДВ.03.01 Учет затрат, калькулирование и бюджетирование",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:43:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.02_Finansy_organizacii_APK_RPD_.pdf",
+    "text": "Б1.В.ДВ.03.02 Финансы организаций АПК",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.03_Uchet_otchetnosty_i_analiz_v_usloviyax_antikrizisnogo_upravleniya_RP(2).pdf",
+    "text": "Б1.В.ДВ.03.03 Учет отчетность и анализ в условиях антикризисного управления",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.VD.04.02_Ekonomicheskaya_bezopasnosty_v_korporaciyax_RP_2023.pdf",
+    "text": "Б1.В.ДВ.04.02 Экономическая безопасность в корпорациях",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/K.M.01.04._Elektronnyi_dokumentooborot_v_1S_RPD_BAK_2023.pdf",
+    "text": "К.М.01.04. Электронный документооборот в 1С",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 10:45:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.01_Elektronnyy_praktikum_po_osnovam_buxgalterskogo_ucheta_i_upravleniya_mikropredpriyatiem_RPD_Och_Bak_2023.pdf",
+    "text": "ФТД.01 Электронный практикум по основам бухгалтерского учета и управления микропредприятием",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.02_Elektronnyy_praktikum_po_uchetu_oplaty_truda_i_upravleniyu_predpriyatiem_RPD_Och_Bak_2023.pdf",
+    "text": "ФТД.02 Электронный практикум по учету оплаты труда и управлению предприятием",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:31:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01_Filosofiya_RPD_38.03.01_Ekonomika(1).pdf",
+    "text": "Б1.O.01 Философия",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01.02._ISTORIYA_ROSSII._RPD._2023.pdf",
+    "text": "Б1.O.01.02 ИСТОРИЯ РОССИИ",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.03_Pravo_RPD(15).pdf",
+    "text": "Б1.O.03 Право",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.04_Inostrannyi_yazyk_RPD(1).pdf",
+    "text": "Б1.O.04 Иностранный язык",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.10_Metody_optim_resheniy_ochn_zaoch_RPD_LA_2023.pdf",
+    "text": "Б1.O.10 Методы оптим решений",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.11_Mikroekonomika_(prodvinutyy_uroveny)_38.03.01._RPD_2023(1).pdf",
+    "text": "Б1.O.11 Микроэкономика (продвинутый уровень)",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.12_Makroekonomika_(prodvinutyy_uroveny)_38.03.01._RPD_ochno_zaochnaya_forma_2023.pdf",
+    "text": "Б1.O.12 Макроэкономика (продвинутый уровень)",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B1.O.14_Statistika_RPD_och_zaoch_2023.pdf",
+    "text": "Б1.O.14 Статистика",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.15_Marketing_RPD_2023.pdf",
+    "text": "Б1.O.15 Маркетинг",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.18_Taym_menedghment_2023_LA_RPD.pdf",
+    "text": "Б1.O.18 Тайм-менеджмент",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.20_Ekonomika_predpriyatiya_(organizacii)_RPD(8).pdf",
+    "text": "Б1.O.20 Экономика предприятия (организации)",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.22_Teoriya_buxgalterskogo_ucheta_LA_RPD(1).pdf",
+    "text": "Б1.O.22 Теория бухгалтерского учета",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/B1.O.23_MirovayaEkonomika_(KUiFMvCE)_LA_RPD(1).pdf",
+    "text": "Б1.O.23 МироваяЭкономика (КУиФМвЦЭ)",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24_Ekonomicheskiy_analiz_2023,_ochno_zaochno_RPD_(vse_profili)_umu.pdf",
+    "text": "Б1.O.24 Экономический анализ",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.O.25_FKS_LA_RPD_38.03.01(1).pdf",
+    "text": "Б1.O.25 ФКС ЛА",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.26._ORG_RPD._2023.pdf",
+    "text": "Б1.O.26. ОРГ",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.O.DV.01.01_BFK_LA_RPD_38.03.01.pdf",
+    "text": "Б1.O.ДВ.01.01 БФК ЛА",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.O.DV.01.02_BVS_LA_RPD_38.03.01.pdf",
+    "text": "Б1.O.ДВ.01.02 БВС ЛА",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.V.01.03_Texnologiya_xraneniya_i_pererabotki_produkcii_rastenievodstva_RPD_2023.pdf",
+    "text": "Б1.В.01.03 Технология хранения и переработки продукции растениеводства",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.02.01_Texnologiya_proizvodstva_produkcii_ghivotnovodstva_RPD_vecher.pdf",
+    "text": "Б1.В.02.01 Технология производства продукции животноводства",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.03_Ekonomika_selyskogo_xozyaystva_LA_RPD(1).pdf",
+    "text": "Б1.В.03 Экономика сельского хозяйства",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.04_KEAFXD_org.APK_RPD_ochno_zaochn_2023.pdf",
+    "text": "Б1.В.04 KЭAФХД oрг.AПК",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.05,_proektirovanie_biznes_procesov_predprinimatelyskoy_deyatelynosti,_RPD_.pdf",
+    "text": "Б1.В.05 проектирование бизнес-процесов предпринимательской деятельности",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.06_Nalogi_i_nalogoobloghenie_RPD(15).pdf",
+    "text": "Б1.В.06 Налоги и налогообложение",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07_Pravovoe_regulirovanie_FED_v_APK_RPD_2023_KUiFM_bak(1).pdf",
+    "text": "Б1.В.07 Правовое регулирование ФЭД в АПК",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.08_Denygi,_kredit,_banki_RPDv(1).pdf",
+    "text": "Б1.В.08 Деньги, кредит, банки",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.09_Buxgalterskii_finansovyi_uchet_LA_RPD(1).pdf",
+    "text": "Б1.В.09 Бухгалтерский финансовый учет",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10_Buxgalterskaya_finansovaya_otchetnosty_RPD(3).pdf",
+    "text": "Б1.В.10 Бухгалтерская финансовая отчетность",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11_Finansovyi_menedghment_RPD(1).pdf",
+    "text": "Б1.В.11 Финансовый менеджмент",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.12_Korporativnye_finansy_ochno_zaochnaya_RPD.pdf",
+    "text": "Б1.В.12 Корпоративные финансы",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.13_Audit_korporativnoi_otchetnosti_RP_o_z.pdf",
+    "text": "Б1.В.13 Аудит корпоративной отчетности",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.14_Korporativnoe_pravo_RPD_2023_KUiFM_bak(1).pdf",
+    "text": "Б1.В.14 Корпоративное право",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.15_Investicii_RPD.pdf",
+    "text": "Б1.В.15 Инвестиции",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16_Principy_i_metody_korporativnogo_ucheta_RPD_2023(1).pdf",
+    "text": "Б1.В.16 Принципы и методы корпоративного учета",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.17_Nalogovyi_uchet_i_otchetnosty_v_cifrovoi_ekonomike_RPD(1).pdf",
+    "text": "Б1.В.17 Налоговый учет и отчетность в цифровой экономике",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.19_Elektronnyy_praktikum_po_buxgalterskomu_uchetu_i_otchetnosti_RPD_OZO_2023.pdf",
+    "text": "Б1.В.19 Электронный практикум по бухгалтерскому учету и отчетности",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.20_Rynok_cennyx_bumag_ochno_zaochnaya_RPD.pdf",
+    "text": "Б1.В.20 Рынок ценных бумаг",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.21_Meghdunarodnye_standarty_finansovoy_otchetnosti_RPD_OZO_2023.pdf",
+    "text": "Б1.В.21 Международные стандарты финансовой отчетности",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/air/B1.V.22_Korporativnaya_otchetnosty_RP.pdf",
+    "text": "Б1.В.22 Корпоративная отчетность",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.23_Korporativnoe_nalogoobloghenie_RPD(1).pdf",
+    "text": "Б1.В.23 Корпоративное налогообложение",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.24_ERP_sistemy_RPD_OZO_2023.pdf",
+    "text": "Б1.В.24 ERP-системы",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.25_Finansovye_vychisleniya_ochno_zaochnaya_RPD.pdf",
+    "text": "Б1.В.25 Финансовые вычисления",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.01.01_Osnovy_cifrovoi_ekonomiki_LA_RPD_OZFO.pdf",
+    "text": "Б1.В.ДВ.01.01 Основы цифровой экономики",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.01_Pervichnaya_uchetnaya_dokumentaciya_RPD_2023(1).pdf",
+    "text": "Б1.В.ДВ.02.01 Первичная учетная документация",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.02_Elektronnyy_dokumentooborot_v_upravlencheskoy_deyatelynosti_RPD_2023(1).pdf",
+    "text": "Б1.В.ДВ.02.02 Электронный документооборот в управленческой деятельности",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zin/B1.V.DV.03.01_Uchet_zatrat,_kalykulirovanie_i_byudghetirovanie_RP_2023(1).pdf",
+    "text": "Б1.В.ДВ.03.01 Учет затрат, калькулирование и бюджетирование",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:47:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.02_Finansy_organizacii_APK_RPD_(1).pdf",
+    "text": "Б1.В.ДВ.03.02 Финансы организаций АПК",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "28.12.2023 11:42:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.03_Uchet_otchetnosty_i_analiz_v_usloviyax_antikrizisnogo_upravleniya_RP(3).pdf",
+    "text": "Б1.В.ДВ.03.03 Учет отчетность и анализ в условиях антикризисного управления",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.VD.04.02_Ekonomicheskaya_bezopasnosty_v_korporaciyax_RP_2023_vecherniki.pdf",
+    "text": "Б1.В.ДВ.04.02 Экономическая безопасность в корпорациях",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.01_Elektronnyy_praktikum_po_osnovam_buxgalterskogo_ucheta_i_upravleniya_mikropredpriyatiem_RPD_OZO_Bak_2023.pdf",
+    "text": "ФТД.01 Электронный практикум по основам бухгалтерского учета и управления микропредприятием",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.02_Elektronnyy_praktikum_po_uchetu_oplaty_truda_i_upravleniyu_predpriyatiem_RPD_OZO_Bak_2023.pdf",
+    "text": "ФТД.02 Электронный практикум по учету оплаты труда и управлению предприятием",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.10.2023 10:37:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B2.O.01.01_(U)_Oznakomitelynaya_praktika_RPP(4).pdf",
+    "text": "Б2.O.01.01 (У) Ознакомительная практика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:44:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rid/B2.O.02.01(P)_Proizvodstvennaya_texnologicheskaya_(proektno-texnologicheskaya)_praktika_RPP(5).pdf",
+    "text": "Б2.O.02.01(П) Производственная технологическая (проектно-технологическая) практика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:44:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/B2.V.01.01(P)_Proizvodstvennaya_praktika_NIR_RPP(1).pdf",
+    "text": "Б2.В.01.01(П) Производственная практика НИР",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:44:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B2.V.01.02(P)_Proizvodstvennaya_preddiplomnaya_praktika_RPP(6).pdf",
+    "text": "Б2.В.01.02(П) Производственная преддипломная практика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:44:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B2.O.01.01_(U)_Oznakomitelynaya_praktika_RPP(2).pdf",
+    "text": "Б2.O.01.01 (У) Ознакомительная практика",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:48:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eib/B2.O.02.01(P)_Proizvodstvennaya_texnologicheskaya_(proektno-texnologicheskaya)_praktika_RPP(6).pdf",
+    "text": "Б2.O.02.01(П) Производственная технологическая (проектно-технологическая) практика",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:48:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ria/B2.V.01.01(P)_Proizvodstvennaya_praktika_NIR_RPP(2).pdf",
+    "text": "Б2.В.01.01(П) Производственная практика НИР",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:48:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B2.V.01.02(P)_Proizvodstvennaya_preddiplomnaya_praktika_RPP(7).pdf",
+    "text": "Б2.В.01.02(П) Производственная преддипломная практика",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.04.2024 15:48:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rid/KUG_38.03.01(17).pdf",
+    "text": "График",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "19.09.2025 16:16:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiq/ieiu_ozo-25-26(3).pdf",
+    "text": "График (Очно-заочная)",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "16.02.2026 15:07:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RP_Vospitaniya_2023(116).pdf",
+    "text": "РП Воспитания",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "18.12.2023 16:30:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RP_Vospitaniya_2023(116).pdf",
+    "text": "РП Воспитания",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "18.12.2023 16:30:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/Kalendarnyy_plan_vospitatelynoy_raboty(116).pdf",
+    "text": "Календарный план воспитательной работы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "18.12.2023 16:31:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/Kalendarnyy_plan_vospitatelynoy_raboty(116).pdf",
+    "text": "Календарный план воспитательной работы",
+    "year": 2023,
+    "form": "Очно-заочная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "18.12.2023 16:31:15"
+  }
+]

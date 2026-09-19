@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/OPOP_05.04.04_Gidrometeorologiya.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2026 16:14:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/05.04.04_AB_Gidromet.inf-izmerit.sistemy_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "23.06.2026 11:00:35"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B1.V.07_Iskusstvennyi_intellekt_v_gidrometeorologicheskom_obespechenii_RPD(1).pdf",
+    "text": "Б1.В.07 Искусственный интеллект в гидрометеорологическом обеспечении РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/B1.V.DV.01.01_Teoriya_i_metodologiya_straxovaniya_riskov_RPD(2).pdf",
+    "text": "Б1.В.ДВ.01.01 Теория и методология страхования рисков РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vig/B1.V.DV.01.02_Straxovanie_selyskoxozyaistvennyx_kulytur_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.02 Страхование сельскохозяйственных культур РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zid/B1.V.DV.02.01_Osnovy_upravleniya_personalom_RPD(3).pdf",
+    "text": "Б1.В.ДВ.02.01 Основы управления персоналом РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.V.DV.02.02_Rabota_s_malymi_gruppami_RPD(3).pdf",
+    "text": "Б1.В.ДВ.02.02 Работа с малыми группами РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.O.01_Inostrannyi_yazyk_RPD(4).pdf",
+    "text": "Б1.О.01 Иностранный язык РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/B1.O.02_Filosofskie_problemy_estestvoznaniya_RPD(2).pdf",
+    "text": "Б1.О.02 Философские проблемы естествознания РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B1.O.06_Osnovy_kommercializ_TD_RPD_.pdf",
+    "text": "Б1.О.06 Основы_коммерциализ ТД РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.O.07_Psixologiya_obscheniya_RPD(2).pdf",
+    "text": "Б1.О.07 Психология общения РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.07.2026 10:09:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/KUG_05.04.04(3).pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "07.09.2026 10:51:38"
+  }
+]

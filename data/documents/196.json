@@ -1,0 +1,822 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/OPOP_Proektirovanie_i_ustoichivoe_upravl._obyektami._L,A,.pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "02.06.2026 13:03:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziw/OPOP_Proektirovanie_i_ustoichivoe_upravl._obyektami._L,A,.pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "02.06.2026 13:03:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/35.04.09_SILA_PiUUOLA_2025.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.06.2025 16:02:45"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aid/35.04.09-LA-PiUUOLA-2025_zaoch.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "18.08.2025 13:48:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B1.V.01._Tipologicheskie_osobennosti_prostrannstvennogo_modelirovaniya_sredy_RPD.pdf",
+    "text": "Б1.В.01. Типологические особенности пространнственного моделирования среды РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zik/B1.V.02_Kadastrovyi_uchet_obyektov_landshaftnoi_arxitektury_RPD.pdf",
+    "text": "Б1.В.02 Кадастровый учет объектов ландшафтной архитектуры РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.V.03_Biometriya_v_LA_RPD.pdf",
+    "text": "Б1.В.03 Биометрия в ЛА РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vih/B1.V.04_Vektornye_graf_sistemy_RPD.pdf",
+    "text": "Б1.В.04 Векторные граф системы РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/B1.V.05_Prostranstvennoe_modelirovanie_s.t._RPD.pdf",
+    "text": "Б1.В.05 Пространственное моделирование с.т. РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eil/B1.V.06_IDRnaSO_RPD(2).pdf",
+    "text": "Б1.В.06 ИДРнаСО РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.V.07_Specialist_v_oblasti_dek_sadovodstva_i_landshaftnogo_proektirovaniya(1).pdf",
+    "text": "Б1.В.07 Специалист в области дек садоводства и ландшафтного проектирования",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B1.V.07.01_Poryad.soglas.PSD_RPD(2).pdf",
+    "text": "Б1.В.07.01 Поряд.соглас.ПСД РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/B1.V.07.02_Dekorat._i_spec._gazony_RPD(3).pdf",
+    "text": "Б1.В.07.02 Декорат. и спец. газоны РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/B1.V.07.03_INNOVACIONNYE_TEXNOLOGII_RPD(2).pdf",
+    "text": "Б1.В.07.03 ИННОВАЦИОННЫЕ ТЕХНОЛОГИИ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/B1.V.07.04(K)Programma_IGA_Specialist_v_oblasti_dek_sadovodstva_i_landshaftnogo_proektirovaniya.pdf",
+    "text": "Б1.В.07.04(К)Программа ИГА Специалист в области дек садоводства и ландшафтного проектирования",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B1.V.DV.01.01_Professionalynyi_kodeks_ladshaftnogo_arxitektora_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Профессиональный кодекс ладшафтного архитектора_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B1.V.DV.01.02_Professionalynyi_kodeks_grinkipera_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.02 Профессиональный кодекс гринкипера РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/B1.V.DV.02.01_Arxitektura_rastitelynyx_kompozicii_RPD.pdf",
+    "text": "Б1.В.ДВ.02.01 Архитектура растительных композиций РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/B1.V.DV.02.02_Vvedenie_v_gaz-vo_RPD(2).pdf",
+    "text": "Б1.В.ДВ.02.02 Введение в газ-во РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.V.DV.03.01_Organizaciya_otkrytyx_prostranstv_RPD_2025.pdf",
+    "text": "Б1.В.ДВ.03.01 Организация открытых пространств РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.V.DV.03.02_Selekciya_i_sortovedenie_gaz-x_trav_RPD(1).pdf",
+    "text": "Б1.В.ДВ.03.02 Селекция и сортоведение газ-х трав РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/B1.V.DV.04.01_Reknstr_obyekt_kulyt._nasl._RPD.pdf",
+    "text": "Б1.В.ДВ.04.01 Рекнстр объект культ. насл. РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziz/B1.V.DV.04.02_SiEGP_RPD(5).pdf",
+    "text": "Б1.В.ДВ.04.02 СиЭГП РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.V.DV.05.01_Proektirovanie_obyektov_utilitarnogo_naznacheniya_RPD(3).pdf",
+    "text": "Б1.В.ДВ.05.01 Проектирование объектов утилитарного назначения_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eix/B1.V.DV.05.02_TOvG_RPD(3).pdf",
+    "text": "Б1.В.ДВ.05.02 ТОвГ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/B1.V.DV.06.01_vizualizaciya_OLA_RPD.pdf",
+    "text": "Б1.В.ДВ.06.01 визуализация ОЛА РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.V.DV.06.02_Metody_vosstanov._gazon._pokrytii_RPD(2).pdf",
+    "text": "Б1.В.ДВ.06.02 Методы восстанов. газон. покрытий РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/B1.V.DV.07.01_Postroenie_parkovogo_peizagha_RPD(3).pdf",
+    "text": "Б1.В.ДВ.07.01 Построение паркового пейзажа РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.V.DV.07.02_Dizain_sredy_RPD_2025.pdf",
+    "text": "Б1.В.ДВ.07.02 Дизайн среды_РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.O.01_Metodika_nauchno-issledovatelyskoi_deyatelynosti_v_landshaftnoi_arxitekture_RPD(2).pdf",
+    "text": "Б1.О.01 Методика научно-исследовательской деятельности в ландшафтной архитектуре_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.O.02_Ustoichivoe_upravlenie_obektami_landshaftnoi_arxitektury_RPD.pdf",
+    "text": "Б1.О.02 Устойчивое управление обектами ландшафтной архитектуры РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/B1.O.03_Ekologicheskoe_proektirovanie_v_urbanizirovannoi_srede_RPD_2025(3).pdf",
+    "text": "Б1.О.03 Экологическое проектирование в урбанизированной среде_РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 14:41:48"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/B1.O.04_Texgniko-ekonom_pokaz_o_organiz_deyat_v_landsh_stroit_RPD.pdf",
+    "text": "Б1.О.04_Техгнико-эконом показ о организ деят в ландш строит_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/B1.O.05_Upravlenie_proektami_RPD_ochnoe(3).pdf",
+    "text": "Б1.О.05 Управление проектами_РПД_очное",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/B1.O.06_DEL_i_NAUCH_KOMMUNIKACIYA_na_IN_YAZ_RP(1).pdf",
+    "text": "Б1.О.06_ДЕЛ_и_НАУЧ_КОММУНИКАЦИЯ_на_ИН_ЯЗ_РП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eie/B1.O.07_Sovr._ped._metodiki_v_sfere_landshaftnoi_arxitektury_RPD(1).pdf",
+    "text": "Б1.О.07 Совр. пед. методики в сфере ландшафтной архитектуры РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B1.O.08_Innovacionnye_texnologii_v_dek._sad-ve_RPD(3).pdf",
+    "text": "Б1.О.08 Инновационные технологии в дек. сад-ве РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eik/FTD.01_Risunok_v_LA_RPD.pdf",
+    "text": "ФТД.01 Рисунок в ЛА РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:10:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zid/FTD.02_Sovr_texnol_v_gazonovodstve_RPD(3).pdf",
+    "text": "ФТД.02 Совр технол в газоноводстве РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:30:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viq/B1.V.02_Kadastrovyi_uchet_obyektov_landshaftnoi_arxitektury_RPD(1).pdf",
+    "text": "Б1.В.02 Кадастровый учет объектов ландшафтной архитектуры РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riw/B1.V.03_Biometriya_v_LA_RPD(1).pdf",
+    "text": "Б1.В.03 Биометрия в ЛА РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ris/B1.V.04_Vektornye_graf_sistemy_RPD(1).pdf",
+    "text": "Б1.В.04 Векторные граф системы РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.V.05_Obyemnoe_modelirovanie_v_LS_RPD(2).pdf",
+    "text": "Б1.В.05 Объемное моделирование в ЛС РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.V.05_Prostranstvennoe_modelirovanie_s.t._RPD(1).pdf",
+    "text": "Б1.В.05 Пространственное моделирование с.т. РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.V.06_IDRnaSO_RPD_(zaoch).pdf",
+    "text": "Б1.В.06 ИДРнаСО РПД (заоч)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zir/B1.V.07.01_Poryad.soglas.PSD_RPD(3).pdf",
+    "text": "Б1.В.07.01 Поряд.соглас.ПСД РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/B1.V.07.02_Dekorat._i_spec._gazony_RPD(5).pdf",
+    "text": "Б1.В.07.02 Декорат. и спец. газоны РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.V.07.03_INNOVACIONNYE_TEXNOLOGII_RPD(4).pdf",
+    "text": "Б1.В.07.03 ИННОВАЦИОННЫЕ ТЕХНОЛОГИИ РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/B1.V.DV.01.01_Professionalynyi_kodeks_ladshaftnogo_arxitektora_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.01 Профессиональный кодекс ладшафтного архитектора_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B1.V.DV.01.02_Professionalynyi_kodeks_grinkipera_RPD(2).pdf",
+    "text": "Б1.В.ДВ.01.02 Профессиональный кодекс гринкипера РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.V.DV.02.01_Arxitektura_rastitelynyx_kompozicii_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.01 Архитектура растительных композиций РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B1.V.DV.02.02_Vvedenie_v_gaz-vo_RPD(3).pdf",
+    "text": "Б1.В.ДВ.02.02 Введение в газ-во РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/B1.V.DV.03.01_Organizaciya_otkrytyx_prostranstv_RPD_2025(1).pdf",
+    "text": "Б1.В.ДВ.03.01 Организация открытых пространств РПД 2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B1.V.DV.03.02_Selekciya_i_sortovedenie_gaz-x_trav_RPD(2).pdf",
+    "text": "Б1.В.ДВ.03.02 Селекция и сортоведение газ-х трав РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.V.DV.04.01_Reknstr_obyekt_kulyt._nasl._RPD(1).pdf",
+    "text": "Б1.В.ДВ.04.01 Рекнстр объект культ. насл. РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/B1.V.DV.04.02_SiEGP_RPD(7).pdf",
+    "text": "Б1.В.ДВ.04.02 СиЭГП РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/B1.V.DV.05.01_Proektirovanie_obyektov_utilitarnogo_naznacheniya_RPD(4).pdf",
+    "text": "Б1.В.ДВ.05.01 Проектирование объектов утилитарного назначения_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B1.V.DV.05.02_TEXNOLOGICHESKOE_OBORUDOVANIE_V_GAZONOVODSTVE_RPD.pdf",
+    "text": "Б1.В.ДВ.05.02 ТЕХНОЛОГИЧЕСКОЕ ОБОРУДОВАНИЕ В ГАЗОНОВОДСТВЕ РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/yad/B1.V.DV.06.01_vizualizaciya_OLA_RPD_(1).pdf",
+    "text": "Б1.В.ДВ.06.01 визуализация ОЛА РПД (1)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B1.V.DV.06.02_Vosstanovlenie_dernovyx_pokrytii_selyskix_aglomeracii_RPD(2).pdf",
+    "text": "Б1.В.ДВ.06.02 Восстановление дерновых покрытий сельских агломераций РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ein/B1.V.DV.07.01_Postroenie_parkovogo_peizagha_RPD(4).pdf",
+    "text": "Б1.В.ДВ.07.01 Построение паркового пейзажа РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/B1.V.DV.07.02_Dizain_sredy_RPD_2025(1).pdf",
+    "text": "Б1.В.ДВ.07.02 Дизайн среды_РПД 2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/air/B1.O.01_Metodika_nauchno-issledovatelyskoi_deyatelynosti_v_landshaftnoi_arxitekture_RPD(3).pdf",
+    "text": "Б1.О.01 Методика научно-исследовательской деятельности в ландшафтной архитектуре_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aih/B1.O.02_Ustoichivoe_upravlenie_obektami_landshaftnoi_arxitektury_RPD(1).pdf",
+    "text": "Б1.О.02 Устойчивое управление обектами ландшафтной архитектуры РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/B1.O.03_Ekologicheskoe_proektirovanie_v_urbanizirovannoi_srede_RPD_2025(1).pdf",
+    "text": "Б1.О.03 Экологическое проектирование в урбанизированной среде_РПД 2025",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B1.O.04_Texniko-ekonom_pokaz_i_organiz_deyat_v_ladsh_stroit_RPD.pdf",
+    "text": "Б1.О.04_Технико-эконом показ и организ деят в ладш строит_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B1.O.05_Upravlenie_proektami_RPD(17).pdf",
+    "text": "Б1.О.05 Управление проектами РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/B1.O.06_DEL_i_NAUCH_KOMMUNIKACIYA_na_IN_YAZ_RPD(9).pdf",
+    "text": "Б1.О.06_ДЕЛ_и_НАУЧ_КОММУНИКАЦИЯ_на_ИН_ЯЗ_РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B1.O.07_Sovr._ped._metodiki_v_sfere_landshaftnoi_arxitektury_RPD_zaochn(1).pdf",
+    "text": "Б1.О.07 Совр. пед. методики в сфере ландшафтной архитектуры РПД заочн",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/B1.O.08_Innovacionnye_texnologii_v_dek._sad-ve_RPD(4).pdf",
+    "text": "Б1.О.08 Инновационные технологии в дек. сад-ве РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:09:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/FTD.02_Sovr_texnol_v_gazonovodstve_RPD(4).pdf",
+    "text": "ФТД.02 Совр технол в газоноводстве РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:34:02"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zia/B2.V.01.01_(P)_Preddiplomnaya_praktika_RPD(4).pdf",
+    "text": "Б2.В.01.01 (П) Преддипломная практика РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:17:08"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B2.O.01.01(U)_Tvorcheskaya_RPP(2).pdf",
+    "text": "Б2.О.01.01(У) Творческая РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:31:36"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B2.O.02.01(P)_texnologicheskaya_(proektno-texnologicheskaya_RPD(2).pdf",
+    "text": "Б2.О.02.01(П) технологическая (проектно-технологическая РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:31:36"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziz/B2.O.02.02(P)_NIR_RPP(3).pdf",
+    "text": "Б2.О.02.02(П) НИР РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:31:36"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B2.V.01.01_(P)_Preddiplomnaya_praktika_RPD(5).pdf",
+    "text": "Б2.В.01.01 (П) Преддипломная практика РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "02.03.2026 13:11:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B2.O.01.01(U)_Tvorcheskaya_RPP(3).pdf",
+    "text": "Б2.О.01.01(У) Творческая РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:35:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B2.O.02.01(P)_texnologicheskaya_(proektno-texnologicheskaya_RPD(3).pdf",
+    "text": "Б2.О.02.01(П) технологическая (проектно-технологическая РПД",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:35:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B2.O.02.02(P)_NIR_RPP(4).pdf",
+    "text": "Б2.О.02.02(П) НИР РПП",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "20.11.2025 16:35:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/KUG_35.04.09(3).pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 11:30:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aip/KUG_35.04.09_SiLA(1).pdf",
+    "text": "График (Заочная)",
+    "year": 2025,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:33:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/B3.02_(D)_Metod._ukaz._VKR(1).pdf",
+    "text": "Б3.02 (Д) Метод. указ. ВКР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "02.03.2026 11:30:08"
+  }
+]

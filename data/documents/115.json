@@ -1,0 +1,702 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/35.03.10_Landshaftnaya_arxitektura_2022.pdf",
+    "text": "ОПОП (очная, заочная)",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2023 12:41:55"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/35.03.10-LA_Land.proektirovanie_2022-zaochnoe_(1)_(1).pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "24.08.2023 11:48:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01._Istoriya_LA_RPD(3).pdf",
+    "text": "Б1.O.01. История ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.02_Inostrannyy_yazyk_RPD(24).pdf",
+    "text": "Б1.O.02_Иностранный язык_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.04_Fizika_LA_RPD(18).pdf",
+    "text": "Б1.O.04 Физика ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.05_Ximiya_RPD_(zaochnoe).pdf",
+    "text": "Б1.O.05 Химия РПД (заочное)",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.06_Botanika_LA_RPD(1).pdf",
+    "text": "Б1.O.06 Ботаника ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.07_Kulytura_rechi_i_delovogo_obscheniya_LA_RPD_zaochniki.pdf",
+    "text": "Б1.O.07 Культура речи и делового общения ЛА РПД заочники",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.09_Filosofiya_LA_RPD_35.03.10_zaoch.pdf",
+    "text": "Б1.O.09 Философия ЛА РПД 35.03.10 заоч",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.10_POCHVOVEDENIE_S_OSNOVAMI_GEOLOGII_LA_RPD(1).pdf",
+    "text": "Б1.O.10 ПОЧВОВЕДЕНИЕ С ОСНОВАМИ ГЕОЛОГИИ ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.11_Fiziologiya_rasteniy_LA_RPD(3).pdf",
+    "text": "Б1.O.11 Физиология растений ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.12_Ekonomika_RPD(6).pdf",
+    "text": "Б1.O.12 Экономика РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.13_Agroximiya_LA_RPD(1).pdf",
+    "text": "Б1.O.13 Агрохимия ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.14AgrometeorologiyaRPD.pdf",
+    "text": "Б1.O.14АгрометеорологияРПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16_Istoriya_sadovo-parkovogo_iskusstva_LA_RPD(3).pdf",
+    "text": "Б1.O.16 История садово-паркового искусства_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.17_Landshaftovedeniya_RPD_2022.pdf",
+    "text": "Б1.O.17 Ландшафтоведения РПД 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.18_Gradostroitelystvo_s_osnovami_arxitektury_LA_RPD(3).pdf",
+    "text": "Б1.O.18 Градостроительство с основами архитектуры_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.20_GRADOSTROITELYNOE_ZAKONODATELYSTVO_I_EKOLOGICHESKOE_PRAVO_RP(2).pdf",
+    "text": "Б1.O.20 ГРАДОСТРОИТЕЛЬНОЕ ЗАКОНОДАТЕЛЬСТВО И ЭКОЛОГИЧЕСКОЕ ПРАВО РП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.21_Osnovy_lesoparkovogo_xozyaystva_RPD(1).pdf",
+    "text": "Б1.O.21 Основы лесопаркового хозяйства РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.22_Urboekologiya_i_monitoring_nasaghdeniy_LA_RPD(1).pdf",
+    "text": "Б1.O.22_Урбоэкология и мониторинг насаждений ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.23_Psixologiya_v_professionalynoy_deyatelynosti_LA_RPD.pdf",
+    "text": "Б1.O.23 Психология в профессиональной деятельности ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24.01_Teoriya_i_metodologiya_landshaftnoy_arxitektury_LA_RPD(3).pdf",
+    "text": "Б1.O.24.01 Теория и методология ландшафтной архитектуры_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24.02_Landshaftnoe_proektirovanie_malogo_sada_LA_RPD(3).pdf",
+    "text": "Б1.O.24.02 Ландшафтное проектирование малого сада_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24.03_Landshaftnoe_proektirovanie_parkovyx_territoriy_LA_RPD(3).pdf",
+    "text": "Б1.O.24.03 Ландшафтное проектирование парковых территорий _ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24.04_Landshaftnoe_proektirovanie_gorodskix_territoriy_LA_RPD(3).pdf",
+    "text": "Б1.O.24.04 Ландшафтное проектирование городских территорий _ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.26.01_Risunok_i_ghivopisy_LA_RPD(3).pdf",
+    "text": "Б1.O.26.01 Рисунок и живопись _ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.26.02_Informacionnye_texnologii_v_landshaftnoy_arxitekture_LA_RPD(3).pdf",
+    "text": "Б1.O.26.02 Информационные технологии в ландшафтной архитектуре _ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.26.03_Arxitekturnaya_grafika_s_osnovami_inghenernoy_grafiki_LA_RPD(3).pdf",
+    "text": "Б1.O.26.03 Архитектурная графика с основами инженерной графики _ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.27.01_Mashiny_i_mexanizmy_v_landshaftnom_stroitelystve_LA_RPD(2).pdf",
+    "text": "Б1.O.27.01 Машины и механизмы в ландшафтном строительстве ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.27.02_Stroitelystvo_i_soderghanie_obyektov_landshaftnoy_RPD(5).pdf",
+    "text": "Б1.O.27.02 Строительство и содержание объектов ландшафтной_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.01_Vvedenie_v_landshaftnuyu_arxitekturu_LA_RPD(5).pdf",
+    "text": "Б1.В.01 Введение в ландшафтную архитектуру_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.02_Istoriya_iskusstva_LA_RPD(5).pdf",
+    "text": "Б1.В.02 История искусства_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.03_Istoriya_sadovo-parkovogo_iskusstva_Rossii_LA_RPD(3).pdf",
+    "text": "Б1.В.03 История садово-паркового искусства России_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.04_Maketirovanie_i_plasticheskoe_modelirovanie_obyektov_land-shaftnoy_arxitektury_LA_RPD(3).pdf",
+    "text": "Б1.В.04 Макетирование и пластическое моделирование объектов ланд-шафтной архитектуры_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.05_Osnovy_dizayna_LA_RPD(3).pdf",
+    "text": "Б1.В.05 Основы дизайна_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.06_Organizaciya_i_upravlenie_malym_biznesom_v_sfere_landshatnoy_arxitektury_LA_RPD(1).pdf",
+    "text": "Б1.В.06_Организация и управление малым бизнесом в сфере ландшатной архитектуры_ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.01_Landshaftnaya_taksaciya_i_inventarizaciya_RPD(1).pdf",
+    "text": "Б1.В.07.01 Ландшафтная таксация и инвентаризация РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.02_Aerokosmicheskie_texnologii_v_landshaftnom_proektirovanii_RPD.pdf",
+    "text": "Б1.В.07.02 Аэрокосмические технологии в ландшафтном проектировании РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.03_Normativno-pravovye_osnovy_raboty_landshaftnogo_arxitektora_LA_RPD(3).pdf",
+    "text": "Б1.В.07.03 Нормативно-правовые основы работы ландшафтного архитектора_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.04_Proektirovanie_specializirovannyx_obyektov_landshaftnoy_arxitektury_LA_RPD(3).pdf",
+    "text": "Б1.В.07.04 Проектирование специализированных объектов ландшафтной архитектуры_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.05_Osnovy_rekonstrukcii_i_restavracii_obyektov_landshaftnoy_arxitektury_LA_RPD(3).pdf",
+    "text": "Б1.В.07.05 Основы реконструкции и реставрации объектов ландшафтной архитектуры_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.06_Landshaftnaya_arxitektura._Sovremennye_problemy_LA_RPD(3).pdf",
+    "text": "Б1.В.07.06 Ландшафтная архитектура. Современные проблемы_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.07_Innovacionnye_texnologii_i_svetovoy_dizayn_v_landshaftnoy_arxitekture_LA_RPD(3).pdf",
+    "text": "Б1.В.07.07 Инновационные технологии и световой дизайн в ландшафтной архитектуре_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07.08_Primenenie_sistem_iskusstvennogo_intellekta_v_landshaftnoy_arxitekture_RPD(1).pdf",
+    "text": "Б1.В.07.08 Применение систем искусственного интеллекта в ландшафтной архитектуре_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.08.01_Arxitekturno-landshaftnoe_materialovedenie_LA_RPD(3).pdf",
+    "text": "Б1.В.08.01 Архитектурно-ландшафтное материаловедение_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.08.02_Gidrotexnicheskie_melioracii_LA_RPD_zaochnaya_2022.pdf",
+    "text": "Б1.В.08.02 Гидротехнические мелиорации ЛА РПД_заочная 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.08.03_Landshaftnye_konstrukcii_LA_RPD(3).pdf",
+    "text": "Б1.В.08.03 Ландшафтные конструкции_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.08.04_Vertikalynaya_planirovka_obyektov_landshaftnoy_arxitektury_LA_RPD(3).pdf",
+    "text": "Б1.В.08.04 Вертикальная планировка объектов ландшафтной архитектуры_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.09.01_Vrediteli_i_bolezni_dekorativnyx_kulytur_LA_RP(3).pdf",
+    "text": "Б1.В.09.01 Вредители и болезни декоративных культур ЛА РП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.09.02_Ximicheskie_sredstva_zaschity_rasteniy_LA_RP(3).pdf",
+    "text": "Б1.В.09.02 Химические средства защиты растений ЛА РП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10.01_Selekciya_dekorativnyx_kulytur_LA_RPD_2022(1).pdf",
+    "text": "Б1.В.10.01 Селекция декоративных культур ЛА РПД 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10.02_Oranghereynoe_i_komnatnoe_cvetovodstvo_LA_RPD(2).pdf",
+    "text": "Б1.В.10.02 Оранжерейное и комнатное цветоводство ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10.03_Ozelenenie_ekspluatiruemyx_krovely_LA_RPD(3).pdf",
+    "text": "Б1.В.10.03 Озеленение эксплуатируемых кровель ЛА РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11.01_Nachertatelynaya_geometriya_v_landshaftnoy_arxitekture_LA_RPD(3).pdf",
+    "text": "Б1.В.11.01 Начертательная геометрия в ландшафтной архитектуре_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11.02_CAD-sistemy_v_landshaftnom_proektirovanii_LA_RPD(3).pdf",
+    "text": "Б1.В.11.02 CAD-системы в ландшафтном проектировании_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11.03_Kompyyuternaya_grafika_i_GIS-texnologii_v_landshaftnoy_arxitekture_LA_RPD(3).pdf",
+    "text": "Б1.В.11.03 Компьютерная графика и ГИС-технологии в ландшафтной архитектуре_ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.01.01_Plodovye_rasteniya_v_dekorativnom_sadovodstve_LA_RPD_2022(1).pdf",
+    "text": "Б1.В.ДВ.01.01_Плодовые растения в декоративном садоводстве ЛА РПД 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.01.02_Dekorativnoe_vinogradarstvo_i_subtropicheskoe_sadovodstvo_LA_RPD_2022(1).pdf",
+    "text": "Б1.В.ДВ.01.02_Декоративное виноградарство и субтропическое садоводство ЛА РПД 2022",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.01_Ovoschnye_rasteniya_v_dekorativnom_sadovodstve_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Овощные растения в декоративном садоводстве РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.02_Lekarstvennye_i_efiromaslichnye_kulytury_(zaochn)_RPD.pdf",
+    "text": "Б1.В.ДВ.03.02 Лекарственные и эфиромасличные культуры (заочн) РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.01_Keys_po_landshaftnoy_arxitekture_LA_RPD(3).pdf",
+    "text": "ФТД.01 Кейс по ландшафтной архитектуре _ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.02_Vystavochno-konkursnaya_deyatelynosty_po_landshaftnoy_arxitek-ture_LA_RPD(3).pdf",
+    "text": "ФТД.02 Выставочно-конкурсная деятельность по ландшафтной архитек-туре _ЛА_РПД",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2023 15:41:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.V.01.01(P)_Po_polucheniyu_pervichnyx_professionalynyx_umeniy_i_navykov_LA_PP(1).pdf",
+    "text": "Б2.В.01.01(П) По получению первичных профессиональных умений и навыков _ЛА_ПП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2023 14:51:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.01.01(U)_Oznakomitelynaya_praktika_po_istorii_sadovo-parkovogo_iskusstva_LA_PP(3).pdf",
+    "text": "Б2.О.01.01.01(У) Ознакомительная практика по истории садово-паркового искусства _ЛА_ПП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2023 14:51:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.01.02(U)_Ozn._prakt_po_pochv_LA_RP_2022_35.03.10_Zaoch.pdf",
+    "text": "Б2.О.01.01.02(У) Озн. практ по почв ЛА РП 2022 35.03.10 Заоч",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2023 14:51:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.01.03(U)_Oznakomitelynaya_praktika_po_botanike_LA_RPP.pdf",
+    "text": "Б2.О.01.01.03(У) Ознакомительная практика по ботанике ЛА РПП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2023 14:51:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.01.05(U)_Oznakomitelynaya_praktika_po_landshaftnomu_proektirovaniyu_LA_PP(3).pdf",
+    "text": "Б2.О.01.01.05(У) Ознакомительная практика по ландшафтному проектированию _ЛА_ПП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2023 14:51:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.01.06(U)_Oznakomitelynaya_praktika_po_gradostroitelystvu_i_osnovam_arxitektury_LA_PP(3).pdf",
+    "text": "Б2.О.01.01.06(У) Ознакомительная практика по градостроительству и основам архитектуры _ЛА_ПП",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2023 14:51:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/KUG_35.03.10_SiLA(2).pdf",
+    "text": "График (Заочная)",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "18.02.2026 16:39:43"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/VKR_bakov_LA_-_2022(1).pdf",
+    "text": "ВКР ЛА",
+    "year": 2022,
+    "form": "Заочная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "18.07.2023 11:53:58"
+  }
+]

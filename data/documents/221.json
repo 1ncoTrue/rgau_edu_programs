@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/1.5.9._PP_Botanika.pdf",
+    "text": "1.5.9. ПП Ботаника",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/UP_plan_2025_-_1.5.9._Botanika(1).pdf",
+    "text": "УП план 2025 - 1.5.9. Ботаника",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "21.08.2025 09:02:57"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/UP_2024_plan_-_1.5.9._Botanika.pdf",
+    "text": "УП 2024 план - 1.5.9. Ботаника",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "22.08.2025 09:26:47"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/UP_2023_plan_-_1.5.9._Botanika.pdf",
+    "text": "УП 2023 план - 1.5.9. Ботаника",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "25.08.2025 14:33:08"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/UP_2022_plan_-_1.5.9._Botanika.pdf",
+    "text": "УП 2022 план - 1.5.9. Ботаника",
+    "year": 2022,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/1.5.9._RP_Botanika.pdf",
+    "text": "1.5.9. РП Ботаника",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RP_Metodologiya(6).pdf",
+    "text": "РП Методология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RPd_PPVSH(6).pdf",
+    "text": "РПд ППВШ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/UP_grafik_2025_-_1.5.9._Botanika.pdf",
+    "text": "УП график 2025 - 1.5.9. Ботаника",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "14.08.2025 09:30:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eib/UP_2024_grafik_-_1.5.9._Botanika.pdf",
+    "text": "УП 2024 график - 1.5.9. Ботаника",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "22.08.2025 09:26:26"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/UP_2023_grafik_-_1.5.9._Botanika.pdf",
+    "text": "УП 2023 график - 1.5.9. Ботаника",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "25.08.2025 14:32:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/UP_2022_grafik_-_1.5.9._Botanika.pdf",
+    "text": "УП 2022 график - 1.5.9. Ботаника",
+    "year": 2022,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": null
+  }
+]

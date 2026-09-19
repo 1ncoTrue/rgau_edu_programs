@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/OPOP_2026_13.04.02.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "14.07.2026 15:42:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ris/13.04.02_Elektroenergetika_Elektr.sistemy_i_seti_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "24.06.2026 16:57:35"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rit/z13.04.02_26_Elektroenergetika.plx.pdf",
+    "text": "Учебный план (заочное)",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "24.06.2026 17:09:33"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B1.V.01_Osnovy_pedagogicheskoi_deyatelynosti_RPD(2).pdf",
+    "text": "Б1.В.01 Основы педагогической деятельности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B1.V.03.01_-_Proektirovanie_elektroenergeticheskix_sistem_-_RPD(1).pdf",
+    "text": "Б1.В.03.01 Проектирование электроэнергетических систем - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zie/B1.V.03.02_NADEGHNOSTY_ELEKTROENERGETICHESKIX_SISTEM_-_RPD.pdf",
+    "text": "Б1.В.03.02 НАДЕЖНОСТЬ ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.V.03.03-Lineinaya_i_nelineinaya_elektrotexnika-RPD(1).pdf",
+    "text": "Б1.В.03.03 Линейная и нелинейная электротехника-РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vic/B1.V.03.05_INTELLEKTUALYNYE_SISTEMY_V_ELEKTROSNABGHENII_-_RPD.pdf",
+    "text": "Б1.В.03.05 ИНТЕЛЛЕКТУАЛЬНЫЕ СИСТЕМЫ В ЭЛЕКТРОСНАБЖЕНИИ - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/B1.V.04.01_Akkreditaciya_metrologicheskix_i_ispytatelynyx_laboratorii_RPD.pdf",
+    "text": "Б1.В.04.01 Аккредитация метрологических и испытательных лабораторий РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/B1.V.04.04_Teoriya_i_raschet_izmeritelynyx_preobrazovatelei_i_priborov_RPD.pdf",
+    "text": "Б1.В.04.04 Теория и расчет измерительных преобразователей и приборов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/B1.V.04.05_Cifrovye_texnologii_v_upravlenii_metrologicheskim_obespecheniem_RPD.pdf",
+    "text": "Б1.В.04.05 Цифровые технологии в управлении метрологическим обеспечением РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B1.V.04.06_Praktika_po_modulyu_Metrologicheskoe_obespechenie_organizacii_APK_RPP.pdf",
+    "text": "Б1.В.04.06 Практика по модулю Метрологическое обеспечение организаций АПК РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/B1.V.DV.01.01_SOVREMENNYE_PROBLEMY_EKSPLUATACII_ELEKTROOBORUDOVANIYA_-_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 СОВРЕМЕННЫЕ ПРОБЛЕМЫ ЭКСПЛУАТАЦИИ ЭЛЕКТРООБОРУДОВАНИЯ - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.V.DV.01.02_-_NOVYE_TEXNOLOGII_V_EKSPLUATACII_ELEKTROOBORUDOVANIYA_-_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 НОВЫЕ ТЕХНОЛОГИИ В ЭКСПЛУАТАЦИИ ЭЛЕКТРООБОРУДОВАНИЯ - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.V.DV.02.01_-_Sovremennye_problemy_elektroenergetiki_-_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.01 Современные проблемы электроэнергетики - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B1.V.DV.02.02_-_Novye_texnologii_v_elektroenergetiki_-_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Новые технологии в электроэнергетики - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.O.02_Modelirovanie_elektrotexnoogicheskix_processov_RPD_2026_.pdf",
+    "text": "Б1.О.02 Моделирование электротехноогических процессов РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/B1.O.02_Patentovedenie_i_zaschita_IS_RPD.pdf",
+    "text": "Б1.О.02 Патентоведение и защита ИС РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.O.03_Inostrannyi_yazyk_v_sfere_professionalynyx_kommunikacii_RPD(21).pdf",
+    "text": "Б1.О.03 Иностранный язык в сфере профессиональных коммуникаций РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/B1.O.04_Texniko-ekonomicheskoe_obosnovanie_i_upravlenie_proektom_v_elektroenergetike_RPD_.pdf",
+    "text": "Б1.О.04 Технико-экономическое обоснование и управление проектом в электроэнергетике РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.O.05_Teoriya_eksperimenta_RPD_.pdf",
+    "text": "Б1.О.05 Теория эксперимента РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B1.O.06_Agrarnaya_politika_APK_i_osnovy_bereghlivogo_proizvodstva_RPD..pdf",
+    "text": "Б1.О.06 Аграрная политика АПК и основы бережливого производства РПД.",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/FTD.01_ENERGOAUDIT_I_ENERGOSBEREGHENIE_V_AGROPROMYSHLENNOM_KOMPLEKSE_-_RPD.pdf",
+    "text": "ФТД.01 ЭНЕРГОАУДИТ И ЭНЕРГОСБЕРЕЖЕНИЕ В АГРОПРОМЫШЛЕННОМ КОМПЛЕКСЕ - РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vil/FTD.02_Osnovy_globalynogo_upravleniya_RPD(12).pdf",
+    "text": "ФТД.02 Основы глобального управления РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/B2.V.01.01(U)_Praktika_po_polucheniyu_pervichnyx_navykov_RPP(3).pdf",
+    "text": "Б2.В.01.01(У) Практика по получению первичных навыков РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:17:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/KUG_13.04.02(2).pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 10:40:40"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/MU_VKR_13.04.02_2026.pdf",
+    "text": "МУ ВКР",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:19:20"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziz/GIA_RPD_13.04.02_2026.pdf",
+    "text": "Программа ГИА",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "21.07.2026 16:19:20"
+  }
+]

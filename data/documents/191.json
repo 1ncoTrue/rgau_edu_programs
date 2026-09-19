@@ -1,0 +1,752 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/35.04.06_OPOP-2026_ISPYT.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:50:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/35.04.06_OPOP_2025.pdf",
+    "text": "OПOП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:00:06"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aie/35.04.06_Agroingh_Sertifikaciya_i_INT_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "24.06.2026 17:01:13"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/35.04.06_Agroingh_Sertifikaciya_i_INT_2025(1).pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "10.10.2025 14:40:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/B1.V.01.03_Matematicheskie_metody_v_nadeghnosti_texnicheskix_sistem-RPD_2026.pdf",
+    "text": "Б1.В.01.03 Математические методы в надежности технических систем-РПД 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B1.V.01.05_Iskusstvennyi_intellekt_v_sertifikacii_i_ispytanii_novoi_texniki_v_APK_RPD(2).pdf",
+    "text": "Б1.В.01.05 Искусственный интеллект в сертификации и испытании новой техники в АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viq/B1.V.02.01_Akkreditaciya_metrologicheskix_i_ispytatelynyx_laboratorii_RPD.pdf",
+    "text": "Б1.В.02.01 Аккредитация метрологических и испытательных лабораторий РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:12:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/B1.V.02.02_Analiz_kachestva_IiKP_RPD.pdf",
+    "text": "Б1.В.02.02 Анализ качества ИиКП РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:12:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ria/B1.V.02.03_Ocenka_tochnosti_metodov_i_rezulytatov_izmerenii_RPD.pdf",
+    "text": "Б1.В.02.03 Оценка точности методов и результатов измерений РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:12:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/B1.V.02.04_Teoriya_i_raschet_izmeritelynyx_preobrazovatelei_i_priborov_RPD.pdf",
+    "text": "Б1.В.02.04 Теория и расчет измерительных преобразователей и приборов РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/B1.V.02.05_Cifrovye_texnologii_v_upravlenii_metrologicheskim_obespecheniem_RPD.pdf",
+    "text": "Б1.В.02.05 Цифровые технологии в управлении метрологическим обеспечением РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.V.02.06_Praktika_po_modulyu_Metrologicheskoe_obespechenie_organizacii_APK_RPP.pdf",
+    "text": "Б1.В.02.06 Практика по модулю Метрологическое обеспечение организаций АПК РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:12:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vih/B1.V.02.07(K)_Programma_itogovoi_attestacii_po_modulyu_Metrologicheskoe_obespechenie_organizacii_APK_RPD.pdf",
+    "text": "Б1.В.02.07(К) Программа итоговой аттестации по модулю Метрологическое обеспечение организаций АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:12:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.V.DV.01.01_Informacionnaya_podderghka_processov_ghiznennogo_cikla_mashin_i_oborudovaniya_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Информационная поддержка процессов жизненного цикла машин и оборудования РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eil/B1.V.DV.01.02_CALS-texnologii_texnicheskix_izdelii_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.02 CALS-технологии технических изделий РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/B1.V.DV.02.01_Sredstva_izmerenii,_ispytanii_i_kontrolya_RPD(4).pdf",
+    "text": "Б1.В.ДВ.02.01 Средства измерений, испытаний и контроля РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiu/B1.V.DV.02.02_Izmeritelynye_preobrazovateli_i_pribory_v_APK_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Измерительные преобразователи и приборы в АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vii/B1.V.DV.03.01_Akkreditaciya_organov_po_sertifikacii_i_ispytatelynyx_laboratorii_RPD_.pdf",
+    "text": "Б1.В.ДВ.03.01 Аккредитация органов по сертификации и испытательных лабораторий РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.O.01_Metodologiya_nauchnyx_issledovanii_RPD(2).pdf",
+    "text": "Б1.О.01 Методология научных исследований РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.O.02_Modelirovanie_v_agroinghenerii_RPD(6).pdf",
+    "text": "Б1.О.02 Моделирование в агроинженерии РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zie/B1.O.03_Inostrannyi_yazyk_v_sfere_professionalynyx_kommunikacii_RPD(17).pdf",
+    "text": "Б1.О.03 Иностранный язык в сфере профессиональных коммуникаций РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/B1.O.05_Osnovy_pedagogicheskoi_deyatelynosti_RPD(10).pdf",
+    "text": "Б1.О.05 Основы педагогической деятельности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/B1.O.06_Ocenka_effektivnosti_investicionnyx_proektov_v_agroinghenerii_RPD_..pdf",
+    "text": "Б1.О.06 Оценка эффективности инвестиционных проектов в агроинженерии РПД .",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eim/B1.O.07_Cifrovye_texnologii_proektirovaniya_biznes_processov_v_APK_RPD_.pdf",
+    "text": "Б1.О.07 Цифровые технологии проектирования бизнес процессов в АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.O.08_Agrarnaya_politika_APK_i_osnovy_bereghlivogo_proizvodstva_RPD_.pdf",
+    "text": "Б1.О.08 Аграрная политика АПК и основы бережливого производства РПД_",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vic/FTD.01_Metrologicheskoe_obespechenie_ispytanii_texniki_APK_RPD(2).pdf",
+    "text": "ФТД.01 Метрологическое обеспечение испытаний техники АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eid/FTD.04_Sovremennye_metody_kvalimetrii_i_ocenka_kachestva_mashin_i_oborud_RPD.pdf",
+    "text": "ФТД.04 Современные методы квалиметрии и оценка качества машин и оборуд РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:12:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eii/B1.V.01.01_Podtverghdenie_sootvetstviya_mashin,_oborudovaniya_i_uslug_v_APK_RPD.pdf",
+    "text": "Б1.В.01.01 Подтверждение соответствия машин, оборудования и услуг в АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rio/B1.V.01.02_Obrabotka_i_analiz_rezulytatov_ispytanii_RPD.pdf",
+    "text": "Б1.В.01.02 Обработка и анализ результатов испытаний РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B1.V.01.03-Matematicheskie_metody_v_nadeghnosti_texnicheskix_sistem-RPD_2025.pdf",
+    "text": "Б1.В.01.03-Математические методы в надежности технических систем-РПД 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B1.V.01.04_Ispytanie_selyskoxozyaistvennoi_texniki_RPD-2025.pdf",
+    "text": "Б1.В.01.04 Испытание сельскохозяйственной техники РПД-2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riy/B1.V.01.05_Iskusstvennyi_intellekt_v_sertifikacii_i_ispytanii_novoi_texniki_v_APK_RPD(1).pdf",
+    "text": "Б1.В.01.05 Искусственный интеллект в сертификации и испытании новой техники в АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.V.02_Specialist_po_kachestvu_PPP.pdf",
+    "text": "Б1.В.02 Специалист по качеству ППП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "02.06.2026 17:07:09"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.V.02.01_Sistemy_kachestva_RPD(7).pdf",
+    "text": "Б1.В.02.01 Системы качества РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.12.2025 13:34:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rid/B1.V.02.02_Statisticheskie_metody_v_upravlenii_kachestvom_RPD_35.04.06.pdf",
+    "text": "Б1.В.02.02 Статистические методы в управлении качеством РПД 35.04.06",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vie/B1.V.02.03_Informacionnye_texnologii_v_upravlenii_kachestvom_i_zaschita_informacii_RPD(5).pdf",
+    "text": "Б1.В.02.03 Информационные технологии в управлении качеством и защита информации РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiv/B1.V.02.04_Sredstva_i_metody_upravleniya_kachestvom_RPD(5).pdf",
+    "text": "Б1.В.02.04 Средства и методы управления качеством РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/B1.V.02.05_Vseobschee_upravlenie_kachestvom_RPD(5).pdf",
+    "text": "Б1.В.02.05 Всеобщее управление качеством РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/B1.V.02.06_Uchebnaya_praktika_po_programme_Upravlenie_kachestvom_RPP.pdf",
+    "text": "Б1.В.02.06 Учебная практика по программе «Управление качеством» РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zib/B1.V.02.07(K)_SPECKACHESTVO_PIA_2025P.pdf",
+    "text": "Б1.В.02.07(К) СПЕЦКАЧЕСТВО_ПИА_2025П",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.01.2026 11:35:35"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.V.DV.01.01_Informacionnaya_podderghka_processov_ghiznennogo_cikla_mashin_i_oborudovaniya_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.01 Информационная поддержка процессов жизненного цикла машин и оборудования РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.V.DV.01.02_CALS-texnologii_texnicheskix_izdelii_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 CALS-технологии технических изделий РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rip/B1.V.DV.02.01_Sredstva_izmerenii,_ispytanii_i_kontrolya_RPD(2).pdf",
+    "text": "Б1.В.ДВ.02.01 Средства измерений, испытаний и контроля РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/B1.V.DV.02.02_Izmeritelynye_preobrazovateli_i_pribory_v_APK_RPD(3).pdf",
+    "text": "Б1.В.ДВ.02.02 Измерительные преобразователи и приборы в АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/B1.V.DV.03.01_Akkreditaciya_organov_po_sertifikacii_i_ispytatelynyx_laboratorii_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Аккредитация органов по сертификации и испытательных лабораторий РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ris/B1.V.DV.03.02_Texnologiya_kontrolya_kachestva_produkcii_RPD(1).pdf",
+    "text": "Б1.В.ДВ.03.02 Технология контроля качества продукции РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/B1.O.01_-_Metodologiya_nauchnyx_issledovanii_RPD.pdf",
+    "text": "Б1.О.01 - Методология научных исследований_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B1.O.02_Modelirovanie_v_agroinghenerii_RPD.pdf",
+    "text": "Б1.О.02 Моделирование в агроинженерии РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/B1.O.03_Inostrannyi_yazyk_v_sfere_professionalynyx_kommunikacii_RPD(8).pdf",
+    "text": "Б1.О.03 Иностранный язык в сфере профессиональных коммуникаций РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.O.04_Patentovedenie_i_zaschita_intellektualynoi_sobstvennosti_RPD.pdf",
+    "text": "Б1.О.04 Патентоведение и защита интеллектуальной собственности РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "27.01.2026 11:35:35"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/B1.O.05_Osnovy_pedagogicheskoi_deyatelynosti_RPD(5).pdf",
+    "text": "Б1.О.05 Основы педагогической деятельности РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zis/B1.O.06_Ocenka_effektivnosti_investicionnyx_proektov_v_agroinghenerii_35.04.06_RPD.pdf",
+    "text": "Б1.О.06 «Оценка эффективности инвестиционных проектов в агроинженерии» 35.04.06 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B1.O.07_Cifrovye_texnologii_proektirovaniya_biznes_processov_v_APK_RPD_(6).pdf",
+    "text": "Б1.О.07 Цифровые технологии проектирования бизнес процессов в АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vii/FTD.01_Metrologicheskoe_obespechenie_ispytanii_texniki_APK_RPD(1).pdf",
+    "text": "ФТД.01 Метрологическое обеспечение испытаний техники АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/FTD.02_Texnologiya_i_organizaciya_ukazaniya_uslug_RPD(2).pdf",
+    "text": "ФТД.02 Технология и организация указания услуг РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rik/FTD.03_Razrabotka_standartov_i_normativnyx_dokumentov_RPD(1).pdf",
+    "text": "ФТД.03 «Разработка стандартов и нормативных документов» РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/FTD.04_Sovremennye_metody_kvalimetrii_i_ocenka_kachestva_mashin_i_oborudovaniya_APK_RPD.pdf",
+    "text": "ФТД.04 Современные методы квалиметрии и оценка качества машин и оборудования АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:58:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B2.O.01.01(P)_Pedagogicheskaya_praktika_RPP(12).pdf",
+    "text": "Б2.О.01.01(П) Педагогическая практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rij/B2.V.01.01(P)_Preddiplomnaya_praktika_RPP(10).pdf",
+    "text": "Б2.В.01.01(П) Преддипломная практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:14:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B2.O.01.02(P)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_RPP.pdf",
+    "text": "Б2.О.01.02(П) Технологическая (проектно-технологическая) практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "15.07.2026 13:14:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B2.V.01.01(P)_Preddiplomnaya_praktika_PP(1).pdf",
+    "text": "Б2.В.01.01(П) Преддипломная практика ПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.12.2025 13:36:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/B2.O.01.01(P)_Pedagogicheskaya_praktika_RPP(6).pdf",
+    "text": "Б2.О.01.01(П) Педагогическая практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:59:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B2.O.01.02(P)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_PP.pdf",
+    "text": "Б2.О.01.02(П) Технологическая (проектно-технологическая) практика ПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.12.2025 13:36:15"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aih/B2.O.01.03(P)_Nauchno-issledovatelyskaya_rabota_RPP(3).pdf",
+    "text": "Б2.О.01.03(П) Научно-исследовательская работа РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "14.11.2025 11:59:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/KUG_35.04.06.pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 11:01:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/KUG_35.04.06.pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "03.09.2026 11:01:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/MU_VKR_35.04.06-2026.pdf",
+    "text": "МУ ВКР",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:55:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zim/35.04.06_(ISP)_PGIA_2026.pdf",
+    "text": "Программа ГИА",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "08.07.2026 12:56:19"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/B1.V.01.02_Obrabotka_i_analiz_rezulytatov_ispytanii_MUKP.pdf",
+    "text": "Б1.В.01.02 Обработка и анализ результатов испытаний МУКП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:01:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vih/B1.V.01.04_Ispytanie_selyskoxozyaistvennoi_texniki_MUKP.pdf",
+    "text": "Б1.В.01.04 Испытание сельскохозяйственной техники МУКП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:01:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rij/B1.V.DV.01.01_Informacionnaya_podderghka_processov_ghiznennogo_cikla_mashin_i_oborudovaniya_MU_KR.pdf",
+    "text": "Б1.В.ДВ.01.01 Информационная поддержка процессов жизненного цикла машин и оборудования МУ КР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:01:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B1.V.DV.01.02_CALS-texnologii_texnicheskix_izdelii_MU_KR.pdf",
+    "text": "Б1.В.ДВ.01.02 CALS-технологии технических изделий МУ КР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:01:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B2.O.01.03(P)_Nauchno-issledovatelyskaya_rabota_MUNIR.pdf",
+    "text": "Б2.О.01.03(П) Научно-исследовательская работа МУНИР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:01:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/MU_VKR_35.04.06-2025.pdf",
+    "text": "МУ ВКР 35.04.06-2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:01:30"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/35.04.06_(ISP)_PGIA_2025.pdf",
+    "text": "Программа ГИА",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "14.11.2025 12:02:16"
+  }
+]

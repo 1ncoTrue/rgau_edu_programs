@@ -1,0 +1,702 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/zim/36.05.01_OPOP-2026_Ochnoe_Veterinarno-lechebnoe_delo.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": null,
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "13.07.2026 13:29:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/36.05.01_Veterinariya_lab_diagn_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "24.06.2026 17:26:31"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/36.05.01_Vet-lech_delo_VLDiLDZ_ZO_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "29.06.2026 15:40:18"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/OZO_Vet-lech_delo_VLDiLDZ_ZO_2026.plx.pdf",
+    "text": "Учебный план (очно-заочное)",
+    "year": 2026,
+    "form": "Очно-заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "29.06.2026 15:33:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B1.V.02_Ekonomika_APK_RPD_.pdf",
+    "text": "Б1.В.02 Экономика АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/B1.V.03_Veterinarnaya_genetika_RPD_2026.pdf",
+    "text": "Б1.В.03 Ветеринарная генетика РПД 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B1.V.04.02_Mikrobiologicheskie_i_immunologicheskie_issledovaniya_v_veterinarii_RPD(2).pdf",
+    "text": "Б1.В.04.02 Микробиологические и иммунологические исследования в ветеринарии РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.V.04.03_Citologicheskie_i_gistologicheskie_metody_issledovanii_RPD_ochnoe.pdf",
+    "text": "Б1.В.04.03 Цитологические и гистологические методы исследований РПД очное",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/B1.V.04.04_San-gig_issl_RPD.pdf",
+    "text": "Б1.В.04.04 Сан-гиг иссл РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.V.05.01Gormonalynaya_stimulyaciya_i_podgotovka_donorov_RPD_2026.pdf",
+    "text": "Б1.В.05.01Гормональная стимуляция и подготовка доноров_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.05.02_Kriokonservaciya,_xranenie_i_ocenka_kachestva_embrio_RPD_2026.pdf",
+    "text": "Б1.В.05.02_Криоконсервация, хранение и оценка качества эмбрио_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riz/B1.V.05.03_Poluchenie_embrionov_sx_ghiv_in_vitro_RPD_2026.pdf",
+    "text": "Б1.В.05.03 Получение эмбрионов сх жив in vitro_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/B1.V.05.04_Poluchenie_embrionov_selyskoxozyaistve_RPD_2026.pdf",
+    "text": "Б1.В.05.04 Получение эмбрионов сельскохозяйстве _РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ail/B1.V.05.05_-Perenos_embrionov_v_organizm_samki-recipienta_RPD_2026.pdf",
+    "text": "Б1.В.05.05 -Перенос эмбрионов в организм самки-реципиента_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B1.V.05.06(K)_Ekzamen_po_modulyu_transplantaciya2026.pdf",
+    "text": "Б1.В.05.06(К)_Экзамен по модулю_трансплантация2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/B1.V.DV.01.01_Dermatologiya_RPD_.pdf",
+    "text": "Б1.В.ДВ.01.01 Дерматология РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.DV.01.02_Veterinarnaya_stomatologiya_RPD_ochnoe.pdf",
+    "text": "Б1.В.ДВ.01.02 Ветеринарная стоматология РПД очное",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viq/B1.V.DV.02.01_Veterinarnaya_endokrinologiyaRPD(2).pdf",
+    "text": "Б1.В.ДВ.02.01 Ветеринарная эндокринологияРПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/B1.V.DV.02.02_Veterinarnaya_oftalymologiya_RPD_ochnoe.pdf",
+    "text": "Б1.В.ДВ.02.02 Ветеринарная офтальмология РПД очное",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/B1.V.DV.03.01_RP_Nadleghaschie_farmacevticheskie_praktiki.pdf",
+    "text": "Б1.В.ДВ.03.01_РП_Надлежащие фармацевтические практики",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/B1.V.DV.03.02_RP_Osnovy_doklinicheskix_i_klinicheskix_issledovanii_lekarstvennyx_sredstv.pdf",
+    "text": "Б1.В.ДВ.03.02_РП_Основы доклинических и клинических исследований лекарственных средств",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viw/B1.O.01._Istoriya_Rossii_RPD_2026_vet.pdf",
+    "text": "Б1.О.01. История России_РПД_2026_вет",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vit/B1.O.02_ORG_RPD(1).pdf",
+    "text": "Б1.О.02 ОРГ РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiq/B1.O.03_Filosofiya_RPD_-_VLD.pdf",
+    "text": "Б1.О.03 Философия РПД - ВЛД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B1.O.04_Inostrannyi_yazyk_RPD(20).pdf",
+    "text": "Б1.О.04 Иностранный язык_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B1.O.06_Prikladnaya_biostatistika_RPD(3).pdf",
+    "text": "Б1.О.06 Прикладная биостатистика РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/B1.O.07_Biologicheskaya_fizika_RPD.pdf",
+    "text": "Б1.О.07 Биологическая физика РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aij/B1.O.08_Ximiya_RPD(21).pdf",
+    "text": "Б1.О.08 Химия РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vin/B1.O.10_Biologicheskaya_ximiya_RPD_.pdf",
+    "text": "Б1.О.10 Биологическая химия РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.O.12_CT_v_APK_RPD.pdf",
+    "text": "Б1.О.12 ЦТ в АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/B1.O.13_II_v_APK_RPD_(1).pdf",
+    "text": "Б1.О.13 ИИ в АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B1.O.14_Cif_tex_v_prof_deyat_RPD(1).pdf",
+    "text": "Б1.О.14 Циф тех в проф деят РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.O.15._Citologiya,_gistologiya_i_embriologiya_RPD_ochnaya.pdf",
+    "text": "Б1.О.15. Цитология, гистология и эмбриология РПД очная",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zip/B1.O.16_Latinskii_yazyk_Vet_lech_delo_2026_RPD.pdf",
+    "text": "Б1.О.16 Латинский язык Вет леч дело 2026 РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.O.17_Anatomiya_ghivotnyx_RPD.pdf",
+    "text": "Б1.О.17 Анатомия животных РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vio/B1.O.18_Fiziologiya_ghivotnyx_vet._RP.pdf",
+    "text": "Б1.О.18 Физиология животных вет. РП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 13:20:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiw/B1.O.19_Virusologiya_s_osnovami_biotexnologii_RPD_2026.pdf",
+    "text": "Б1.О.19 Вирусология с основами биотехнологии_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.O.21_Osnovy_upravleniya_personalom_RPD(1).pdf",
+    "text": "Б1.О.21 Основы управления персоналом РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/B1.O.22_Parazitologiya_i_invazionnye_bolezni_RP.pdf",
+    "text": "Б1.О.22_Паразитология и инвазионные болезни_РП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viq/B1.O.23_Veterinarnaya_mikrobiologiya,_mikologiya_i_immunologiya_RPD.pdf",
+    "text": "Б1.О.23 Ветеринарная микробиология, микология и иммунология РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/B1.O.25_Veterinarnaya_farmakologiya._Toksikologiya_RPD.pdf",
+    "text": "Б1.О.25 Ветеринарная фармакология. Токсикология РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/B1.O.26_Vet._radiobiologiya_i_rentgenologiya_RPD.pdf",
+    "text": "Б1.О.26 Вет. радиобиология и рентгенология РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B1.O.27_Gigiena_ghivotnyx_RPD_.pdf",
+    "text": "Б1.О.27 Гигиена животных РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aip/B1.O.28_Deontologiya_i_bioetika_RPD.pdf",
+    "text": "Б1.О.28 Деонтология и биоэтика РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viu/B1.O.29_Klinicheskaya_diagnostika_RPD.pdf",
+    "text": "Б1.О.29 Клиническая диагностика РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.O.31_Vnutrennie_nezaraznye_bolezniRPD.pdf",
+    "text": "Б1.О.31 Внутренние незаразные болезниРПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eih/B1.O.34_Akusherstvo_i_ginekologiya_RPD_OFO_2026_god_.pdf",
+    "text": "Б1.О.34 Акушерство и гинекология РПД ОФО 2026 год",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eii/B1.O.36_Epizootologiya_i_infekcionnye_bolezni_.pdf",
+    "text": "Б1.О.36 Эпизоотология и инфекционные болезни",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ait/B1.O.37_Pat_anat_i_SVE_RPD.pdf",
+    "text": "Б1.О.37 Пат анат и СВЭ РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiq/B1.O.38_Organizaciya_veterinarnogo_dela_RPD.pdf",
+    "text": "Б1.О.38 Организация ветеринарного дела РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zia/B1.O.39_VSE_RPD.pdf",
+    "text": "Б1.О.39 ВСЭ РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/B1.O.40_Etologiya_ghivotnyx_s_osnovami_zoopsixologii_RP.pdf",
+    "text": "Б1.О.40 Этология животных с основами зоопсихологии РП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/B1.O.41_Osnovnye_metody_laboratornoi_diagnostiki_RPD_2026.pdf",
+    "text": "Б1.О.41 Основные методы лабораторной диагностики_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B1.O.42_Kulyturologiya_RPD.pdf",
+    "text": "Б1.О.42 Культурология РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rib/B1.O.43_Kulytura_rechi_i_delovye_kommunikacii_RPD(1).pdf",
+    "text": "Б1.О.43 Культура речи и деловые коммуникации РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vit/B1.O.44_Pravovedenie_i_veterinarnoe_zakonodatelystvo_RPD.pdf",
+    "text": "Б1.О.44 Правоведение и ветеринарное законодательство РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.O.47_Bolezni_ekzoticheskix_ghivotnyx_RPD_2026.pdf",
+    "text": "Б1.О.47 Болезни экзотических животных_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/B1.O.50_RP_FKiS_2026.pdf",
+    "text": "Б1.О.50 РП ФКиС 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aib/B1.O.52.01_Innovacionnye_texnologii_v_veterinarii_RPD.pdf",
+    "text": "Б1.О.52.01 Инновационные технологии в ветеринарии РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B1.O.52.02_Ekonomicheskoe_obosnovanie_proekta_RPD_OFO_VLD.pdf",
+    "text": "Б1.О.52.02 Экономическое обоснование проекта РПД ОФО ВЛД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/B1.O.DV.01.01_RP_BFK_2026(1).pdf",
+    "text": "Б1.О.ДВ.01.01 РП БФК 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rim/B1.O.DV.01.02_RP_BVS_2026(1).pdf",
+    "text": "Б1.О.ДВ.01.02 РП БВС 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/FTD.02_Kardiologiya_RPD_ochnoe.pdf",
+    "text": "ФТД.02 Кардиология РПД очное",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:39:39"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aic/B2.O.01.01_(U)_Obscheprofessionalynaya_praktika_po_ghivotnovodstvu_RPP.pdf",
+    "text": "Б2.О.01.01 (У) Общепрофессиональная практика по животноводству РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:40:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B2.O.01.02_(U)_Obscheprofessionalynaya_praktika_po_anatomii_RPP.pdf",
+    "text": "Б2.О.01.02 (У) Общепрофессиональная практика по анатомии РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:40:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/B2.O.01.03(U)_Klinicheskaya_praktika_RPD_.pdf",
+    "text": "Б2.О.01.03(У) Клиническая практика РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:40:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/mem/B2.O.02.01_(P)_Klinicheskaya_praktika.pdf",
+    "text": "Б2.О.02.01_(П)_Клиническая_практика",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:40:34"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eij/KUG_36.05.01.pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "04.09.2026 15:13:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ril/KUG_36.05.01(2).pdf",
+    "text": "График (Очно-заочная)",
+    "year": 2026,
+    "form": "Очно-заочная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "07.09.2026 10:57:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/B3.01(G)_GIA_36.05.01.pdf",
+    "text": "Б3.01(Г) ГИА 36.05.01",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "16.07.2026 11:42:11"
+  }
+]

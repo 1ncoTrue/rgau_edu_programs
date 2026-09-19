@@ -1,0 +1,822 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/via/OPOP_2023_Kinologiya.pdf",
+    "text": "ОПОП",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "10.04.2024 11:57:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/06.03.01_Biologiya_3_(Kinologiya)_2023_KUG.pdf",
+    "text": "Учебный план",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "25.02.2026 14:52:16"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01_Filosofiya_RPD(67).pdf",
+    "text": "Б1.O.01 Философия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.02_Istoriya_Rossii_RPD_2023(1).pdf",
+    "text": "Б1.O.02 История России",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.03_inostrannyy_yazyk_LA_RPD(35).pdf",
+    "text": "Б1.O.03 иностранный язык ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.04_Obschaya_biologiya_(kinologiya)_RPD.pdf",
+    "text": "Б1.O.04 Общая биология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ris/B1.O.05_Psixologiya_i_pedagogika_06.03.01_(Kinologiya)_2023_LARPD.pdf",
+    "text": "Б1.O.05 Психология и педагогика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B1.O.06_Pravo,_pravovye_osnovy_prirodopolyzovaniya_RPD(4).pdf",
+    "text": "Б1.O.06 Право, правовые основы природопользования",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.07_Ekonomika_RP(4).pdf",
+    "text": "Б1.O.07 Экономика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.08_Informatika_i_sovremennye_IT_RPD.pdf",
+    "text": "Б1.O.08 Информатика и современные ИТ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.09_Fizika_06.03.01_Biologiya_RPD_2023.pdf",
+    "text": "Б1.O.09 Физика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.10_Neorganicheskaya_ximiya_LA_RPD(1).pdf",
+    "text": "Б1.O.10 Неорганическая химия ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.11_Organicheskaya_ximiya_RPD_2023(1).pdf",
+    "text": "Б1.O.11 Органическая химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.12_Analiticheskaya_ximiya_LA_RPD(4).pdf",
+    "text": "Б1.O.12 Аналитическая химия ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.13_Fizicheskaya_i_kolloidnaya_ximiya_RPD(1).pdf",
+    "text": "Б1.O.13 Физическая и коллоидная химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.15_Kulyturologiya_RPD(2).pdf",
+    "text": "Б1.O.15 Культурология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16_Biologiya_razmnogheniya_i_razvitiya_(kinologiya)_RPD.pdf",
+    "text": "Б1.O.16 Биология размножения и развития",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.O.18.01_Matematika_RPD(1).pdf",
+    "text": "Б1.O.18.01 Математика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aio/B1.O.18.02_Matematicheskie_metody_v_biologii_RPD_LA(1).pdf",
+    "text": "Б1.O.18.02 Математические методы в биологии ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B.O.19.02_Mikrobiologiya_i_virusologiya_RPD(4).pdf",
+    "text": "Б1.O.19.02 Микробиология и вирусология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "12.09.2023 15:51:54"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.19.03_Zoologiya_bespozvonochnyx_RPD_.pdf",
+    "text": "Б1.O.19.03 Зоология беспозвоночных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.19.04_Zoologiya_pozvonochnyx_RPD_Kinologiya.pdf",
+    "text": "Б1.O.19.04 Зоология позвоночных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.20.01_fiziologiya_ghivotnyx_kinologiya_RPD.pdf",
+    "text": "Б1.O.20.01 физиология животных кинология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eig/B1._O.20..02_Fiziologiya_rastenii_2023_LA_RPD(1).pdf",
+    "text": "Б1.O.20.02 Физиология растений ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.21.01_Citologiya_biologiya_kinologiya_RPD.pdf",
+    "text": "Б1.O.21.01 Цитология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.21.02_Gistologiya_biologiya_kinologiya_RPD.pdf",
+    "text": "Б1.O.21.02 Гистология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aij/B1.O.22.01_Genetika_i_selekciya_ghivotnyx_RPD_LA(1).pdf",
+    "text": "Б1.O.22.01 Генетика и селекция животных ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiq/B1.O.22.02_Teoriya_evolyucii_RPD(1).pdf",
+    "text": "Б1.O.22.02 Теория эволюции",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.23.01_Ekologiya_ghivotnyx_RPD(4).pdf",
+    "text": "Б1.O.23.01 Экология животных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.23.02_Ekologicheskaya_ekspertiza_RPD(4).pdf",
+    "text": "Б1.O.23.02 Экологическая экспертиза",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24_Biologiya_cheloveka_biologiya_kinologiya_RPD.pdf",
+    "text": "Б1.O.24 Биология человека",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vid/B1.O.25_Vvedenie_v_biotexnologiyu_RPD_2023_gnp(1).pdf",
+    "text": "Б1.O.25 Введение в биотехнологию",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.26_Osnovy_bioetiki_RPD_2023.pdf",
+    "text": "Б1.O.26 Основы биоэтики",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.27_Zapovednoe_delo_RPD_Kinologiya.pdf",
+    "text": "Б1.O.27 Заповедное дело",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.29_Biologicheskaya_ximiya_RPD_Kin.pdf",
+    "text": "Б1.O.29 Биологическая химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.30_Morfologiya_ghivotnyx_biologiya_kinologiya_RPD.pdf",
+    "text": "Б1.O.30 Морфология животных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.31_Sravnitelynaya_anatomiya_pozvonochnyx_ghivotnyx_biologiya_kinologiya_RPD.pdf",
+    "text": "Б1.O.31 Сравнительная анатомия позвоночных животных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.32_Etologiya_s_osnovami_zoopsixologii_RPD_2023.pdf",
+    "text": "Б1.O.32 Этология с основами зоопсихологии",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.33_Zookulytura_RPD_Kinologiya.pdf",
+    "text": "Б1.O.33 Зоокультура",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zin/B1.O.34_FKS_LA_RPD_2023_g.(1).pdf",
+    "text": "Б1.O.34 ФКС ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.36_ORG_RPD_2023(1).pdf",
+    "text": "Б1.O.36 ОРГ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zim/B1.O.DV.01.01_BFK_LA_RPD_2023_g(1).pdf",
+    "text": "Б1.O.ДВ.01.01 БФК ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.O.DV.01.02_BVS_LA_RPD_2023_g.(1).pdf",
+    "text": "Б1.O.ДВ.01.02 БВС ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.01_Planirovanie_i_upravlenie_proektami_v_biologii_LA_RPD(4).pdf",
+    "text": "Б1.В.01 Планирование и управление проектами в биологии",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.02_Zoogeografiya_RPD_(kinologiya).pdf",
+    "text": "Б1.В.02 Зоогеография",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.V.04_Povedencheskaya_ekologiya_RPD_2023(1).pdf",
+    "text": "Б1.В.04 Поведенческая экология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.05_Teriologiya_kinologiya_RPD.pdf",
+    "text": "Б1.В.05 Териология кинология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.06_Ornitologiya_RPD(4).pdf",
+    "text": "Б1.В.06 Орнитология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07_Nauki_o_Zemle_(geologiya,_geografiya,_pochvovedenie)_RPD(1).pdf",
+    "text": "Б1.В.07 Науки о Земле (геология, география, почвоведение)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.V.09_Psixologiya_professionalynogo_obrazovaniya_LARPD(1).pdf",
+    "text": "Б1.В.09 Психология профессионального образования",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10_Latinskiy_yazyk_biologiya_kinologiya_RPD.pdf",
+    "text": "Б1.В.10 Латинский язык",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11_Ixtiologiya_RP(4).pdf",
+    "text": "Б1.В.11 Ихтиология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.12_Osnovy_muzeynogo_dela_RPD(7).pdf",
+    "text": "Б1.В.12 Основы музейного дела",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.13_Uchet_ghivotnyx_RPD_2023(1).pdf",
+    "text": "Б1.В.13 Учет животных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.14_Entomologiya_RP(1).pdf",
+    "text": "Б1.В.14 Энтомология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B1.V.15_Orxana_prirody_LA_RPD(1).pdf",
+    "text": "Б1.В.15 Орхана природы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B1.V.16.01Zootexnicheskie_osnovy_sobakovodstvaRPD.pdf",
+    "text": "Б1.В.16.01Зоотехнические основы собаководства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16.02Fiziologicheskie_osnovy_povedeniya_i_dressirovki_sobakRPD.pdf",
+    "text": "Б1.В.16.02 Физиологические основы поведения и дрессировки собак",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16.03Dressirovka_i_specpodgotovka_sobakRPD.pdf",
+    "text": "Б1.В.16.03 Дрессировка и спецподготовка собак",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16.04Porody_sobakRPD.pdf",
+    "text": "Б1.В.16.04 Породы собак",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16.05Texnologiya_sobakovodstvaRPD.pdf",
+    "text": "Б1.В.16.05 Технология собаководства",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.16.06Otechestvennye_porody_sobakRPD.pdf",
+    "text": "Б1.В.16.06 Отечественные породы собак",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aza/B1.V.DV.01.01_Prirodooxrannoe_zakonodatelystvo_RPD(7).pdf",
+    "text": "Б1.В.ДВ.01.01 Природоохранное законодательство",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.01_Istoriya_oxoty_i_oxotovedeniya_RPD_(Kinologiya).pdf",
+    "text": "Б1.В.ДВ.02.01 История охоты и охотоведения",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.02_Istoriya_kinologii_i_sobakovodstva_kinologiya_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 История кинологии и собаководства кинология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.03_Istoriya_biologii_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.03 История биологии",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "05.12.2023 15:23:04"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.01_Biologiya,_sistematika,_razvedenie_koshachyix_Kinologiya_RPD.pdf",
+    "text": "Б1.В.ДВ.03.01 Биология, систематика, разведение кошачьих",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:18:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eia/B1.V.DV.03.02_Razvedenie_laboratornyx_ghivotnyx_RPD(3).pdf",
+    "text": "Б1.В.ДВ.03.02 Разведение лабораторных животных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eis/B1.V.DV.04.01_Kormlenie_dikix_ghivotnyx_RPD(4).pdf",
+    "text": "Б1.В.ДВ.04.01 Кормление диких животных",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zif/B1.V.DV.04.02_Kormlenie_sobak_RPD(4).pdf",
+    "text": "Б1.В.ДВ.04.02 Кормление собак",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eil/B1.V.Dv.01.02_Pravovoe_obespechenie_v_professionalynoi_deyatelynosti_RPD(1).pdf",
+    "text": "Б1.В.Дв.01.02 Правовое обеспечение в профессиональной деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:10:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zia/FTD.01_Fauna_Rossii_RPD(3).pdf",
+    "text": "ФТД.01 Фауна России",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiu/FTD.02_Zverovodstvo_RPD.pdf",
+    "text": "ФТД.02 Звероводство",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "18.04.2024 17:13:12"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.02(U)_Oznakomitelynaya_praktika_po_zoologii_RPP_(kinologiya).pdf",
+    "text": "Б2.О.01.02(У) Ознакомительная практика по зоологии",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:19:47"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.03(U)_Nauchno-issledovatelyskaya_rabota_(poluchenie_pervichnyx_navykov_nauchno-issledovatelyskoy_raboty)_kinologiya_RPP.pdf",
+    "text": "Б2.О.01.03(У) Научно-исследовательская работа (получение первичных навыков научно-исследовательской работы)",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:19:47"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.02.01(P)_Praktika_po_profilyu_professionalynoy_deyatelynosti_kinologiya_RPP.pdf",
+    "text": "Б2.О.02.01(П) Практика по профилю профессиональной деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:19:47"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.02.02(P)_Preddiplomnaya_praktika_kinologiya_RPP.pdf",
+    "text": "Б2.О.02.02(П) Преддипломная практика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:19:47"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zit/KUG_06.03.01(3).pdf",
+    "text": "График",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "04.09.2026 14:31:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/06.03.01_MU_VKR_LA(1).pdf",
+    "text": "МУ_ВКР_ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:21:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/06.03.01_GIA_KINOLOGIYA_LA(1).pdf",
+    "text": "Программа ГИА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "13.11.2023 16:22:49"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RP_Vospitaniya_2023(9).pdf",
+    "text": "РП Воспитания",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "18.12.2023 11:09:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/Kalendarnyy_plan_vospitatelynoy_raboty(12).pdf",
+    "text": "Календарный план воспитательной работы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "18.12.2023 11:23:36"
+  }
+]

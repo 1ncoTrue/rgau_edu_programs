@@ -1,0 +1,712 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/09.04.03_PI_MAG_Arxitektura_SII_2025_OPOP.pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:57:29"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/09.04.03_PI_ASII_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "30.06.2026 13:59:06"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/09.04.03_PI_ASII_2026_FZO.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Заочная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "30.06.2026 14:12:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/09.04.03_PI_ASII_2025.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.06.2025 11:26:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/B1.V.01_Texnologii_baz_dannyx_i_znanii_RPD(1).pdf",
+    "text": "Б1.В.01 Технологии баз данных и знаний РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riw/B1.V.02_Kompyyuternoe_zrenie_i_ego_arxitektury_RPD(1).pdf",
+    "text": "Б1.В.02 Компьютерное_зрение_и_его_архитектуры РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zix/B1.V.03_Metody_upravleniya_znaniyami_i_prinyatiem_reshenii_v_APK_RPD(1).pdf",
+    "text": "Б1.В.03 Методы_управления_знаниями_и_принятием_решений_в_АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/B1.V.04_Arxitekturnoe_modelirovanie_RPD(1).pdf",
+    "text": "Б1.В.04 Архитектурное_моделирование РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/B1.V.05_Obrabotka_estestvennogo_yazyka_RPD(1).pdf",
+    "text": "Б1.В.05 Обработка_естественного_языка РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiy/B1.V.06_Instr_iskusst_intellekta_GIS_vAPK_OMD_2026.pdf",
+    "text": "Б1.В.06 Инстр_искусст_интеллекта_ГИС_вАПК_ОМД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rir/B1.V.07_Analiz_i_vizualizaciya_mn_sx_dannyx_RPD.pdf",
+    "text": "Б1.В.07 Анализ и визуализация мн сх данных РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zih/B1.V.08_Matematicheskie_osnovy_verifikacii_programmnogo_obespecheniya_RPD(1).pdf",
+    "text": "Б1.В.08 Математические основы верификации программного обеспечения РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zin/B1.V.09.01_Razrabotka_texnologii_integracii_IS_RPD.pdf",
+    "text": "Б1.В.09.01 Разработка_технологий_интеграции_ИС РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiy/B1.V.09.02_Optimizaciya_raboty_IS_s_pomoschyyu_II_RPD(2).pdf",
+    "text": "Б1.В.09.02 Оптимизация работы ИС с помощью ИИ_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.V.09.03_Obespech_kommerch_predl_RPD.pdf",
+    "text": "Б1.В.09.03 Обеспеч коммерч предл_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vih/B1.V.09.04_(K)_PROGRAMMA_GIA_Razrabotka_modifikaciya_i_soprovoghdenie_IS.pdf",
+    "text": "Б1.В.09.04 (К) ПРОГРАММА_ГИА Разработка модификация и сопровождение ИС",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziv/B1.V.DV.01.01_Etika_i_filosofiya_II_RPD_(2).pdf",
+    "text": "Б1.В.ДВ.01.01 Этика и философия ИИ_ РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vim/B1.V.DV.01.02_Sredstva_raboty_v_komande_ASII_RPD_2026.pdf",
+    "text": "Б1.В.ДВ.01.02 Средства работы в команде_АСИИ_РПД_ 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziz/B1.V.DV.02.01_Optimizaciya_razvertyvaniya_i_ekspluatacii_sistem_iskusstvennogo_RPD.pdf",
+    "text": "Б1.В.ДВ.02.01 Оптимизация_развертывания_и_эксплуатации_систем_искусственного_РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/B1.V.DV.02.02_Texnologii_iskusstvennogo_intellekta_v_kiberbezopasnosti_APK_RPD(1).pdf",
+    "text": "Б1.В.ДВ.02.02 Технологии искусственного интеллекта в кибербезопасности АПК РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/B1.O.01_Inostrannyi_yazyk_i_yazyk_delovogo_i_professtionalynogo_obscheniya_RPD.pdf",
+    "text": "Б1.О.01 Иностранный язык и язык делового и професстионального общения РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/B1.O.02_Informacionnoe_obschestvo_i_problemy_prikladnoi_informatiki_RPD_2026.pdf",
+    "text": "Б1.О.02_Информационное_общество_и_проблемы_прикладной_информатики_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B1.O.03_Metodologiya_i_texnologiya_proektirovaniya_informacionnyx_sistem_ASII_RPD_2026.pdf",
+    "text": "Б1.О.03 Методология и технология проектирования информационных систем_АСИИ_РПД_ 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiq/B1.O.04_Osnovy_nauchno-issledovatelyskoi_deyatelynosti_RPD(1).pdf",
+    "text": "Б1.О.04 Основы научно-исследовательской деятельности РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/B1.O.05_Arxitektura_predpriyatii_i_IS_RPD_2026.pdf",
+    "text": "Б1.О.05 Архитектура предприятий и ИС_РПД_ 2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B1.O.06_Upravlenie_IT-proektami-RPD(2).pdf",
+    "text": "Б1.О.06 Управление ИТ-проектами-РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/B1.O.07.01_MMiMPPR_mag_RPD_2026.pdf",
+    "text": "Б1.О.07.01_ММиМППР_маг_РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vig/B1.O.07.02_Sovr.texn_razrab._PO_mag_09.04.03_RPD_2026.pdf",
+    "text": "Б1.О.07.02 Совр.техн разраб. ПО маг 09.04.03 РПД_2026",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B1.O.08_Agrarnaya_politika_APK_i_osnovny_bezeghlivogo_proizvodstva_RPD.pdf",
+    "text": "Б1.О.08_ Аграрная политика АПК и основны безежливого производства РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/FTD.01_Upravlenie_informacionnymi_sistemami_RPD_PI_ASII.pdf",
+    "text": "ФТД.01_Управление информационными системами_РПД_ПИ_АСИИ",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/FTD.02_Upravlenie_IT_proektami_(prodvinutyi)_RPD(2).pdf",
+    "text": "ФТД.02_Управление_ИТ_проектами (продвинутый) _РПД",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.07.2026 15:04:25"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zib/B1.V.01_Texnologii_baz_dannyx_i_znanii_RPD.pdf",
+    "text": "Б1.В.01 Технологии_баз_данных_и_знаний РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiz/B1.V.02_Kompyyuternoe_zrenie_i_ego_arxitektury_RPD.pdf",
+    "text": "Б1.В.02 Компьютерное_зрение_и_его_архитектуры РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B1.V.03_Metody_upravleniya_znaniyami_i_prinyatiem_reshenii_v_APK_RPD.pdf",
+    "text": "Б1.В.03 Методы_управления_знаниями_и_принятием_решений_в_АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zid/B1.V.04_Arxitekturnoe_modelirovanie_RPD.pdf",
+    "text": "Б1.В.04 Архитектурное_моделирование РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziz/B1.V.05_Obrabotka_estestvennogo_yazyka_RPD.pdf",
+    "text": "Б1.В.05 Обработка_естественного_языка РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiu/B1.V.06_Instr_iskusst_intellekta_GIS_vAPK_RPD_2025_BR.pdf",
+    "text": "Б1.В.06_Инстр_искусст_интеллекта_ГИС_вАПК_РПД_2025_БР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 15:11:08"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zik/B1.V.07_Analiz_vizual_mnogomernyx_s_dannyx_RPD_2025BR.pdf",
+    "text": "Б1.В.07_Анализ_визуал_многомерных_с_данных_РПД_2025БР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 15:11:08"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zic/B1.V.08_Matematicheskie_osnovy_verifikacii_programmnogo_obespecheniya_RPD.pdf",
+    "text": "Б1.В.08 Математические основы верификации программного обеспечения РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zil/B1.V.09_Programma_DPO_SPECIALIST_PO_INFORMACIONNYM_SISTEMAM_09.04.03.pdf",
+    "text": "Б1.В.09 Программа ДПО «СПЕЦИАЛИСТ ПО ИНФОРМАЦИОННЫМ СИСТЕМАМ» 09.04.03",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vik/B1.V.09.01_Razrabotka_texnologii_integracii_IS_RPD(1).pdf",
+    "text": "Б1.В.09.01 Разработка_технологий_интеграции_ИС_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zig/B1.V.09.02_Optimizaciya_raboty_IS_s_pomoschyyu_II_RPD.pdf",
+    "text": "Б1.В.09.02 Оптимизация работы ИС с помощью ИИ_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.V.09.03_Obespech_kommerch_predl_RPD_1.pdf",
+    "text": "Б1.В.09.03 Обеспеч коммерч предл_РПД 1",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/auf/B1.V.09.04_(K)_PROGRAMMA_GIA_Specialist_po_informacionnym_sistemam.pdf",
+    "text": "Б1.В.09.04 (К) ПРОГРАММА_ГИА Специалист по информационным системам",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zii/B1.V.DV.01.01_Etika_i_filosofiya_II_RPD_.pdf",
+    "text": "Б1.В.ДВ.01.01 Этика и философия ИИ_ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.V.DV.01.02_Sredstva_raboty_v_komande_ASII_RPD_2025.pdf",
+    "text": "Б1.В.ДВ.01.02 Средства работы в команде_АСИИ_РПД_ 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rii/B1.V.DV.02.01_Optimizaciya_razvertyvaniya_i_ekspluatacii_sistem_iskusstvennogo_RPD.docx.pdf",
+    "text": "Б1.В.ДВ.02.01 Оптимизация_развертывания_и_эксплуатации_систем_искусственного_РПД.docx",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vie/B1.V.DV.02.02_Texnologii_iskusstvennogo_intellekta_v_kiberbezopasnosti_APK_RPD.pdf",
+    "text": "Б1.В.ДВ.02.02 Технологии искусственного интеллекта в кибербезопасности АПК РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aiu/B1.O.01_IYA_i_yazyk_del_i_prof_obsch_RPD(3).pdf",
+    "text": "Б1.О.01_ИЯ_и_язык_ дел_и_проф_общ_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rix/B1.O.02_Informacionnoe_obschestvo_i_problemy_prikladnoi_informatiki_RPD(2).pdf",
+    "text": "Б1.О.02_Информационное_общество_и_проблемы_прикладной_информатики РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "21.11.2025 12:53:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B1.O.03_Metodologiya_i_texnologiya_proektirovaniya_informacionnyx_sistem_ASII_RPD_2025.pdf",
+    "text": "Б1.О.03 Методология и технология проектирования информационных систем_АСИИ_РПД_ 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiw/B1.O.04_Osnovy_nauchno-issledovatelyskoi_deyatelynosti_RPD.pdf",
+    "text": "Б1.О.04 Основы научно-исследовательской деятельности РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B1.O.05_Arxitektura_predpriyatii_i_IS_RPD_2025.pdf",
+    "text": "Б1.О.05 Архитектура предприятий и ИС_РПД_ 2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.O.06_Upravlenie_IT-proektami-RPD.pdf",
+    "text": "Б1.О.06 Управление ИТ-проектами-РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/B1.O.07.01_MMiMPPR_mag_RPD_2025.pdf",
+    "text": "Б1.О.07.01_ММиМППР_маг_РПД_2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eib/B1.O.07.02_Sovr.texn_razrab._PO_mag_09.04.03_RPD.pdf",
+    "text": "Б1.О.07.02 Совр.техн разраб. ПО маг 09.04.03 РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rih/FTD.01_Upravlenie_informacionnymi_sistemami_RPD_PI_ASII_2025.pdf",
+    "text": "ФТД.01_Управление информационными системами_РПД_ПИ_АСИИ_2025",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eip/FTD.02_Upravlenie_IT_proektami_(prodvinutyi)_RPD.pdf",
+    "text": "ФТД.02_Управление_ИТ_проектами (продвинутый) _РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:54:58"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziu/B2.V.01.01_(P)_Preddiplomnaya_praktika_RP.pdf",
+    "text": "Б2.В.01.01 (П) Преддипломная практика РП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 14:57:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aid/B2.O.01.01(U)_Uchebnaya_oznakomitelynaya_praktika_RPP(7).pdf",
+    "text": "Б2.О.01.01(У) Учебная ознакомительная практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 14:57:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vib/B2.O.01.02(U)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_RPP.pdf",
+    "text": "Б2.О.01.02(У) Технологическая (проектно-технологическая) практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 14:57:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/B2.O.02.01(P)_Texnologicheskaya_(proektno_texnologicheskaya)_praktika_RPP(2).pdf",
+    "text": "Б2.О.02.01(П) Технологическая (проектно_технологическая) практика РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 14:57:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rij/B2.O.02.02.01(P)_Nauchno-issledovatelyskaya_rabota_RPP(2).pdf",
+    "text": "Б2.О.02.02.01(П) Научно-исследовательская работа РПП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "21.07.2026 14:57:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/B2.V.01.01(P)_Preddiplomnaya_praktika_RPP(2).pdf",
+    "text": "Б2.В.01.01(П) Преддипломная практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:56:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ziy/B2.O.01.01(U)_Uchebnaya_oznakomitelynaya_praktika_RPP(1).pdf",
+    "text": "Б2.О.01.01(У) Учебная ознакомительная практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:56:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B2.O.02.01(P)_Texnologicheskaya_(proektno_texnologicheskaya)_praktika_RPP.pdf",
+    "text": "Б2.О.02.01(П) Технологическая (проектно_технологическая) практика РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:56:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riq/B2.O.02.02.01(P)_Nauchno-issledovatelyskaya_rabota_RPP.pdf",
+    "text": "Б2.О.02.02.01(П) Научно-исследовательская работа РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:56:17"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/KUG_09.04.03(2).pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "22.09.2025 10:09:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ric/KUG_09.04.03(2).pdf",
+    "text": "График",
+    "year": 2024,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "22.09.2025 10:09:21"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zib/B3.02(D)_MU_po_VKR_09.04.03.pdf",
+    "text": "Б3.02(Д)_МУ по ВКР 09.04.03",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:58:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rig/B3.01(G)_Programma_GIA_09_04_03.pdf",
+    "text": "Б3.01(Г)_Программа_ГИА_09_04_03",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "04.03.2026 16:59:11"
+  }
+]

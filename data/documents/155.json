@@ -1,0 +1,382 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/tru/OPOP_25-26_magistry_.pdf",
+    "text": "ОПОП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "24.02.2026 13:10:53"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/05.04.04_AB_Gidromet.obespechenie_APK_2025.pdf",
+    "text": "Учебный план",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "26.06.2025 11:13:27"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vif/B1.V.01_Bioklimaticheskii_potencial_RPD.pdf",
+    "text": "Б1.В.01_Биоклиматический потенциал_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/B1.V.02_Klimaticheskaya_bezopasnosty_v_APK_RPD_-_PDF.pdf",
+    "text": "Б1.В.02_Климатическая безопасность в АПК_РПД - PDF",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/B1.V.03_KPiPP_RPD(1).pdf",
+    "text": "Б1.В.03_КПиПП_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vit/B1.V.04_Agromet_prognozy_RPD.pdf",
+    "text": "Б1.В.04_ Агромет_прогнозы РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riu/B1.V.05_Gidrol._raschety_i_prognozy_RPD_-_PDF.pdf",
+    "text": "Б1.В.05_Гидрол. расчеты и прогнозы РПД - PDF",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rie/B1.V.06_Analiz_riskov_RPD(1).pdf",
+    "text": "Б1.В.06 _Анализ_рисков_ РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zid/B1.V.07_Iskusstvennyi_intellekt_v_gidrometeorologicheskom_obespechenii_RPD.pdf",
+    "text": "Б1.В.07 «Искусственный интеллект в гидрометеорологическом обеспечении» РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viy/B1.V.08_Perspektivnye_metody_gidrom.nablyudenii_RPD_-_PDF.pdf",
+    "text": "Б1.В.08_Перспективные методы гидром.наблюдений_РПД - PDF",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/B1.V.11_Agrometeorolog_-_issledovately_RPD.pdf",
+    "text": "Б1.В.11 Агрометеоролог - исследователь РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/kek/B1.V.11.01_nauch_issled_selyxozmet_RPD.pdf",
+    "text": "Б1.В.11.01 науч исслед сельхозмет РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aii/B1.V.11.02_Agrometeorologicheskoe_obespechenie_rastenievodstva_RPD(1).pdf",
+    "text": "Б1.В.11.02_Агрометеорологическое обеспечение растениеводства_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B1.V.11.03Sovrem_metod_a-m_nablyud_RPD.pdf",
+    "text": "Б1.В.11.03Соврем метод а-м наблюд РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zie/B1.V.11.04(K)_Agrometeorolog-issledovately_(IGA_po_modulyu)_(1)_(2).pdf",
+    "text": "Б1.В.11.04(К) Агрометеоролог-исследователь (ИГА по модулю) (1) (2)",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aig/B1.V.DV.01.01_Teoriya_i_metodologiya_straxovaniya_riskov_RPD(1).pdf",
+    "text": "Б1.В.ДВ.01.01 Теория и методология страхования рисков РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vis/B1.V.DV.01.02_Straxovanie_selyskoxozyaistvennyx_kulytur_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Страхование сельскохозяйственных культур РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viv/B1.V.DV.02.01_Osnovy_upravleniya_personalom_RPD(2).pdf",
+    "text": "Б1.В.ДВ.02.01 Основы управления персоналом РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 13:24:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.V.DV.02.02_Rabota_s_malymi_gruppami_RPD(2).pdf",
+    "text": "Б1.В.ДВ.02.02 Работа с малыми группами РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 13:24:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eir/B1.V.DV.03.01_Inghenernaya_gidrologiya_RPD(1).pdf",
+    "text": "Б1.В.ДВ.03.01 Инженерная гидрология РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "03.06.2026 13:24:14"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eit/B1.V.DV.03.02_Inghenernaya_Klimatologiya_RPD_-_PDF.pdf",
+    "text": "Б1.В.ДВ.03.02_Инженерная Климатология_РПД - PDF",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/B1.O.01_Inostrannyi_yazyk_RPD(3).pdf",
+    "text": "Б1.О.01 Иностранный язык РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:25:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/B1.O.02_Filosofskie_problemy_estestvoznaniya_RPD_05.04.04(1).pdf",
+    "text": "Б1.О.02 Философские проблемы естествознания РПД 05.04.04",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:25:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ais/B1.O.03_GIS_RPD(3).pdf",
+    "text": "Б1.О.03_ГИС_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rin/B1.O.04_SOVREMENNYE_PROBLEMY_GM_RPD(1).pdf",
+    "text": "Б1.О.04_СОВРЕМЕННЫЕ ПРОБЛЕМЫ ГМ_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiq/B1.O.05_Usto_razv_RPD.pdf",
+    "text": "Б1.О.05 Усто разв РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zir/B1.O.06_ISTORIYA,_TEORIYA_I_METODOLOGIYA_GEOGRAFII_RPD.pdf",
+    "text": "Б1.О.06 _ИСТОРИЯ, ТЕОРИЯ И МЕТОДОЛОГИЯ ГЕОГРАФИИ_РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/riv/B1.O.07_Psixologiya_obscheniya_RPD(1).pdf",
+    "text": "Б1.О.07 Психология общения РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:25:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/viz/B1.O.08_VZAIM_ATMOSFERY,_LITOSFERY_I_GIDROSFERY_RPD_-_PDF.pdf",
+    "text": "Б1.О.08_ВЗАИМ АТМОСФЕРЫ, ЛИТОСФЕРЫ И ГИДРОСФЕРЫ_РПД - PDF",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rit/B1.O.09_Geoekologiya_mag._RPD.pdf",
+    "text": "Б1.О.09 Геоэкология маг. РПД",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "17.11.2025 16:25:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eiz/FTD.01_Ekologicheskaya_klimatologiya_RPD_-_PDF.pdf",
+    "text": "ФТД.01 Экологическая климатология РПД - PDF",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aix/FTD.02_Klimat_urban._terr-ii_RPD_-_PDF.pdf",
+    "text": "ФТД.02 Климат урбан. терр-ий РПД - PDF",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "20.02.2026 11:13:32"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/eio/B2.V.01.01(P)_PROIZV_PRED_PRAKTIKA_RPP(3).pdf",
+    "text": "Б2.В.01.01(П) _ПРОИЗВ ПРЕД ПРАКТИКА_РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.02.2026 13:10:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zij/B2.O.01.01(U)_NIR_(poluchenie_perv_navykov_NIR)_RPP(1).pdf",
+    "text": "Б2.О.01.01(У)_НИР (получение перв навыков НИР)_РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.02.2026 13:10:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/olo/B2.O.02.01(P)_NIR_RPP(6).pdf",
+    "text": "Б2.О.02.01(П)_НИР_РПП",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "24.02.2026 13:10:10"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aim/KUG_05.04.04(2).pdf",
+    "text": "График",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "07.09.2026 10:52:24"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aik/B3.02_MU_VKR.pdf",
+    "text": "Б3.02 МУ ВКР",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "24.02.2026 13:11:38"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/zio/B3.01(G)_GIA_RP_mag.pdf",
+    "text": "Б3.01(Г)_ГИА_РП_маг",
+    "year": 2025,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Формы аттестации",
+    "format": "PDF",
+    "signedAt": "24.02.2026 13:12:37"
+  }
+]

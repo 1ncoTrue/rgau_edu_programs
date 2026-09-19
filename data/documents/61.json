@@ -1,0 +1,762 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/OPOP_15.03.02_(bak.)_3_2023.pdf",
+    "text": "ОПОП",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": null
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/ain/15.03.02_23_KUG.pdf",
+    "text": "Учебный план",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "27.02.2026 14:46:50"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.01_ISTORIYA_ROSSII_.RPD_2023.pdf",
+    "text": "Б1.O.01 ИСТОРИЯ РОССИИ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.02_Filosofiya_RPD(48).pdf",
+    "text": "Б1.O.02 Философия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.09.2023 09:46:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.03_In.yaz._RPD_MiAPP_2023.pdf",
+    "text": "Б1.O.03 Ин.яз",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.09.2023 09:46:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/rif/B1.O.04_Bezopasnosty_ghiznedeyatelynosti_RPD(20).pdf",
+    "text": "Б1.O.04 Безопасность жизнедеятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "24.04.2024 13:47:51"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.05_Ek_teoriya_15.03.02_TMiO_gnp_2023_RPD.pdf",
+    "text": "Б1.O.05 Эк теория",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.06_Matematika_RPD_15.03.02_Texnologicheskie_mashiny_i_oborudovanie.pdf",
+    "text": "Б1.O.06 Математика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.07_Fizika_15.03.02_TTP_MiAPP_RPD_2023.pdf",
+    "text": "Б1.O.07 Физика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.08_Ximiya_LA_RPD_TMO_2023.pdf",
+    "text": "Б1.O.08 Химия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.10.01_Nachertatelynaya_geometriya_RPD(17).pdf",
+    "text": "Б1.O.10.01 Начертательная геометрия",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.10.2_Inghenernaya_grafika_RPD.pdf",
+    "text": "Б1.O.10.02 Инженерная графика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.11_Gidravlika_-_LARPD_2023.pdf",
+    "text": "Б1.O.11 Гидравлика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.12_TEPLOTEXNIKA_RPD_MAPP.pdf",
+    "text": "Б1.O.12 ТЕПЛОТЕХНИКА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.13_Materialovedenie_i_TKM_LA_RPD(6).pdf",
+    "text": "Б1.O.13 Материаловедение и ТКМ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.14_Metrologiya,_standartizaciya_i_podtverghdenie_sootvetstviya_LA_RPD.pdf",
+    "text": "Б1.O.14 Метрология, стандартизация и подтверждение соответствия ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.09.2023 09:46:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.15_Informatika_i_cifrovye_texnologii_RPD.pdf",
+    "text": "Б1.O.15 Информатика и цифровые технологии",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16.01_Teoreticheskaya_mexanika_LA_RPD.pdf",
+    "text": "Б1.O.16.01 Теоретическая механика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16.02_-_TEORIYA_MASHIN_I_MEXANIZMOV_LA_RPD_2023.pdf",
+    "text": "Б1.O.16.02 ТЕОРИЯ МАШИН И МЕХАНИЗМОВ",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.09.2023 09:46:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16.03_Soprotivlenie_materialov_LA_ochnoe_RP.pdf",
+    "text": "Б1.O.16.03 Сопротивление материалов",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.09.2023 09:46:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.16.04_Detali_mashin_i_osnovy_konstruirovaniya_LA_RPD_2023.pdf",
+    "text": "Б1.O.16.04 Детали машин и основы конструирования ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.17_Processy_i_apparaty_pischevyx_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.O.17 Процессы и аппараты пищевых производств ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.18_Osnovy_rascheta_i_konstruirovaniya_mashin_i_apparatov_pischevyx_proizvodstv_RPD_2023.pdf",
+    "text": "Б1.O.18 Основы расчета и конструирования машин и аппаратов пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.19_Kulytura_rechi_i_delovoe_obschenie_LA_RPD.pdf",
+    "text": "Б1.O.19 Культура речи и деловое общение",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.20_Osnovy_texnologii_mashinostroeniya_LA_RPD.pdf",
+    "text": "Б1.O.20 Основы технологии машиностроения",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.21_Elektrotexnika,_elektroprivod_i_elektrooborudovanie_LA_RPD.pdf",
+    "text": "Б1.O.21 Электротехника, электропривод и электрооборудование",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.22_FKS_LA_RPD_2023_g._15.03.02.pdf",
+    "text": "Б1.O.22 ФКС ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.23_Texnicheskoe_regulirovanie_RPD_2023.pdf",
+    "text": "Б1.O.23 Техническое регулирование",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.24_Mashinovedenie_RPD_2023.pdf",
+    "text": "Б1.O.24 Машиноведение",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.25_Inghenernaya_reologiya_LA_RPD_2023.pdf",
+    "text": "Б1.O.25 Инженерная реология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.26_Osnovy_professionalynoy_deyatelynosti_RPD_2023.pdf",
+    "text": "Б1.O.26 Основы профессиональной деятельности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.27_Pravovedenie_RPD_.pdf",
+    "text": "Б1.O.27 Правоведение",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.28_Psixologiya_RPD(1).pdf",
+    "text": "Б1.O.28 Психология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.29_EiOP_Texnologicheskie_mashiny_i_oborudovanie_MiA_LA_RPD_2023.pdf",
+    "text": "Б1.O.29 ЭиОП Технологические машины и оборудование",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.31_Osnovy_rossiyskoy_gosudarstvennosti_RPD.pdf",
+    "text": "Б1.O.31 Основы российской государственности",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.DV.01.01_BFK_LA_RPD_2023_g._15.03.02.pdf",
+    "text": "Б1.O.ДВ.01.01 БФК ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.O.DV.01.02_BVS_LA_RPD_2023_g._15.03.02.pdf",
+    "text": "Б1.O.ДВ.01.02 БВС ЛА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.01_Teoriya_texnologicheskogo_potoka_RPD_2023.pdf",
+    "text": "Б1.В.01 Теория технологического потока",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.02_Sistemy_upravleniya_texnologicheskimi_processami_pischevyx_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.В.02 Системы управления технологическими процессами пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.03_Diagnostika_i_servisnoe_obslughivanie_mashin_i_apparatov_pischevyx_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.В.03 Диагностика и сервисное обслуживание машин и аппаратов пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.04_Texnologicheskoe_oborudovanie_razborki_selyskoxozyaystvennogo_syryya_RPD_2023.pdf",
+    "text": "Б1.В.04 Технологическое оборудование разборки сельскохозяйственного сырья",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.05_Texnologicheskoe_oborudovanie_sborki_produktov_pitaniya_RPD_2023.pdf",
+    "text": "Б1.В.05 Технологическое оборудование сборки продуктов питания",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.06_Texnologicheskoe_oborudovanie_kombinirovannoy_pererabotki_selyskoxozyaystvennoy_produkcii_RPD_2023.pdf",
+    "text": "Б1.В.06 Технологическое оборудование комбинированной переработки сельскохозяйственной продукции",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.07_Texnologicheskoe_oborudovanie_dlya_upakovki_pischevyx_produktov_RPD_2023.pdf",
+    "text": "Б1.В.07 Технологическое оборудование для упаковки пищевых продуктов",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.08_Xolodilynaya_texnika_i_texnologiya_LA_RPD_2023.pdf",
+    "text": "Б1.В.08 Холодильная техника и технология",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.09_Montagh,_ekspluataciya_i_remont_mashin_LA_RPD_2023.pdf",
+    "text": "Б1.В.09 Монтаж, эксплуатация и ремонт машин",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.10-Texnika_pischevyx_proizvodstv_malyx_predpriyatiy_LA_RPD_2023.pdf",
+    "text": "Б1.В.10 Техника пищевых производств малых предприятий",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.11-Fiziko-mexanicheskie_svoystva_i_metody_obrabotki_pischevogo_syryya_LA_RPD_2023.pdf",
+    "text": "Б1.В.11 Физико-механические свойства и методы обработки пищевого сырья",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.12_Soorugheniya_i_oborudovnaie_dlya_xraneniya_selyskoxozyaystvennoy_produkcii_LA_RPD_2023.pdf",
+    "text": "Б1.В.12 Сооружения и оборудовнаие для хранения сельскохозяйственной продукции",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.13_Sistemnyy_analiz_pererabatyvayuschix_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.В.13 Системный анализ перерабатывающих производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.14_Fiziko-ximicheksie_i_bioximicheskie_osnovy_proizvodstva_pischevyx_produktov_LA_RPD.pdf",
+    "text": "Б1.В.14 Физико-химичексие и биохимические основы производства пищевых продуктов",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.01.01_Osnovy_texnologii_pischevyx_proizvodstv15.03.02_2023_RPD.pdf",
+    "text": "Б1.В.ДВ.01.01 Основы технологии пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.01.02_Obschie_principy_pererabotki_selyskoxozyaistvennogo_syryya_15.03.02_2023_RPD.pdf",
+    "text": "Б1.В.ДВ.01.02 Общие принципы переработки сельскохозяйственного сырья",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.01.2024 15:59:46"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.01_Transportnye_sistemy_pischevyx_proizvodstv_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.02.01 Транспортные системы пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.02.02_Elektromexanicheskie_i_mexatronnye_sistemy_pischevyx_mashin_LA_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.02.02 Электромеханические и мехатронные системы пищевых машин",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.01_Kompyyuternoe_proektirovanie_Autocad_RPD(1).pdf",
+    "text": "Б1.В.ДВ.03.01 Компьютерное проектирование Autocad",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.09.2023 09:46:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.03.02_Kompyyuternoe_proektirovanie_Kompas_RPD(1).pdf",
+    "text": "Б1.В.ДВ.03.02 Компьютерное проектирование Компас",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "19.09.2023 09:46:42"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.04.01_Oborudovanie_reciklinga_pischevyx_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.04.01 Оборудование рециклинга пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.04.02_Oborudovanie_dlya_regeneracii_vtorichnyx_resursov_pischevyx_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.04.02 Оборудование для регенерации вторичных ресурсов пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.05.01_Vibracionnaya_texnika_i_texnologiya_pischevyx_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.05.01 Вибрационная техника и технология пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.05.02_Sublimacionnaya_texnika_pischevyx_proizvodstv_LA_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.05.02 Сублимационная техника пищевых производств",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.06.01_Sistemy_processov_i_mashin_pererabatyvayuschix_i_pischevyx_texnologiy_LA_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.06.01 Системы процессов и машин перерабатывающих и пищевых технологий",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B1.V.DV.06.02_Sistemnoe_razvitie_texniki_pischevyx_texnologiy_LA_RPD_2023.pdf",
+    "text": "Б1.В.ДВ.06.02 Системное развитие техники пищевых технологий",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.01_Osnovy_podobiya_texnologicheskix_processov_pererabotki_syryya_ghivotnogo_proisxoghdeniya_RPD_2023.pdf",
+    "text": "ФТД.01 Основы подобия технологических процессов переработки сырья животного происхождения",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/FTD.02_Osnovy_podobiya_texnologicheskix_processov_pererabotki_syryya_rastitelynogo_proisxoghdeniya_RPD_2023.pdf",
+    "text": "ФТД.02 Основы подобия технологических процессов переработки сырья растительного происхождения",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "discipline",
+    "section": "Рабочие программы дисциплин",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:34:05"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.01.01(U)_Oznakomitelynaya_praktika_RPP_2023.pdf",
+    "text": "Б2.O.01.01(У) Ознакомительная практика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:36:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.O.02.01_(P)_Texnologicheskaya_(proektno-texnologicheskaya)_praktika_RPD_2023.pdf",
+    "text": "Б2.O.02.01 (П) Технологическая (проектно-технологическая) практика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:36:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/B2.V.01.01(P)_Preddiplomnaya_praktika_RPP_2023.pdf",
+    "text": "Б2.В.01.01(П) Преддипломная практика",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "practice",
+    "section": "Практики",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:36:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vip/KUG_15.03.02.pdf",
+    "text": "График",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "02.09.2026 16:37:01"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/MU_k_VKR_15.03.02_2023.pdf",
+    "text": "МУ к ВКР 15.03.02 2023",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:38:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/MU_k_KP_Osnovy_rascheta_i_konstruirovaniya_mashin_i_apparatov_pischevyx_proizvodstv_2023.pdf",
+    "text": "МУ к КП_Основы расчета и конструирования машин и аппаратов пищевых производств 2023",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:38:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/MU_k_KP_Processy_i_apparaty_pischevyx_proizvodstv_2023.pdf",
+    "text": "МУ к КП_Процессы и аппараты пищевых производств 2023",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:38:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/MU_k_KP_Texnologicheskoe_oborudovanie_sborki_produktov_pitaniya_2023.pdf",
+    "text": "МУ к КП_Технологическое оборудование сборки продуктов питания 2023",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:38:00"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/GIA_2023_15.03.02_MAPP.pdf",
+    "text": "Программа ГИА",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Методические и иные документы",
+    "format": "PDF",
+    "signedAt": "26.10.2023 11:38:37"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/RP_Vospitaniya_2023(29).pdf",
+    "text": "РП Воспитания",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Рабочая программа воспитания",
+    "format": "PDF",
+    "signedAt": "18.12.2023 11:43:52"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/Kalendarnyy_plan_vospitatelynoy_raboty(29).pdf",
+    "text": "Календарный план воспитательной работы",
+    "year": 2023,
+    "form": "Очная",
+    "kind": "other",
+    "section": "Календарный план воспитательной работы",
+    "format": "PDF",
+    "signedAt": "18.12.2023 11:44:35"
+  }
+]

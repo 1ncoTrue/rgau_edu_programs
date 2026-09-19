@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.timacad.ru/sveden/files/eic/OPOP_VO_35.03.07_2026.pdf",
+    "text": "ОПОП",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "description",
+    "section": "Описание образовательной программы",
+    "format": "PDF",
+    "signedAt": "14.07.2026 14:27:03"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/aia/35.03.07_PXPSP_2026.plx.pdf",
+    "text": "Учебный план",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "plan",
+    "section": "Учебный план",
+    "format": "PDF",
+    "signedAt": "29.06.2026 15:55:23"
+  },
+  {
+    "url": "https://www.timacad.ru/sveden/files/vix/KUG_35.03.07(3).pdf",
+    "text": "График",
+    "year": 2026,
+    "form": "Очная",
+    "kind": "calendar",
+    "section": "Календарный учебный график",
+    "format": "PDF",
+    "signedAt": "02.09.2026 16:56:27"
+  }
+]
